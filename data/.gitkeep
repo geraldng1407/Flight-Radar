@@ -1,0 +1,2 @@
+# This file ensures the data directory exists in the repository
+# flights.csv will be created by the fetch_flights.py script

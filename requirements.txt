@@ -1,0 +1,17 @@
+# Flight Explorer Dashboard Dependencies
+# Python 3.10+
+
+# Web Framework
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=2.0.0
+
+# API Client
+google-search-results>=2.4.2
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# HTTP Requests (fallback)
+requests>=2.31.0
