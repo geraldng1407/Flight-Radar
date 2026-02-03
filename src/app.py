@@ -15,6 +15,7 @@ import hashlib
 import os
 import pandas as pd
 import streamlit as st
+import plotly.graph_objects as go
 from pathlib import Path
 from datetime import datetime
 from urllib.parse import quote
@@ -30,6 +31,7 @@ st.set_page_config(
 # Paths
 PROJECT_ROOT = Path(__file__).parent.parent
 FLIGHTS_CSV = PROJECT_ROOT / "data" / "flights.csv"
+PRICE_HISTORY_CSV = PROJECT_ROOT / "data" / "price_history.csv"
 WISHLIST_JSON = PROJECT_ROOT / "data" / "wishlist.json"
 
 
@@ -431,6 +433,104 @@ def show_flight_modal(flight: pd.Series) -> None:
     with col2:
         st.metric("Previous Price", f"${float(previous_price):,.0f}",
                   delta=f"${float(price_diff):,.0f}" if price_diff != 0 else None)
+
+    st.markdown("---")
+
+    # Price History Chart section
+    st.markdown("### 📈 Price History")
+    try:
+        if PRICE_HISTORY_CSV.exists():
+            history_df = pd.read_csv(PRICE_HISTORY_CSV)
+            # Filter by composite key: destination + travel_duration + start_date
+            flight_history = history_df[
+                (history_df["destination"] == destination) &
+                (history_df["travel_duration"] == travel_duration) &
+                (history_df["start_date"] == start_date)
+            ].copy()
+
+            if not flight_history.empty and len(flight_history) > 0:
+                # Sort by fetched_at timestamp
+                flight_history["fetched_at"] = pd.to_datetime(flight_history["fetched_at"])
+                flight_history = flight_history.sort_values("fetched_at")
+
+                # Calculate price changes for coloring markers
+                flight_history["price_change"] = flight_history["price"].diff().fillna(0)
+
+                # Create color list: green for drops, red for increases, blue for no change/first
+                colors = []
+                for i, change in enumerate(flight_history["price_change"]):
+                    if i == 0:
+                        colors.append("#007bff")  # Blue for first point
+                    elif change < 0:
+                        colors.append("#28a745")  # Green for price drop
+                    elif change > 0:
+                        colors.append("#dc3545")  # Red for price increase
+                    else:
+                        colors.append("#6c757d")  # Gray for no change
+
+                # Create plotly figure
+                fig = go.Figure()
+                fig.add_trace(go.Scatter(
+                    x=flight_history["fetched_at"],
+                    y=flight_history["price"],
+                    mode="lines+markers",
+                    line=dict(color="#1a1a2e", width=2),
+                    marker=dict(size=10, color=colors, line=dict(width=2, color="white")),
+                    hovertemplate="<b>%{x|%b %d, %Y %H:%M}</b><br>Price: $%{y:,.0f}<extra></extra>",
+                    name="Price"
+                ))
+
+                # Add min/max annotations if multiple data points
+                if len(flight_history) > 1:
+                    min_price = flight_history["price"].min()
+                    max_price = flight_history["price"].max()
+                    min_row = flight_history[flight_history["price"] == min_price].iloc[0]
+                    max_row = flight_history[flight_history["price"] == max_price].iloc[0]
+
+                    fig.add_annotation(
+                        x=min_row["fetched_at"], y=min_price,
+                        text=f"Low: ${min_price:,.0f}",
+                        showarrow=True, arrowhead=2, arrowcolor="#28a745",
+                        font=dict(color="#28a745", size=10),
+                        ax=0, ay=-30
+                    )
+                    if max_price != min_price:
+                        fig.add_annotation(
+                            x=max_row["fetched_at"], y=max_price,
+                            text=f"High: ${max_price:,.0f}",
+                            showarrow=True, arrowhead=2, arrowcolor="#dc3545",
+                            font=dict(color="#dc3545", size=10),
+                            ax=0, ay=30
+                        )
+
+                fig.update_layout(
+                    xaxis_title="Date",
+                    yaxis_title="Price (SGD)",
+                    height=280,
+                    margin=dict(l=0, r=0, t=10, b=0),
+                    hovermode="x unified",
+                    showlegend=False,
+                    xaxis=dict(showgrid=True, gridcolor="#f0f0f0"),
+                    yaxis=dict(showgrid=True, gridcolor="#f0f0f0", tickprefix="$")
+                )
+
+                st.plotly_chart(fig, use_container_width=True)
+
+                # Show summary stats
+                if len(flight_history) > 1:
+                    col1, col2, col3 = st.columns(3)
+                    with col1:
+                        st.caption(f"🟢 Lowest: ${min_price:,.0f}")
+                    with col2:
+                        st.caption(f"🔴 Highest: ${max_price:,.0f}")
+                    with col3:
+                        st.caption(f"📊 Data points: {len(flight_history)}")
+            else:
+                st.info("📭 No price history available yet. Check back after the next data refresh!")
+        else:
+            st.info("📭 No price history available yet. Check back after the next data refresh!")
+    except Exception as e:
+        st.warning(f"Could not load price history: {e}")
 
     st.markdown("---")
 

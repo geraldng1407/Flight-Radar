@@ -1,0 +1,1335 @@
+destination,price,start_date,end_date,travel_duration,month,airline,stops,fetched_at
+"Bangkok, Thailand",159.0,2026-05-07,2026-05-11,Weekend,Flexible (All),Thai Lion Air,0,2026-02-03T15:14:14.586325
+"Hanoi, Vietnam",208.0,2026-04-16,2026-04-19,Weekend,Flexible (All),Scoot and Vietjet,0,2026-02-03T15:14:14.586360
+"Federal Territory of Kuala Lumpur, Malaysia",114.0,2026-04-16,2026-04-20,Weekend,Flexible (All),Scoot,0,2026-02-03T15:14:14.586366
+"Hong Kong, Hong Kong",290.0,2026-06-11,2026-06-15,Weekend,Flexible (All),Scoot,0,2026-02-03T15:14:14.586371
+"Hội An, Vietnam",186.0,2026-04-16,2026-04-20,Weekend,Flexible (All),Vietjet,0,2026-02-03T15:14:14.586376
+"Ho Chi Minh City, Vietnam",152.0,2026-03-05,2026-03-08,Weekend,Flexible (All),Vietjet,0,2026-02-03T15:14:14.586381
+"Hạ Long Bay, Vietnam",208.0,2026-04-16,2026-04-19,Weekend,Flexible (All),Scoot and Vietjet,0,2026-02-03T15:14:14.586386
+"Tokyo, Japan",395.0,2026-06-26,2026-06-29,Weekend,Flexible (All),Scoot and ZIPAIR Tokyo,0,2026-02-03T15:14:14.586391
+"Mumbai, India",203.0,2026-03-28,2026-03-30,Weekend,Flexible (All),Air India and Air India Express,2,2026-02-03T15:14:14.586396
+"New Delhi, India",306.0,2026-07-16,2026-07-20,Weekend,Flexible (All),"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:14.586407
+"Dubai, United Arab Emirates",544.0,2026-03-19,2026-03-23,Weekend,Flexible (All),Gulf Air,1,2026-02-03T15:14:14.586412
+"Kyoto, Japan",365.0,2026-06-25,2026-06-29,Weekend,Flexible (All),Peach Aviation,0,2026-02-03T15:14:14.586416
+"Chiang Mai, Thailand",282.0,2026-05-23,2026-05-25,Weekend,Flexible (All),Thai Lion Air and Scoot,1,2026-02-03T15:14:14.586420
+"Jaipur, India",281.0,2026-02-28,2026-03-02,Weekend,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:14.586425
+"Phuket, Thailand",159.0,2026-05-14,2026-05-18,Weekend,Flexible (All),Scoot,0,2026-02-03T15:14:14.586429
+"Seoul, South Korea",317.0,2026-03-05,2026-03-09,Weekend,Flexible (All),"AirAsia, AirAsia X, and Scoot",1,2026-02-03T15:14:14.586433
+"Goa, India",276.0,2026-03-12,2026-03-15,Weekend,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:14.586438
+"Beijing, China",294.0,2026-06-25,2026-06-29,Weekend,Flexible (All),China Southern and Chongqing Airlines,1,2026-02-03T15:14:14.586442
+"Osaka, Japan",365.0,2026-06-25,2026-06-29,Weekend,Flexible (All),Peach Aviation,0,2026-02-03T15:14:14.586446
+"Shanghai, China",291.0,2026-03-05,2026-03-08,Weekend,Flexible (All),Spring,0,2026-02-03T15:14:14.586450
+"Bengaluru, India",292.0,2026-03-19,2026-03-22,Weekend,Flexible (All),IndiGo,1,2026-02-03T15:14:14.586455
+"Abu Dhabi, United Arab Emirates",544.0,2026-03-19,2026-03-23,Weekend,Flexible (All),Gulf Air,1,2026-02-03T15:14:14.586459
+"Chennai, India",204.0,2026-07-17,2026-07-19,Weekend,Flexible (All),Scoot,0,2026-02-03T15:14:14.586463
+"Varanasi, India",324.0,2026-04-09,2026-04-12,Weekend,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:14.586467
+"Agra, India",306.0,2026-07-16,2026-07-20,Weekend,Flexible (All),"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:14.586471
+"Udaipur, India",311.0,2026-02-26,2026-03-02,Weekend,Flexible (All),Air India,1,2026-02-03T15:14:14.586474
+"Da Nang, Vietnam",186.0,2026-04-16,2026-04-20,Weekend,Flexible (All),Vietjet,0,2026-02-03T15:14:14.586479
+"Ko Samui, Thailand",330.0,2026-04-23,2026-04-26,Weekend,Flexible (All),Scoot,0,2026-02-03T15:14:14.586483
+"Kolkata, India",244.0,2026-03-12,2026-03-16,Weekend,Flexible (All),IndiGo,0,2026-02-03T15:14:14.586488
+"Taipei City, Taiwan",192.0,2026-02-12,2026-02-16,Weekend,Flexible (All),Scoot,0,2026-02-03T15:14:14.586492
+"Kochi, India",572.0,2026-02-14,2026-02-16,Weekend,Flexible (All),Air India and Batik Air,1,2026-02-03T15:14:14.586496
+"Kathmandu, Nepal",550.0,2026-03-05,2026-03-09,Weekend,Flexible (All),Air India and Thai Lion Air,1,2026-02-03T15:14:14.586500
+"Manila, Philippines",178.0,2026-06-18,2026-06-22,Weekend,Flexible (All),Cebu Pacific,0,2026-02-03T15:14:14.586504
+"Bahrain, Bahrain",771.0,2026-02-20,2026-02-23,Weekend,Flexible (All),Etihad,1,2026-02-03T15:14:14.586508
+"Macao, Macao",292.0,2026-07-11,2026-07-12,Weekend,Flexible (All),Thai Lion Air,1,2026-02-03T15:14:14.586511
+"Hyderabad, India",235.0,2026-02-26,2026-03-02,Weekend,Flexible (All),IndiGo,0,2026-02-03T15:14:14.586515
+"Shimla, India",300.0,2026-05-21,2026-05-24,Weekend,Flexible (All),Air India,1,2026-02-03T15:14:14.586519
+"Pattaya City, Thailand",159.0,2026-05-07,2026-05-11,Weekend,Flexible (All),Thai Lion Air,0,2026-02-03T15:14:14.586523
+"Phi Phi Islands, Thailand",159.0,2026-05-14,2026-05-18,Weekend,Flexible (All),Scoot,0,2026-02-03T15:14:14.586527
+"Rishikesh, India",329.0,2026-05-21,2026-05-24,Weekend,Flexible (All),Air India,1,2026-02-03T15:14:14.586531
+"Manali, India",300.0,2026-05-21,2026-05-24,Weekend,Flexible (All),Air India,1,2026-02-03T15:14:14.586535
+"Jodhpur, India",310.0,2026-05-14,2026-05-18,Weekend,Flexible (All),Air India,1,2026-02-03T15:14:14.586539
+"Munnar, India",572.0,2026-02-14,2026-02-16,Weekend,Flexible (All),Air India and Batik Air,1,2026-02-03T15:14:14.586543
+"Phú Quốc, Vietnam",185.0,2026-05-09,2026-05-11,Weekend,Flexible (All),Vietjet,0,2026-02-03T15:14:14.586550
+"Ranthambore National Park, India",281.0,2026-02-28,2026-03-02,Weekend,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:14.586554
+"Colombo, Sri Lanka",353.0,2026-03-12,2026-03-16,Weekend,Flexible (All),Air India and AirAsia,1,2026-02-03T15:14:14.586558
+"Puducherry, India",204.0,2026-07-17,2026-07-19,Weekend,Flexible (All),Scoot,0,2026-02-03T15:14:14.586563
+"Sapporo, Japan",566.0,2026-04-23,2026-04-27,Weekend,Flexible (All),Scoot and T'Way Air,1,2026-02-03T15:14:14.586570
+"Chengdu, China",311.0,2026-07-02,2026-07-06,Weekend,Flexible (All),"AirAsia, AirAsia X, and Thai Lion Air",1,2026-02-03T15:14:14.586575
+"Xi'An, China",356.0,2026-05-02,2026-05-04,Weekend,Flexible (All),Scoot,0,2026-02-03T15:14:14.586581
+"Boracay, Philippines",244.0,2026-07-10,2026-07-13,Weekend,Flexible (All),Cebu Pacific,1,2026-02-03T15:14:14.586585
+"Cebu City, Philippines",186.0,2026-06-25,2026-06-28,Weekend,Flexible (All),Cebu Pacific,0,2026-02-03T15:14:14.586590
+"Kaziranga National Park, India",339.0,2026-03-27,2026-03-29,Weekend,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:14.586594
+"Guwahati, India",339.0,2026-03-27,2026-03-29,Weekend,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:14.586599
+"Tashkent, Uzbekistan",665.0,2026-07-04,2026-07-06,Weekend,Flexible (All),AirAsia and AirAsia X,1,2026-02-03T15:14:14.586604
+"Niseko, Japan",566.0,2026-04-23,2026-04-27,Weekend,Flexible (All),Scoot and T'Way Air,1,2026-02-03T15:14:14.586608
+"Almaty, Kazakhstan",742.0,2026-07-03,2026-07-06,Weekend,Flexible (All),Thai AirAsia and Thai AirAsia X,1,2026-02-03T15:14:14.586612
+"Guam, Guam",686.0,2026-02-05,2026-02-08,Weekend,Flexible (All),Philippine Airlines,1,2026-02-03T15:14:14.586616
+"Tehran, Iran",1247.0,2026-03-05,2026-03-08,Weekend,Flexible (All),XiamenAir and Qatar Airways,2,2026-02-03T15:14:14.586621
+"Ras Al-Khaimah, United Arab Emirates",544.0,2026-03-19,2026-03-23,Weekend,Flexible (All),Gulf Air,1,2026-02-03T15:14:14.586625
+"Harbin, China",314.0,2026-05-01,2026-05-04,Weekend,Flexible (All),China Southern,1,2026-02-03T15:14:14.586629
+"Ulaanbaatar, Mongolia",630.0,2026-03-05,2026-03-08,Weekend,Flexible (All),Jeju Air,1,2026-02-03T15:14:14.586634
+"Khiva, Uzbekistan",1269.0,2026-02-05,2026-02-09,Weekend,Flexible (All),Turkish Airlines,1,2026-02-03T15:14:14.586640
+"Furano, Japan",566.0,2026-04-23,2026-04-26,Weekend,Flexible (All),Scoot and T'Way Air,1,2026-02-03T15:14:14.586644
+"Issyk Kul, Kyrgyzstan",776.0,2026-07-17,2026-07-20,Weekend,Flexible (All),Thai AirAsia and Thai AirAsia X,1,2026-02-03T15:14:14.586649
+"Asahikawa, Japan",566.0,2026-04-23,2026-04-26,Weekend,Flexible (All),Scoot and T'Way Air,1,2026-02-03T15:14:14.586654
+"Ürümqi, China",533.0,2026-03-06,2026-03-08,Weekend,Flexible (All),Shandong,1,2026-02-03T15:14:14.586658
+"Khuvsgul Lake, Mongolia",2519.0,2026-02-19,2026-02-23,Weekend,Flexible (All),"China Southern, Korean Air, and MIAT",3,2026-02-03T15:14:14.586663
+"Padang, Indonesia",193.0,2026-03-07,2026-03-09,Weekend,Flexible (All),Scoot,0,2026-02-03T15:14:14.586667
+"Gorkhi Terelj National Park, Mongolia",630.0,2026-03-05,2026-03-08,Weekend,Flexible (All),Jeju Air,1,2026-02-03T15:14:14.586671
+"Tokyo, Japan",362.0,2026-04-30,2026-05-08,1 Week,Flexible (All),Scoot and ZIPAIR Tokyo,0,2026-02-03T15:14:26.940137
+"Seoul, South Korea",298.0,2026-03-05,2026-03-11,1 Week,Flexible (All),"Jeju Air, AirAsia, and AirAsia X",1,2026-02-03T15:14:26.940157
+"Hanoi, Vietnam",200.0,2026-04-16,2026-04-22,1 Week,Flexible (All),Scoot,0,2026-02-03T15:14:26.940163
+"Taipei City, Taiwan",192.0,2026-02-09,2026-02-16,1 Week,Flexible (All),Scoot,0,2026-02-03T15:14:26.940167
+"Kyoto, Japan",355.0,2026-04-27,2026-05-06,1 Week,Flexible (All),"AirAsia, AirAsia X, and Peach Aviation",1,2026-02-03T15:14:26.940171
+"Hong Kong, Hong Kong",281.0,2026-05-14,2026-05-21,1 Week,Flexible (All),Scoot,0,2026-02-03T15:14:26.940175
+"Hạ Long Bay, Vietnam",200.0,2026-04-09,2026-04-16,1 Week,Flexible (All),Scoot,0,2026-02-03T15:14:26.940180
+"Osaka, Japan",355.0,2026-04-27,2026-05-06,1 Week,Flexible (All),"AirAsia, AirAsia X, and Peach Aviation",1,2026-02-03T15:14:26.940185
+"Bangkok, Thailand",149.0,2026-05-07,2026-05-13,1 Week,Flexible (All),Thai Lion Air,0,2026-02-03T15:14:26.940190
+"Ho Chi Minh City, Vietnam",152.0,2026-02-27,2026-03-08,1 Week,Flexible (All),Vietjet,0,2026-02-03T15:14:26.940195
+"Mumbai, India",324.0,2026-02-09,2026-02-16,1 Week,Flexible (All),IndiGo,0,2026-02-03T15:14:26.940199
+"New Delhi, India",306.0,2026-07-13,2026-07-20,1 Week,Flexible (All),"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:26.940203
+"Federal Territory of Kuala Lumpur, Malaysia",100.0,2026-02-23,2026-03-04,1 Week,Flexible (All),AirAsia,0,2026-02-03T15:14:26.940207
+"Dubai, United Arab Emirates",480.0,2026-02-21,2026-03-02,1 Week,Flexible (All),IndiGo and Air India,1,2026-02-03T15:14:26.940211
+"Chiang Mai, Thailand",271.0,2026-07-27,2026-08-05,1 Week,Flexible (All),Thai Lion Air and Scoot,1,2026-02-03T15:14:26.940215
+"Jaipur, India",291.0,2026-02-23,2026-03-04,1 Week,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:26.940219
+"Phuket, Thailand",144.0,2026-02-23,2026-03-04,1 Week,Flexible (All),Scoot,0,2026-02-03T15:14:26.940223
+"Goa, India",261.0,2026-04-09,2026-04-16,1 Week,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:26.940227
+"Beijing, China",318.0,2026-04-27,2026-05-03,1 Week,Flexible (All),China Southern and Chongqing Airlines,1,2026-02-03T15:14:26.940231
+"Hội An, Vietnam",186.0,2026-04-11,2026-04-20,1 Week,Flexible (All),Vietjet,0,2026-02-03T15:14:26.940236
+"Shanghai, China",273.0,2026-04-27,2026-05-05,1 Week,Flexible (All),Spring,0,2026-02-03T15:14:26.940240
+"Bengaluru, India",248.0,2026-03-12,2026-03-21,1 Week,Flexible (All),IndiGo,0,2026-02-03T15:14:26.940244
+"Abu Dhabi, United Arab Emirates",480.0,2026-02-21,2026-03-02,1 Week,Flexible (All),IndiGo and Air India,1,2026-02-03T15:14:26.940248
+"Chennai, India",203.0,2026-03-12,2026-03-19,1 Week,Flexible (All),IndiGo,0,2026-02-03T15:14:26.940251
+"Varanasi, India",324.0,2026-05-04,2026-05-12,1 Week,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:26.940255
+"Agra, India",306.0,2026-07-13,2026-07-20,1 Week,Flexible (All),"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:26.940259
+"Udaipur, India",311.0,2026-02-23,2026-03-02,1 Week,Flexible (All),Air India,1,2026-02-03T15:14:26.940263
+"Ko Samui, Thailand",339.0,2026-03-22,2026-03-30,1 Week,Flexible (All),Scoot,0,2026-02-03T15:14:26.940267
+"Kolkata, India",244.0,2026-03-23,2026-03-31,1 Week,Flexible (All),IndiGo,0,2026-02-03T15:14:26.940271
+"Kochi, India",267.0,2026-03-30,2026-04-07,1 Week,Flexible (All),Air India,1,2026-02-03T15:14:26.940275
+"Kathmandu, Nepal",500.0,2026-03-02,2026-03-11,1 Week,Flexible (All),Air India and Thai Lion Air,1,2026-02-03T15:14:26.940278
+"Manila, Philippines",192.0,2026-06-18,2026-06-26,1 Week,Flexible (All),Cebu Pacific,0,2026-02-03T15:14:26.940282
+"Bahrain, Bahrain",804.0,2026-02-15,2026-02-24,1 Week,Flexible (All),Gulf Air,0,2026-02-03T15:14:26.940286
+"Macao, Macao",285.0,2026-07-05,2026-07-14,1 Week,Flexible (All),Thai Lion Air,1,2026-02-03T15:14:26.940290
+"Hyderabad, India",235.0,2026-02-26,2026-03-05,1 Week,Flexible (All),IndiGo,0,2026-02-03T15:14:26.940294
+"Da Nang, Vietnam",186.0,2026-04-11,2026-04-20,1 Week,Flexible (All),Vietjet,0,2026-02-03T15:14:26.940298
+"Shimla, India",300.0,2026-05-21,2026-05-27,1 Week,Flexible (All),Air India,1,2026-02-03T15:14:26.940303
+"Phi Phi Islands, Thailand",143.0,2026-03-07,2026-03-14,1 Week,Flexible (All),Thai Lion Air,0,2026-02-03T15:14:26.940307
+"Rishikesh, India",306.0,2026-07-13,2026-07-22,1 Week,Flexible (All),"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:26.940310
+"Manali, India",300.0,2026-05-21,2026-05-27,1 Week,Flexible (All),Air India,1,2026-02-03T15:14:26.940314
+"Jodhpur, India",316.0,2026-04-30,2026-05-07,1 Week,Flexible (All),Air India,1,2026-02-03T15:14:26.940318
+"Munnar, India",267.0,2026-03-30,2026-04-07,1 Week,Flexible (All),Air India,1,2026-02-03T15:14:26.940322
+"Phú Quốc, Vietnam",175.0,2026-05-10,2026-05-16,1 Week,Flexible (All),Vietjet,0,2026-02-03T15:14:26.940326
+"Ranthambore National Park, India",291.0,2026-02-23,2026-03-04,1 Week,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:26.940330
+"Colombo, Sri Lanka",308.0,2026-03-23,2026-03-30,1 Week,Flexible (All),AirAsia,1,2026-02-03T15:14:26.940334
+"Puducherry, India",203.0,2026-03-12,2026-03-19,1 Week,Flexible (All),IndiGo,0,2026-02-03T15:14:26.940341
+"Sapporo, Japan",537.0,2026-05-10,2026-05-19,1 Week,Flexible (All),Scoot and T'Way Air,1,2026-02-03T15:14:26.940347
+"Chengdu, China",311.0,2026-06-29,2026-07-06,1 Week,Flexible (All),"AirAsia, AirAsia X, and Thai Lion Air",1,2026-02-03T15:14:26.940351
+"Xi'An, China",351.0,2026-05-02,2026-05-11,1 Week,Flexible (All),Thai Lion Air and Scoot,1,2026-02-03T15:14:26.940356
+"Boracay, Philippines",231.0,2026-06-28,2026-07-07,1 Week,Flexible (All),Cebu Pacific,1,2026-02-03T15:14:26.940360
+"Cebu City, Philippines",186.0,2026-06-19,2026-06-28,1 Week,Flexible (All),Cebu Pacific,0,2026-02-03T15:14:26.940364
+"Kaziranga National Park, India",339.0,2026-04-02,2026-04-08,1 Week,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:26.940368
+"Guwahati, India",339.0,2026-04-02,2026-04-08,1 Week,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:26.940372
+"Tashkent, Uzbekistan",640.0,2026-03-02,2026-03-09,1 Week,Flexible (All),AirAsia and AirAsia X,1,2026-02-03T15:14:26.940376
+"Niseko, Japan",537.0,2026-05-10,2026-05-19,1 Week,Flexible (All),Scoot and T'Way Air,1,2026-02-03T15:14:26.940380
+"Almaty, Kazakhstan",732.0,2026-06-15,2026-06-23,1 Week,Flexible (All),Thai AirAsia and Thai AirAsia X,1,2026-02-03T15:14:26.940384
+"Guam, Guam",686.0,2026-02-05,2026-02-11,1 Week,Flexible (All),Philippine Airlines,1,2026-02-03T15:14:26.940388
+"Tehran, Iran",1314.0,2026-02-27,2026-03-05,1 Week,Flexible (All),XiamenAir and Qatar Airways,2,2026-02-03T15:14:26.940393
+"Ras Al-Khaimah, United Arab Emirates",480.0,2026-02-21,2026-03-02,1 Week,Flexible (All),IndiGo and Air India,1,2026-02-03T15:14:26.940397
+"Harbin, China",314.0,2026-04-25,2026-05-04,1 Week,Flexible (All),China Southern,1,2026-02-03T15:14:26.940401
+"Yangmingshan National Park, Taiwan",192.0,2026-02-09,2026-02-16,1 Week,Flexible (All),Scoot,0,2026-02-03T15:14:26.940406
+"Ulaanbaatar, Mongolia",584.0,2026-03-08,2026-03-15,1 Week,Flexible (All),Jeju Air,1,2026-02-03T15:14:26.940411
+"Furano, Japan",537.0,2026-05-10,2026-05-19,1 Week,Flexible (All),Scoot and T'Way Air,1,2026-02-03T15:14:26.940417
+"Issyk Kul, Kyrgyzstan",732.0,2026-06-15,2026-06-23,1 Week,Flexible (All),Thai AirAsia and Thai AirAsia X,1,2026-02-03T15:14:26.940422
+"Asahikawa, Japan",537.0,2026-05-10,2026-05-19,1 Week,Flexible (All),Scoot and T'Way Air,1,2026-02-03T15:14:26.940427
+"Ürümqi, China",533.0,2026-03-06,2026-03-12,1 Week,Flexible (All),Shandong,1,2026-02-03T15:14:26.940431
+"Padang, Indonesia",159.0,2026-04-20,2026-04-28,1 Week,Flexible (All),Scoot,0,2026-02-03T15:14:26.940437
+"Gorkhi Terelj National Park, Mongolia",584.0,2026-03-08,2026-03-15,1 Week,Flexible (All),Jeju Air,1,2026-02-03T15:14:26.940441
+"Hong Kong, Hong Kong",281.0,2026-04-23,2026-05-07,2 Weeks,Flexible (All),Scoot,0,2026-02-03T15:14:30.522353
+"Hanoi, Vietnam",200.0,2026-02-27,2026-03-13,2 Weeks,Flexible (All),Scoot,0,2026-02-03T15:14:30.522371
+"Bangkok, Thailand",149.0,2026-05-07,2026-05-21,2 Weeks,Flexible (All),Thai Lion Air,0,2026-02-03T15:14:30.522378
+"Tokyo, Japan",362.0,2026-04-23,2026-05-08,2 Weeks,Flexible (All),Scoot and ZIPAIR Tokyo,0,2026-02-03T15:14:30.522382
+"Ho Chi Minh City, Vietnam",152.0,2026-02-26,2026-03-13,2 Weeks,Flexible (All),Vietjet,0,2026-02-03T15:14:30.522386
+"Mumbai, India",294.0,2026-03-23,2026-04-05,2 Weeks,Flexible (All),IndiGo,0,2026-02-03T15:14:30.522390
+"New Delhi, India",321.0,2026-04-04,2026-04-20,2 Weeks,Flexible (All),"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:30.522395
+"Federal Territory of Kuala Lumpur, Malaysia",98.0,2026-02-23,2026-03-11,2 Weeks,Flexible (All),AirAsia,0,2026-02-03T15:14:30.522398
+"Dubai, United Arab Emirates",513.0,2026-03-19,2026-04-02,2 Weeks,Flexible (All),IndiGo and Air India,1,2026-02-03T15:14:30.522403
+"Kyoto, Japan",345.0,2026-04-27,2026-05-12,2 Weeks,Flexible (All),Peach Aviation,0,2026-02-03T15:14:30.522408
+"Chiang Mai, Thailand",263.0,2026-05-04,2026-05-19,2 Weeks,Flexible (All),Thai Lion Air and Scoot,1,2026-02-03T15:14:30.522412
+"Jaipur, India",291.0,2026-02-16,2026-03-03,2 Weeks,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:30.522416
+"Phuket, Thailand",143.0,2026-05-14,2026-05-28,2 Weeks,Flexible (All),Scoot,0,2026-02-03T15:14:30.522421
+"Seoul, South Korea",298.0,2026-03-05,2026-03-18,2 Weeks,Flexible (All),"Jeju Air, AirAsia, and AirAsia X",1,2026-02-03T15:14:30.522425
+"Goa, India",261.0,2026-03-26,2026-04-09,2 Weeks,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:30.522429
+"Beijing, China",280.0,2026-04-27,2026-05-10,2 Weeks,Flexible (All),China Southern,1,2026-02-03T15:14:30.522433
+"Osaka, Japan",345.0,2026-04-27,2026-05-12,2 Weeks,Flexible (All),Peach Aviation,0,2026-02-03T15:14:30.522475
+"Shanghai, China",291.0,2026-03-26,2026-04-09,2 Weeks,Flexible (All),Spring,0,2026-02-03T15:14:30.522483
+"Hội An, Vietnam",186.0,2026-04-11,2026-04-24,2 Weeks,Flexible (All),Vietjet,0,2026-02-03T15:14:30.522488
+"Bengaluru, India",248.0,2026-03-05,2026-03-21,2 Weeks,Flexible (All),IndiGo,0,2026-02-03T15:14:30.522493
+"Hạ Long Bay, Vietnam",200.0,2026-05-07,2026-05-20,2 Weeks,Flexible (All),Scoot,0,2026-02-03T15:14:30.522497
+"Abu Dhabi, United Arab Emirates",513.0,2026-03-19,2026-04-02,2 Weeks,Flexible (All),IndiGo and Air India,1,2026-02-03T15:14:30.522501
+"Chennai, India",193.0,2026-03-01,2026-03-15,2 Weeks,Flexible (All),Scoot,0,2026-02-03T15:14:30.522506
+"Varanasi, India",324.0,2026-05-07,2026-05-20,2 Weeks,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:30.522510
+"Agra, India",321.0,2026-04-04,2026-04-20,2 Weeks,Flexible (All),"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:30.522514
+"Ko Samui, Thailand",330.0,2026-04-23,2026-05-07,2 Weeks,Flexible (All),Scoot,0,2026-02-03T15:14:30.522519
+"Kolkata, India",244.0,2026-03-16,2026-03-31,2 Weeks,Flexible (All),IndiGo,0,2026-02-03T15:14:30.522524
+"Taipei City, Taiwan",211.0,2026-02-09,2026-02-24,2 Weeks,Flexible (All),Scoot,0,2026-02-03T15:14:30.522529
+"Kochi, India",273.0,2026-03-30,2026-04-12,2 Weeks,Flexible (All),Air India,1,2026-02-03T15:14:30.522533
+"Kathmandu, Nepal",500.0,2026-02-23,2026-03-11,2 Weeks,Flexible (All),Air India and Thai Lion Air,1,2026-02-03T15:14:30.522536
+"Manila, Philippines",192.0,2026-06-11,2026-06-26,2 Weeks,Flexible (All),Cebu Pacific,0,2026-02-03T15:14:30.522540
+"Bahrain, Bahrain",782.0,2026-03-06,2026-03-19,2 Weeks,Flexible (All),"Gulf Air, Malaysia Airlines, and Oman Air",2,2026-02-03T15:14:30.522544
+"Macao, Macao",285.0,2026-06-29,2026-07-14,2 Weeks,Flexible (All),Thai Lion Air,1,2026-02-03T15:14:30.522548
+"Hyderabad, India",235.0,2026-02-28,2026-03-16,2 Weeks,Flexible (All),IndiGo,0,2026-02-03T15:14:30.522552
+"Da Nang, Vietnam",186.0,2026-04-11,2026-04-24,2 Weeks,Flexible (All),Vietjet,0,2026-02-03T15:14:30.522556
+"Munnar, India",273.0,2026-03-30,2026-04-12,2 Weeks,Flexible (All),Air India,1,2026-02-03T15:14:30.522563
+"Phú Quốc, Vietnam",175.0,2026-04-23,2026-05-06,2 Weeks,Flexible (All),Vietjet,0,2026-02-03T15:14:30.522567
+"Ranthambore National Park, India",291.0,2026-02-16,2026-03-03,2 Weeks,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:30.522572
+"Colombo, Sri Lanka",353.0,2026-03-02,2026-03-16,2 Weeks,Flexible (All),Air India and AirAsia,1,2026-02-03T15:14:30.522577
+"Puducherry, India",193.0,2026-03-01,2026-03-15,2 Weeks,Flexible (All),Scoot,0,2026-02-03T15:14:30.522583
+"Sapporo, Japan",509.0,2026-04-26,2026-05-12,2 Weeks,Flexible (All),Scoot,1,2026-02-03T15:14:30.522589
+"Boracay, Philippines",236.0,2026-06-28,2026-07-13,2 Weeks,Flexible (All),Cebu Pacific,1,2026-02-03T15:14:30.522594
+"Cebu City, Philippines",201.0,2026-06-18,2026-07-01,2 Weeks,Flexible (All),Cebu Pacific,0,2026-02-03T15:14:30.522598
+"Kaziranga National Park, India",339.0,2026-04-02,2026-04-15,2 Weeks,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:30.522603
+"Guwahati, India",339.0,2026-04-02,2026-04-15,2 Weeks,Flexible (All),Air India and Air India Express,1,2026-02-03T15:14:30.522607
+"Niseko, Japan",509.0,2026-04-26,2026-05-12,2 Weeks,Flexible (All),Scoot,1,2026-02-03T15:14:30.522612
+"Almaty, Kazakhstan",737.0,2026-07-03,2026-07-16,2 Weeks,Flexible (All),"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:14:30.522615
+"Guam, Guam",686.0,2026-02-05,2026-02-18,2 Weeks,Flexible (All),Philippine Airlines,1,2026-02-03T15:14:30.522620
+"Tehran, Iran",1357.0,2026-02-19,2026-03-04,2 Weeks,Flexible (All),"Emirates, flydubai, and Batik Air",2,2026-02-03T15:14:30.522624
+"Harbin, China",314.0,2026-04-20,2026-05-04,2 Weeks,Flexible (All),China Southern,1,2026-02-03T15:14:30.522629
+"Ulaanbaatar, Mongolia",651.0,2026-03-08,2026-03-24,2 Weeks,Flexible (All),Jeju Air,1,2026-02-03T15:14:30.522633
+"Isfahan, Iran",1247.0,2026-03-07,2026-03-23,2 Weeks,Flexible (All),XiamenAir and Qatar Airways,2,2026-02-03T15:14:30.522640
+"Issyk Kul, Kyrgyzstan",737.0,2026-07-03,2026-07-16,2 Weeks,Flexible (All),"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:14:30.522645
+"Ürümqi, China",1126.0,2026-02-05,2026-02-18,2 Weeks,Flexible (All),China Southern,1,2026-02-03T15:14:30.522651
+"Gorkhi Terelj National Park, Mongolia",651.0,2026-03-08,2026-03-24,2 Weeks,Flexible (All),Jeju Air,1,2026-02-03T15:14:30.522657
+"Bangkok, Thailand",189.0,2026-02-26,2026-03-02,Weekend,February,Thai Lion Air,0,2026-02-03T15:14:30.624432
+"Federal Territory of Kuala Lumpur, Malaysia",107.0,2026-02-26,2026-03-01,Weekend,February,AirAsia,0,2026-02-03T15:14:30.624451
+"Hanoi, Vietnam",211.0,2026-02-27,2026-03-02,Weekend,February,Scoot,0,2026-02-03T15:14:30.624457
+"Hong Kong, Hong Kong",375.0,2026-02-05,2026-02-08,Weekend,February,Cathay Pacific,0,2026-02-03T15:14:30.624462
+"Ho Chi Minh City, Vietnam",157.0,2026-02-26,2026-03-02,Weekend,February,Vietjet,0,2026-02-03T15:14:30.624466
+"Hạ Long Bay, Vietnam",211.0,2026-02-27,2026-03-02,Weekend,February,Scoot,0,2026-02-03T15:14:30.624471
+"Phuket, Thailand",172.0,2026-02-26,2026-03-02,Weekend,February,Scoot,0,2026-02-03T15:14:30.624475
+"Tokyo, Japan",590.0,2026-02-27,2026-03-02,Weekend,February,Air Japan and Vietjet,1,2026-02-03T15:14:30.624479
+"Mumbai, India",294.0,2026-02-26,2026-03-01,Weekend,February,IndiGo and Batik Air,1,2026-02-03T15:14:30.624484
+"New Delhi, India",425.0,2026-02-05,2026-02-09,Weekend,February,IndiGo and SriLankan,1,2026-02-03T15:14:30.624488
+"Dubai, United Arab Emirates",532.0,2026-02-19,2026-02-23,Weekend,February,Gulf Air,1,2026-02-03T15:14:30.624492
+"Kyoto, Japan",452.0,2026-02-05,2026-02-09,Weekend,February,Peach Aviation and Scoot,0,2026-02-03T15:14:30.624496
+"Chiang Mai, Thailand",288.0,2026-02-26,2026-03-01,Weekend,February,Scoot,0,2026-02-03T15:14:30.624501
+"Jaipur, India",281.0,2026-02-28,2026-03-02,Weekend,February,Air India and Air India Express,1,2026-02-03T15:14:30.624505
+"Seoul, South Korea",385.0,2026-02-26,2026-03-02,Weekend,February,Jeju Air,0,2026-02-03T15:14:30.624509
+"Goa, India",257.0,2026-02-26,2026-03-02,Weekend,February,Air India and Air India Express,1,2026-02-03T15:14:30.624513
+"Beijing, China",448.0,2026-02-28,2026-03-02,Weekend,February,Cathay Pacific,1,2026-02-03T15:14:30.624517
+"Osaka, Japan",452.0,2026-02-05,2026-02-09,Weekend,February,Peach Aviation and Scoot,0,2026-02-03T15:14:30.624521
+"Shanghai, China",399.0,2026-02-05,2026-02-08,Weekend,February,XiamenAir and Shandong,1,2026-02-03T15:14:30.624525
+"Hội An, Vietnam",233.0,2026-02-26,2026-03-02,Weekend,February,Batik Air and Vietjet,1,2026-02-03T15:14:30.624530
+"Bengaluru, India",196.0,2026-02-28,2026-03-01,Weekend,February,Air India and Air India Express,1,2026-02-03T15:14:30.624534
+"Abu Dhabi, United Arab Emirates",532.0,2026-02-19,2026-02-23,Weekend,February,Gulf Air,1,2026-02-03T15:14:30.624538
+"Chennai, India",330.0,2026-02-05,2026-02-09,Weekend,February,IndiGo,1,2026-02-03T15:14:30.624542
+"Varanasi, India",338.0,2026-02-26,2026-03-02,Weekend,February,Air India,1,2026-02-03T15:14:30.624546
+"Agra, India",425.0,2026-02-05,2026-02-09,Weekend,February,IndiGo and SriLankan,1,2026-02-03T15:14:30.624550
+"Udaipur, India",311.0,2026-02-26,2026-03-02,Weekend,February,Air India,1,2026-02-03T15:14:30.624554
+"Ko Samui, Thailand",471.0,2026-02-07,2026-02-09,Weekend,February,Scoot,0,2026-02-03T15:14:30.624558
+"Kolkata, India",338.0,2026-02-05,2026-02-09,Weekend,February,IndiGo,1,2026-02-03T15:14:30.624562
+"Taipei City, Taiwan",192.0,2026-02-12,2026-02-16,Weekend,February,Scoot,0,2026-02-03T15:14:30.624566
+"Kochi, India",572.0,2026-02-14,2026-02-16,Weekend,February,Air India and Batik Air,1,2026-02-03T15:14:30.624570
+"Kathmandu, Nepal",654.0,2026-02-19,2026-02-23,Weekend,February,Air India,1,2026-02-03T15:14:30.624574
+"Manila, Philippines",275.0,2026-02-26,2026-03-02,Weekend,February,Cebu Pacific and Philippine Airlines,1,2026-02-03T15:14:30.624578
+"Bahrain, Bahrain",771.0,2026-02-20,2026-02-23,Weekend,February,Etihad,1,2026-02-03T15:14:30.624582
+"Macao, Macao",346.0,2026-02-28,2026-03-02,Weekend,February,AirAsia and Scoot,1,2026-02-03T15:14:30.624586
+"Hyderabad, India",245.0,2026-02-26,2026-03-02,Weekend,February,IndiGo,0,2026-02-03T15:14:30.624590
+"Shimla, India",320.0,2026-02-20,2026-02-23,Weekend,February,Air India,1,2026-02-03T15:14:30.624594
+"Da Nang, Vietnam",233.0,2026-02-26,2026-03-02,Weekend,February,Batik Air and Vietjet,1,2026-02-03T15:14:30.624598
+"Phi Phi Islands, Thailand",172.0,2026-02-26,2026-03-02,Weekend,February,Scoot,0,2026-02-03T15:14:30.624602
+"Rishikesh, India",356.0,2026-02-05,2026-02-09,Weekend,February,Air India,1,2026-02-03T15:14:30.624606
+"Pattaya City, Thailand",189.0,2026-02-26,2026-03-02,Weekend,February,Thai Lion Air,0,2026-02-03T15:14:30.624610
+"Manali, India",320.0,2026-02-20,2026-02-23,Weekend,February,Air India,1,2026-02-03T15:14:30.624613
+"Jodhpur, India",314.0,2026-02-27,2026-03-02,Weekend,February,Air India,1,2026-02-03T15:14:30.624617
+"Munnar, India",572.0,2026-02-14,2026-02-16,Weekend,February,Air India and Batik Air,1,2026-02-03T15:14:30.624621
+"Phú Quốc, Vietnam",219.0,2026-02-26,2026-03-02,Weekend,February,Vietjet,0,2026-02-03T15:14:30.624625
+"Ranthambore National Park, India",281.0,2026-02-28,2026-03-02,Weekend,February,Air India and Air India Express,1,2026-02-03T15:14:30.624629
+"Colombo, Sri Lanka",411.0,2026-02-26,2026-03-02,Weekend,February,AirAsia,1,2026-02-03T15:14:30.624633
+"Puducherry, India",330.0,2026-02-05,2026-02-09,Weekend,February,IndiGo,1,2026-02-03T15:14:30.624639
+"Sapporo, Japan",631.0,2026-02-06,2026-02-08,Weekend,February,Cathay Pacific,1,2026-02-03T15:14:30.624646
+"Chengdu, China",706.0,2026-02-20,2026-02-22,Weekend,February,Malaysia Airlines and Thai Lion Air,1,2026-02-03T15:14:30.624650
+"Xi'An, China",427.0,2026-02-28,2026-03-02,Weekend,February,XiamenAir,1,2026-02-03T15:14:30.624654
+"Boracay, Philippines",327.0,2026-02-26,2026-03-02,Weekend,February,Cebu Pacific,1,2026-02-03T15:14:30.624658
+"Cebu City, Philippines",258.0,2026-02-26,2026-03-02,Weekend,February,Cebu Pacific and Scoot,0,2026-02-03T15:14:30.624662
+"Kaziranga National Park, India",340.0,2026-02-26,2026-03-02,Weekend,February,Air India and Air India Express,1,2026-02-03T15:14:30.624667
+"Guwahati, India",340.0,2026-02-26,2026-03-02,Weekend,February,Air India and Air India Express,1,2026-02-03T15:14:30.624671
+"Tashkent, Uzbekistan",758.0,2026-02-20,2026-02-23,Weekend,February,"AirAsia, AirAsia X, and Qatar Airways",1,2026-02-03T15:14:30.624675
+"Niseko, Japan",631.0,2026-02-06,2026-02-08,Weekend,February,Cathay Pacific,1,2026-02-03T15:14:30.624679
+"Almaty, Kazakhstan",846.0,2026-02-26,2026-03-01,Weekend,February,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:14:30.624683
+"Guam, Guam",686.0,2026-02-05,2026-02-08,Weekend,February,Philippine Airlines,1,2026-02-03T15:14:30.624687
+"Tehran, Iran",1313.0,2026-02-27,2026-03-02,Weekend,February,XiamenAir and Qatar Airways,2,2026-02-03T15:14:30.624691
+"Ras Al-Khaimah, United Arab Emirates",532.0,2026-02-19,2026-02-23,Weekend,February,Gulf Air,1,2026-02-03T15:14:30.624695
+"Harbin, China",479.0,2026-02-05,2026-02-08,Weekend,February,Shenzhen,1,2026-02-03T15:14:30.624699
+"Ulaanbaatar, Mongolia",1149.0,2026-02-14,2026-02-16,Weekend,February,Korean Air and MIAT,1,2026-02-03T15:14:30.624704
+"Khiva, Uzbekistan",1269.0,2026-02-05,2026-02-09,Weekend,February,Turkish Airlines,1,2026-02-03T15:14:30.624710
+"Furano, Japan",631.0,2026-02-06,2026-02-08,Weekend,February,Cathay Pacific,1,2026-02-03T15:14:30.624714
+"Isfahan, Iran",1313.0,2026-02-27,2026-03-02,Weekend,February,XiamenAir and Qatar Airways,2,2026-02-03T15:14:30.624718
+"Issyk Kul, Kyrgyzstan",846.0,2026-02-26,2026-03-01,Weekend,February,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:14:30.624722
+"Asahikawa, Japan",631.0,2026-02-06,2026-02-08,Weekend,February,Cathay Pacific,1,2026-02-03T15:14:30.624727
+"Ürümqi, China",583.0,2026-02-05,2026-02-08,Weekend,February,Shandong,2,2026-02-03T15:14:30.624731
+"Khuvsgul Lake, Mongolia",2519.0,2026-02-19,2026-02-23,Weekend,February,"China Southern, Korean Air, and MIAT",3,2026-02-03T15:14:30.624737
+"Padang, Indonesia",193.0,2026-02-28,2026-03-02,Weekend,February,Scoot,0,2026-02-03T15:14:30.624740
+"Gorkhi Terelj National Park, Mongolia",1149.0,2026-02-14,2026-02-16,Weekend,February,Korean Air and MIAT,1,2026-02-03T15:14:30.624744
+"Tokyo, Japan",392.0,2026-02-08,2026-02-14,1 Week,February,Air Japan,0,2026-02-03T15:14:30.727232
+"Taipei City, Taiwan",199.0,2026-02-08,2026-02-14,1 Week,February,Scoot,0,2026-02-03T15:14:30.727251
+"Seoul, South Korea",371.0,2026-02-09,2026-02-17,1 Week,February,Jeju Air and Vietjet,1,2026-02-03T15:14:30.727257
+"Hong Kong, Hong Kong",375.0,2026-02-05,2026-02-11,1 Week,February,Cathay Pacific,0,2026-02-03T15:14:30.727262
+"Kyoto, Japan",366.0,2026-02-05,2026-02-13,1 Week,February,Scoot,0,2026-02-03T15:14:30.727267
+"Bangkok, Thailand",162.0,2026-02-23,2026-03-04,1 Week,February,Scoot,0,2026-02-03T15:14:30.727271
+"Osaka, Japan",366.0,2026-02-05,2026-02-13,1 Week,February,Scoot,0,2026-02-03T15:14:30.727275
+"Hanoi, Vietnam",216.0,2026-02-27,2026-03-06,1 Week,February,Scoot,0,2026-02-03T15:14:30.727279
+"Ho Chi Minh City, Vietnam",152.0,2026-02-27,2026-03-08,1 Week,February,Vietjet,0,2026-02-03T15:14:30.727284
+"Mumbai, India",324.0,2026-02-09,2026-02-16,1 Week,February,IndiGo,0,2026-02-03T15:14:30.727289
+"New Delhi, India",358.0,2026-02-26,2026-03-06,1 Week,February,"IndiGo, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:14:30.727294
+"Federal Territory of Kuala Lumpur, Malaysia",100.0,2026-02-23,2026-03-04,1 Week,February,AirAsia,0,2026-02-03T15:14:30.727298
+"Dubai, United Arab Emirates",480.0,2026-02-21,2026-03-02,1 Week,February,IndiGo and Air India,1,2026-02-03T15:14:30.727302
+"Chiang Mai, Thailand",265.0,2026-02-26,2026-03-06,1 Week,February,Scoot,0,2026-02-03T15:14:30.727306
+"Jaipur, India",277.0,2026-02-08,2026-02-16,1 Week,February,IndiGo,1,2026-02-03T15:14:30.727310
+"Phuket, Thailand",143.0,2026-02-26,2026-03-04,1 Week,February,Scoot,0,2026-02-03T15:14:30.727314
+"Goa, India",257.0,2026-02-23,2026-03-02,1 Week,February,Air India and Air India Express,1,2026-02-03T15:14:30.727318
+"Beijing, China",405.0,2026-02-16,2026-02-24,1 Week,February,Cathay Pacific,1,2026-02-03T15:14:30.727323
+"Shanghai, China",364.0,2026-02-16,2026-02-25,1 Week,February,Spring,0,2026-02-03T15:14:30.727327
+"Hội An, Vietnam",191.0,2026-02-23,2026-03-04,1 Week,February,Vietjet,0,2026-02-03T15:14:30.727331
+"Bengaluru, India",206.0,2026-02-26,2026-03-04,1 Week,February,Air India and Air India Express,1,2026-02-03T15:14:30.727335
+"Hạ Long Bay, Vietnam",216.0,2026-02-27,2026-03-06,1 Week,February,Scoot,0,2026-02-03T15:14:30.727339
+"Abu Dhabi, United Arab Emirates",480.0,2026-02-21,2026-03-02,1 Week,February,IndiGo and Air India,1,2026-02-03T15:14:30.727344
+"Chennai, India",192.0,2026-02-26,2026-03-04,1 Week,February,Air India and Air India Express,2,2026-02-03T15:14:30.727348
+"Varanasi, India",324.0,2026-02-23,2026-03-04,1 Week,February,Air India and Air India Express,1,2026-02-03T15:14:30.727353
+"Agra, India",357.0,2026-02-26,2026-03-05,1 Week,February,IndiGo and Batik Air,1,2026-02-03T15:14:30.727357
+"Udaipur, India",311.0,2026-02-23,2026-03-02,1 Week,February,Air India,1,2026-02-03T15:14:30.727361
+"Ko Samui, Thailand",374.0,2026-02-07,2026-02-13,1 Week,February,Scoot,0,2026-02-03T15:14:30.727365
+"Kolkata, India",254.0,2026-02-22,2026-03-03,1 Week,February,IndiGo,0,2026-02-03T15:14:30.727369
+"Kochi, India",266.0,2026-02-23,2026-03-03,1 Week,February,Batik Air,1,2026-02-03T15:14:30.727372
+"Kathmandu, Nepal",499.0,2026-02-23,2026-03-04,1 Week,February,Air India and Thai Lion Air,1,2026-02-03T15:14:30.727376
+"Manila, Philippines",230.0,2026-02-26,2026-03-06,1 Week,February,Philippine Airlines,0,2026-02-03T15:14:30.727381
+"Bahrain, Bahrain",804.0,2026-02-15,2026-02-24,1 Week,February,Gulf Air,0,2026-02-03T15:14:30.727385
+"Macao, Macao",350.0,2026-02-28,2026-03-09,1 Week,February,AirAsia and Scoot,1,2026-02-03T15:14:30.727388
+"Hyderabad, India",235.0,2026-02-26,2026-03-05,1 Week,February,IndiGo,0,2026-02-03T15:14:30.727392
+"Shimla, India",320.0,2026-02-20,2026-03-01,1 Week,February,Air India,1,2026-02-03T15:14:30.727396
+"Da Nang, Vietnam",191.0,2026-02-23,2026-03-04,1 Week,February,Vietjet,0,2026-02-03T15:14:30.727400
+"Phi Phi Islands, Thailand",143.0,2026-02-26,2026-03-04,1 Week,February,Scoot,0,2026-02-03T15:14:30.727404
+"Rishikesh, India",356.0,2026-02-05,2026-02-12,1 Week,February,Air India,1,2026-02-03T15:14:30.727408
+"Manali, India",320.0,2026-02-20,2026-02-26,1 Week,February,Air India,1,2026-02-03T15:14:30.727437
+"Jodhpur, India",318.0,2026-02-27,2026-03-06,1 Week,February,Air India,1,2026-02-03T15:14:30.727446
+"Munnar, India",266.0,2026-02-23,2026-03-03,1 Week,February,Batik Air,1,2026-02-03T15:14:30.727451
+"Phú Quốc, Vietnam",219.0,2026-02-26,2026-03-04,1 Week,February,Vietjet,0,2026-02-03T15:14:30.727456
+"Ranthambore National Park, India",277.0,2026-02-08,2026-02-16,1 Week,February,IndiGo,1,2026-02-03T15:14:30.727461
+"Colombo, Sri Lanka",411.0,2026-02-23,2026-03-03,1 Week,February,AirAsia,1,2026-02-03T15:14:30.727465
+"Puducherry, India",192.0,2026-02-26,2026-03-04,1 Week,February,Air India and Air India Express,2,2026-02-03T15:14:30.727472
+"Sapporo, Japan",598.0,2026-02-08,2026-02-15,1 Week,February,Cathay Pacific,1,2026-02-03T15:14:30.727479
+"Chengdu, China",581.0,2026-02-20,2026-02-26,1 Week,February,Malaysia Airlines,1,2026-02-03T15:14:30.727483
+"Xi'An, China",457.0,2026-02-06,2026-02-15,1 Week,February,Shandong,1,2026-02-03T15:14:30.727487
+"Boracay, Philippines",300.0,2026-02-26,2026-03-07,1 Week,February,Cebu Pacific,1,2026-02-03T15:14:30.727491
+"Cebu City, Philippines",254.0,2026-02-26,2026-03-07,1 Week,February,Cebu Pacific,0,2026-02-03T15:14:30.727495
+"Kaziranga National Park, India",339.0,2026-02-26,2026-03-06,1 Week,February,Air India and Air India Express,1,2026-02-03T15:14:30.727499
+"Guwahati, India",339.0,2026-02-26,2026-03-06,1 Week,February,Air India and Air India Express,1,2026-02-03T15:14:30.727503
+"Tashkent, Uzbekistan",705.0,2026-02-20,2026-02-27,1 Week,February,AirAsia and AirAsia X,1,2026-02-03T15:14:30.727508
+"Niseko, Japan",598.0,2026-02-08,2026-02-15,1 Week,February,Cathay Pacific,1,2026-02-03T15:14:30.727512
+"Almaty, Kazakhstan",805.0,2026-02-26,2026-03-05,1 Week,February,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:14:30.727517
+"Guam, Guam",686.0,2026-02-05,2026-02-11,1 Week,February,Philippine Airlines,1,2026-02-03T15:14:30.727521
+"Tehran, Iran",1314.0,2026-02-27,2026-03-05,1 Week,February,XiamenAir and Qatar Airways,2,2026-02-03T15:14:30.727526
+"Yangmingshan National Park, Taiwan",199.0,2026-02-08,2026-02-14,1 Week,February,Scoot,0,2026-02-03T15:14:30.727530
+"Ras Al-Khaimah, United Arab Emirates",480.0,2026-02-21,2026-03-02,1 Week,February,IndiGo and Air India,1,2026-02-03T15:14:30.727534
+"Harbin, China",466.0,2026-02-19,2026-02-28,1 Week,February,Shenzhen,1,2026-02-03T15:14:30.727538
+"Ulaanbaatar, Mongolia",967.0,2026-02-14,2026-02-21,1 Week,February,MIAT,0,2026-02-03T15:14:30.727543
+"Furano, Japan",598.0,2026-02-08,2026-02-15,1 Week,February,Cathay Pacific,1,2026-02-03T15:14:30.727549
+"Issyk Kul, Kyrgyzstan",805.0,2026-02-26,2026-03-05,1 Week,February,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:14:30.727554
+"Asahikawa, Japan",598.0,2026-02-08,2026-02-15,1 Week,February,Cathay Pacific,1,2026-02-03T15:14:30.727559
+"Ürümqi, China",583.0,2026-02-05,2026-02-11,1 Week,February,Shandong,2,2026-02-03T15:14:30.727563
+"Padang, Indonesia",184.0,2026-02-23,2026-03-03,1 Week,February,Scoot,0,2026-02-03T15:14:30.727569
+"Gorkhi Terelj National Park, Mongolia",967.0,2026-02-14,2026-02-21,1 Week,February,MIAT,0,2026-02-03T15:14:30.727573
+"Hong Kong, Hong Kong",341.0,2026-02-05,2026-02-18,2 Weeks,February,Cathay Pacific,0,2026-02-03T15:14:30.869090
+"Hanoi, Vietnam",200.0,2026-02-27,2026-03-13,2 Weeks,February,Scoot,0,2026-02-03T15:14:30.869124
+"Bangkok, Thailand",154.0,2026-02-23,2026-03-11,2 Weeks,February,Scoot,0,2026-02-03T15:14:30.869130
+"Tokyo, Japan",399.0,2026-02-22,2026-03-10,2 Weeks,February,Air Japan and Shenzhen,1,2026-02-03T15:14:30.869135
+"Ho Chi Minh City, Vietnam",152.0,2026-02-26,2026-03-13,2 Weeks,February,Vietjet,0,2026-02-03T15:14:30.869140
+"Mumbai, India",311.0,2026-02-09,2026-02-25,2 Weeks,February,IndiGo,0,2026-02-03T15:14:30.869146
+"New Delhi, India",343.0,2026-02-26,2026-03-11,2 Weeks,February,IndiGo and Batik Air,1,2026-02-03T15:14:30.869150
+"Federal Territory of Kuala Lumpur, Malaysia",98.0,2026-02-23,2026-03-11,2 Weeks,February,AirAsia,0,2026-02-03T15:14:30.869155
+"Dubai, United Arab Emirates",480.0,2026-02-16,2026-03-02,2 Weeks,February,IndiGo and Air India,1,2026-02-03T15:14:30.869161
+"Kyoto, Japan",409.0,2026-02-22,2026-03-10,2 Weeks,February,"AirAsia, AirAsia X, and Scoot",1,2026-02-03T15:14:30.869165
+"Chiang Mai, Thailand",273.0,2026-02-21,2026-03-06,2 Weeks,February,Scoot,0,2026-02-03T15:14:30.869170
+"Jaipur, India",291.0,2026-02-16,2026-03-03,2 Weeks,February,Air India and Air India Express,1,2026-02-03T15:14:30.869176
+"Phuket, Thailand",148.0,2026-02-26,2026-03-12,2 Weeks,February,Thai Lion Air,0,2026-02-03T15:14:30.869181
+"Seoul, South Korea",371.0,2026-02-09,2026-02-24,2 Weeks,February,Jeju Air and Vietjet,1,2026-02-03T15:14:30.869186
+"Goa, India",264.0,2026-02-16,2026-03-02,2 Weeks,February,Air India and Air India Express,1,2026-02-03T15:14:30.869192
+"Beijing, China",448.0,2026-02-28,2026-03-13,2 Weeks,February,Cathay Pacific,1,2026-02-03T15:14:30.869197
+"Osaka, Japan",409.0,2026-02-22,2026-03-10,2 Weeks,February,"AirAsia, AirAsia X, and Scoot",1,2026-02-03T15:14:30.869203
+"Shanghai, China",309.0,2026-02-16,2026-03-02,2 Weeks,February,Spring,0,2026-02-03T15:14:30.869212
+"Hội An, Vietnam",191.0,2026-02-26,2026-03-13,2 Weeks,February,Vietjet,0,2026-02-03T15:14:30.869221
+"Bengaluru, India",206.0,2026-02-23,2026-03-08,2 Weeks,February,Air India and Air India Express,1,2026-02-03T15:14:30.869230
+"Hạ Long Bay, Vietnam",200.0,2026-02-27,2026-03-13,2 Weeks,February,Scoot,0,2026-02-03T15:14:30.869242
+"Abu Dhabi, United Arab Emirates",480.0,2026-02-16,2026-03-02,2 Weeks,February,IndiGo and Air India,1,2026-02-03T15:14:30.869252
+"Chennai, India",307.0,2026-02-09,2026-02-25,2 Weeks,February,IndiGo,1,2026-02-03T15:14:30.869260
+"Varanasi, India",338.0,2026-02-26,2026-03-11,2 Weeks,February,Air India,1,2026-02-03T15:14:30.869269
+"Agra, India",343.0,2026-02-26,2026-03-11,2 Weeks,February,IndiGo and Batik Air,1,2026-02-03T15:14:30.869280
+"Udaipur, India",406.0,2026-02-05,2026-02-18,2 Weeks,February,Air India,1,2026-02-03T15:14:30.869291
+"Ko Samui, Thailand",386.0,2026-02-27,2026-03-12,2 Weeks,February,Scoot,0,2026-02-03T15:14:30.869300
+"Kolkata, India",244.0,2026-02-19,2026-03-04,2 Weeks,February,IndiGo,0,2026-02-03T15:14:30.869308
+"Taipei City, Taiwan",218.0,2026-02-08,2026-02-24,2 Weeks,February,Scoot,0,2026-02-03T15:14:30.869319
+"Kochi, India",267.0,2026-02-19,2026-03-04,2 Weeks,February,Air India,1,2026-02-03T15:14:30.869327
+"Kathmandu, Nepal",500.0,2026-02-23,2026-03-11,2 Weeks,February,Air India and Thai Lion Air,1,2026-02-03T15:14:30.869333
+"Manila, Philippines",230.0,2026-02-20,2026-03-06,2 Weeks,February,Philippine Airlines,0,2026-02-03T15:14:30.869342
+"Bahrain, Bahrain",804.0,2026-02-15,2026-03-02,2 Weeks,February,Gulf Air,0,2026-02-03T15:14:30.869352
+"Macao, Macao",367.0,2026-02-28,2026-03-16,2 Weeks,February,AirAsia and Scoot,1,2026-02-03T15:14:30.869373
+"Hyderabad, India",235.0,2026-02-28,2026-03-16,2 Weeks,February,IndiGo,0,2026-02-03T15:14:30.869384
+"Shimla, India",310.0,2026-02-27,2026-03-15,2 Weeks,February,Air India,1,2026-02-03T15:14:30.869392
+"Da Nang, Vietnam",191.0,2026-02-26,2026-03-13,2 Weeks,February,Vietjet,0,2026-02-03T15:14:30.869403
+"Phi Phi Islands, Thailand",143.0,2026-02-26,2026-03-14,2 Weeks,February,Thai Lion Air,0,2026-02-03T15:14:30.869414
+"Rishikesh, India",316.0,2026-02-27,2026-03-15,2 Weeks,February,Air India,2,2026-02-03T15:14:30.869423
+"Manali, India",310.0,2026-02-27,2026-03-15,2 Weeks,February,Air India,1,2026-02-03T15:14:30.869432
+"Jodhpur, India",410.0,2026-02-05,2026-02-18,2 Weeks,February,Air India,1,2026-02-03T15:14:30.869440
+"Munnar, India",267.0,2026-02-19,2026-03-04,2 Weeks,February,Air India,1,2026-02-03T15:14:30.869450
+"Phú Quốc, Vietnam",219.0,2026-02-26,2026-03-11,2 Weeks,February,Vietjet,0,2026-02-03T15:14:30.869458
+"Ranthambore National Park, India",291.0,2026-02-16,2026-03-03,2 Weeks,February,Air India and Air India Express,1,2026-02-03T15:14:30.869469
+"Colombo, Sri Lanka",401.0,2026-02-23,2026-03-11,2 Weeks,February,AirAsia,1,2026-02-03T15:14:30.869483
+"Puducherry, India",307.0,2026-02-09,2026-02-25,2 Weeks,February,IndiGo,1,2026-02-03T15:14:30.869497
+"Sapporo, Japan",631.0,2026-02-27,2026-03-12,2 Weeks,February,Cathay Pacific,1,2026-02-03T15:14:30.869513
+"Chengdu, China",427.0,2026-02-27,2026-03-12,2 Weeks,February,XiamenAir,1,2026-02-03T15:14:30.869521
+"Xi'An, China",465.0,2026-02-28,2026-03-14,2 Weeks,February,XiamenAir,1,2026-02-03T15:14:30.869529
+"Boracay, Philippines",286.0,2026-02-26,2026-03-13,2 Weeks,February,Cebu Pacific,1,2026-02-03T15:14:30.869537
+"Cebu City, Philippines",210.0,2026-02-23,2026-03-10,2 Weeks,February,Cebu Pacific and Scoot,0,2026-02-03T15:14:30.869587
+"Kaziranga National Park, India",335.0,2026-02-26,2026-03-11,2 Weeks,February,Air India and Air India Express,1,2026-02-03T15:14:30.869604
+"Guwahati, India",335.0,2026-02-26,2026-03-11,2 Weeks,February,Air India and Air India Express,1,2026-02-03T15:14:30.869610
+"Niseko, Japan",631.0,2026-02-27,2026-03-12,2 Weeks,February,Cathay Pacific,1,2026-02-03T15:14:30.869616
+"Almaty, Kazakhstan",774.0,2026-02-26,2026-03-11,2 Weeks,February,AirAsia and AirAsia X,1,2026-02-03T15:14:30.869621
+"Guam, Guam",686.0,2026-02-05,2026-02-18,2 Weeks,February,Philippine Airlines,1,2026-02-03T15:14:30.869625
+"Tehran, Iran",1357.0,2026-02-19,2026-03-04,2 Weeks,February,"Emirates, flydubai, and Batik Air",2,2026-02-03T15:14:30.869631
+"Harbin, China",479.0,2026-02-19,2026-03-04,2 Weeks,February,Shenzhen,1,2026-02-03T15:14:30.869636
+"Ulaanbaatar, Mongolia",824.0,2026-02-26,2026-03-12,2 Weeks,February,Jeju Air,1,2026-02-03T15:14:30.869640
+"Furano, Japan",598.0,2026-02-26,2026-03-13,2 Weeks,February,Cathay Pacific,1,2026-02-03T15:14:30.869648
+"Isfahan, Iran",1314.0,2026-02-28,2026-03-13,2 Weeks,February,XiamenAir and Qatar Airways,2,2026-02-03T15:14:30.869652
+"Issyk Kul, Kyrgyzstan",774.0,2026-02-26,2026-03-11,2 Weeks,February,AirAsia and AirAsia X,1,2026-02-03T15:14:30.869665
+"Asahikawa, Japan",598.0,2026-02-26,2026-03-13,2 Weeks,February,Cathay Pacific,1,2026-02-03T15:14:30.869671
+"Ürümqi, China",1126.0,2026-02-05,2026-02-18,2 Weeks,February,China Southern,1,2026-02-03T15:14:30.869676
+"Padang, Indonesia",184.0,2026-02-23,2026-03-10,2 Weeks,February,Scoot,0,2026-02-03T15:14:30.869682
+"Gorkhi Terelj National Park, Mongolia",824.0,2026-02-26,2026-03-12,2 Weeks,February,Jeju Air,1,2026-02-03T15:14:30.869686
+"Bangkok, Thailand",194.0,2026-03-07,2026-03-09,Weekend,March,Scoot,0,2026-02-03T15:14:35.892227
+"Federal Territory of Kuala Lumpur, Malaysia",133.0,2026-03-27,2026-03-30,Weekend,March,AirAsia and Scoot,0,2026-02-03T15:14:35.892269
+"Hong Kong, Hong Kong",341.0,2026-03-05,2026-03-09,Weekend,March,Cathay Pacific,0,2026-02-03T15:14:35.892278
+"Ho Chi Minh City, Vietnam",152.0,2026-03-05,2026-03-08,Weekend,March,Vietjet,0,2026-02-03T15:14:35.892286
+"Hanoi, Vietnam",215.0,2026-03-26,2026-03-30,Weekend,March,Vietjet,0,2026-02-03T15:14:35.892293
+"Phuket, Thailand",163.0,2026-03-12,2026-03-15,Weekend,March,Thai Lion Air,0,2026-02-03T15:14:35.892300
+"Tokyo, Japan",505.0,2026-03-06,2026-03-09,Weekend,March,Hainan and Air Japan,1,2026-02-03T15:14:35.892308
+"Mumbai, India",203.0,2026-03-28,2026-03-30,Weekend,March,Air India and Air India Express,2,2026-02-03T15:14:35.892316
+"New Delhi, India",337.0,2026-03-21,2026-03-23,Weekend,March,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:35.892324
+"Dubai, United Arab Emirates",544.0,2026-03-19,2026-03-23,Weekend,March,Gulf Air,1,2026-02-03T15:14:35.892335
+"Kyoto, Japan",457.0,2026-03-05,2026-03-08,Weekend,March,Scoot and Vietjet,1,2026-02-03T15:14:35.892343
+"Chiang Mai, Thailand",288.0,2026-03-12,2026-03-15,Weekend,March,Scoot,0,2026-02-03T15:14:35.892353
+"Jaipur, India",291.0,2026-03-05,2026-03-08,Weekend,March,Air India and Air India Express,1,2026-02-03T15:14:35.892361
+"Seoul, South Korea",317.0,2026-03-05,2026-03-09,Weekend,March,"AirAsia, AirAsia X, and Scoot",1,2026-02-03T15:14:35.892368
+"Goa, India",276.0,2026-03-12,2026-03-15,Weekend,March,Air India and Air India Express,1,2026-02-03T15:14:35.892376
+"Beijing, China",377.0,2026-03-12,2026-03-15,Weekend,March,XiamenAir and Hebei Airlines,1,2026-02-03T15:14:35.892384
+"Osaka, Japan",457.0,2026-03-05,2026-03-08,Weekend,March,Scoot and Vietjet,1,2026-02-03T15:14:35.892392
+"Shanghai, China",291.0,2026-03-05,2026-03-08,Weekend,March,Spring,0,2026-02-03T15:14:35.892400
+"Hội An, Vietnam",332.0,2026-03-05,2026-03-09,Weekend,March,Vietjet,0,2026-02-03T15:14:35.892409
+"Bengaluru, India",292.0,2026-03-19,2026-03-22,Weekend,March,IndiGo,1,2026-02-03T15:14:35.892418
+"Hạ Long Bay, Vietnam",215.0,2026-03-26,2026-03-30,Weekend,March,Vietjet,0,2026-02-03T15:14:35.892427
+"Abu Dhabi, United Arab Emirates",544.0,2026-03-19,2026-03-23,Weekend,March,Gulf Air,1,2026-02-03T15:14:35.892435
+"Chennai, India",232.0,2026-03-20,2026-03-22,Weekend,March,IndiGo and Scoot,0,2026-02-03T15:14:35.892442
+"Varanasi, India",654.0,2026-03-06,2026-03-08,Weekend,March,Air India and Air India Express,1,2026-02-03T15:14:35.892450
+"Agra, India",337.0,2026-03-21,2026-03-23,Weekend,March,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:35.892458
+"Udaipur, India",309.0,2026-03-12,2026-03-15,Weekend,March,Air India,1,2026-02-03T15:14:35.892465
+"Ko Samui, Thailand",368.0,2026-03-26,2026-03-30,Weekend,March,Scoot,0,2026-02-03T15:14:35.892473
+"Kolkata, India",244.0,2026-03-12,2026-03-16,Weekend,March,IndiGo,0,2026-02-03T15:14:35.892481
+"Taipei City, Taiwan",231.0,2026-03-26,2026-03-30,Weekend,March,Scoot,0,2026-02-03T15:14:35.892490
+"Kochi, India",266.0,2026-03-05,2026-03-08,Weekend,March,IndiGo,1,2026-02-03T15:14:35.892498
+"Kathmandu, Nepal",550.0,2026-03-05,2026-03-09,Weekend,March,Air India and Thai Lion Air,1,2026-02-03T15:14:35.892506
+"Manila, Philippines",230.0,2026-03-12,2026-03-16,Weekend,March,Scoot,0,2026-02-03T15:14:35.892514
+"Bahrain, Bahrain",771.0,2026-03-06,2026-03-09,Weekend,March,Etihad,1,2026-02-03T15:14:35.892521
+"Macao, Macao",328.0,2026-03-06,2026-03-09,Weekend,March,AirAsia and Hainan,1,2026-02-03T15:14:35.892528
+"Hyderabad, India",245.0,2026-03-12,2026-03-16,Weekend,March,IndiGo,0,2026-02-03T15:14:35.892535
+"Shimla, India",337.0,2026-03-21,2026-03-23,Weekend,March,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:35.892543
+"Da Nang, Vietnam",332.0,2026-03-05,2026-03-09,Weekend,March,Vietjet,0,2026-02-03T15:14:35.892551
+"Pattaya City, Thailand",194.0,2026-03-07,2026-03-09,Weekend,March,Scoot,0,2026-02-03T15:14:35.892558
+"Phi Phi Islands, Thailand",166.0,2026-03-05,2026-03-09,Weekend,March,Scoot,0,2026-02-03T15:14:35.892566
+"Rishikesh, India",337.0,2026-03-21,2026-03-23,Weekend,March,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:35.892574
+"Manali, India",337.0,2026-03-21,2026-03-23,Weekend,March,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:35.892581
+"Jodhpur, India",310.0,2026-03-12,2026-03-16,Weekend,March,Air India,1,2026-02-03T15:14:35.892588
+"Munnar, India",266.0,2026-03-05,2026-03-08,Weekend,March,IndiGo,1,2026-02-03T15:14:35.892596
+"Phú Quốc, Vietnam",296.0,2026-03-05,2026-03-09,Weekend,March,Scoot and Vietjet,0,2026-02-03T15:14:35.892603
+"Ranthambore National Park, India",291.0,2026-03-05,2026-03-08,Weekend,March,Air India and Air India Express,1,2026-02-03T15:14:35.892611
+"Colombo, Sri Lanka",353.0,2026-03-12,2026-03-16,Weekend,March,Air India and AirAsia,1,2026-02-03T15:14:35.892618
+"Puducherry, India",232.0,2026-03-20,2026-03-22,Weekend,March,IndiGo and Scoot,0,2026-02-03T15:14:35.892627
+"Sapporo, Japan",666.0,2026-03-19,2026-03-22,Weekend,March,"AirAsia, AirAsia X, and Scoot",1,2026-02-03T15:14:35.892639
+"Chengdu, China",327.0,2026-03-05,2026-03-08,Weekend,March,AirAsia and AirAsia X,1,2026-02-03T15:14:35.892647
+"Xi'An, China",330.0,2026-03-12,2026-03-15,Weekend,March,Hainan,1,2026-02-03T15:14:35.892654
+"Boracay, Philippines",363.0,2026-03-06,2026-03-08,Weekend,March,Philippine Airlines,1,2026-02-03T15:14:35.892661
+"Cebu City, Philippines",220.0,2026-03-12,2026-03-15,Weekend,March,Cebu Pacific and Scoot,0,2026-02-03T15:14:35.892668
+"Kaziranga National Park, India",339.0,2026-03-27,2026-03-29,Weekend,March,Air India and Air India Express,1,2026-02-03T15:14:35.892676
+"Guwahati, India",339.0,2026-03-27,2026-03-29,Weekend,March,Air India and Air India Express,1,2026-02-03T15:14:35.892683
+"Tashkent, Uzbekistan",649.0,2026-03-20,2026-03-23,Weekend,March,"AirAsia, AirAsia X, and Batik Air",1,2026-02-03T15:14:35.892691
+"Niseko, Japan",666.0,2026-03-19,2026-03-22,Weekend,March,"AirAsia, AirAsia X, and Scoot",1,2026-02-03T15:14:35.892698
+"Almaty, Kazakhstan",774.0,2026-03-12,2026-03-15,Weekend,March,AirAsia and AirAsia X,1,2026-02-03T15:14:35.892705
+"Guam, Guam",686.0,2026-03-05,2026-03-08,Weekend,March,Philippine Airlines,1,2026-02-03T15:14:35.892712
+"Tehran, Iran",1417.0,2026-03-26,2026-03-30,Weekend,March,Emirates and Malaysia Airlines,2,2026-02-03T15:14:35.892720
+"Ras Al-Khaimah, United Arab Emirates",544.0,2026-03-19,2026-03-23,Weekend,March,Gulf Air,1,2026-02-03T15:14:35.892727
+"Harbin, China",363.0,2026-03-12,2026-03-16,Weekend,March,Shandong,1,2026-02-03T15:14:35.892734
+"Ulaanbaatar, Mongolia",630.0,2026-03-05,2026-03-08,Weekend,March,Jeju Air,1,2026-02-03T15:14:35.892742
+"Furano, Japan",666.0,2026-03-19,2026-03-22,Weekend,March,"AirAsia, AirAsia X, and Scoot",1,2026-02-03T15:14:35.892754
+"Issyk Kul, Kyrgyzstan",774.0,2026-03-12,2026-03-15,Weekend,March,AirAsia and AirAsia X,1,2026-02-03T15:14:35.892763
+"Asahikawa, Japan",666.0,2026-03-19,2026-03-22,Weekend,March,"AirAsia, AirAsia X, and Scoot",1,2026-02-03T15:14:35.892773
+"Ürümqi, China",533.0,2026-03-06,2026-03-08,Weekend,March,Shandong,1,2026-02-03T15:14:35.892780
+"Padang, Indonesia",193.0,2026-03-07,2026-03-09,Weekend,March,Scoot,0,2026-02-03T15:14:35.892790
+"Gorkhi Terelj National Park, Mongolia",630.0,2026-03-05,2026-03-08,Weekend,March,Jeju Air,1,2026-02-03T15:14:35.892797
+"Tokyo, Japan",369.0,2026-03-09,2026-03-17,1 Week,March,ZIPAIR Tokyo and Shenzhen,1,2026-02-03T15:14:42.693646
+"Seoul, South Korea",298.0,2026-03-05,2026-03-11,1 Week,March,"Jeju Air, AirAsia, and AirAsia X",1,2026-02-03T15:14:42.693667
+"Hanoi, Vietnam",205.0,2026-03-26,2026-04-01,1 Week,March,Scoot and Vietjet,0,2026-02-03T15:14:42.693673
+"Taipei City, Taiwan",192.0,2026-03-30,2026-04-08,1 Week,March,Scoot,0,2026-02-03T15:14:42.693678
+"Hong Kong, Hong Kong",341.0,2026-03-05,2026-03-11,1 Week,March,Cathay Pacific,0,2026-02-03T15:14:42.693682
+"Bangkok, Thailand",170.0,2026-03-08,2026-03-14,1 Week,March,Scoot,0,2026-02-03T15:14:42.693686
+"Kyoto, Japan",408.0,2026-03-15,2026-03-21,1 Week,March,Vietjet and Shenzhen,1,2026-02-03T15:14:42.693690
+"Hạ Long Bay, Vietnam",205.0,2026-03-26,2026-04-02,1 Week,March,Scoot and Vietjet,0,2026-02-03T15:14:42.693696
+"Osaka, Japan",408.0,2026-03-15,2026-03-21,1 Week,March,Vietjet and Shenzhen,1,2026-02-03T15:14:42.693701
+"Ho Chi Minh City, Vietnam",152.0,2026-03-01,2026-03-08,1 Week,March,Vietjet,0,2026-02-03T15:14:42.693706
+"Mumbai, India",282.0,2026-03-22,2026-03-30,1 Week,March,IndiGo,0,2026-02-03T15:14:42.693710
+"New Delhi, India",338.0,2026-03-16,2026-03-23,1 Week,March,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:42.693714
+"Federal Territory of Kuala Lumpur, Malaysia",98.0,2026-03-02,2026-03-11,1 Week,March,AirAsia,0,2026-02-03T15:14:42.693718
+"Dubai, United Arab Emirates",525.0,2026-03-19,2026-03-26,1 Week,March,IndiGo and Air India,1,2026-02-03T15:14:42.693723
+"Chiang Mai, Thailand",265.0,2026-03-01,2026-03-10,1 Week,March,Scoot,0,2026-02-03T15:14:42.693727
+"Jaipur, India",291.0,2026-03-02,2026-03-08,1 Week,March,Air India and Air India Express,1,2026-02-03T15:14:42.693731
+"Phuket, Thailand",143.0,2026-03-07,2026-03-14,1 Week,March,Thai Lion Air,0,2026-02-03T15:14:42.693735
+"Goa, India",276.0,2026-03-09,2026-03-15,1 Week,March,Air India and Air India Express,1,2026-02-03T15:14:42.693739
+"Beijing, China",399.0,2026-03-16,2026-03-24,1 Week,March,"AirAsia, AirAsia X, and Vietjet",1,2026-02-03T15:14:42.693743
+"Shanghai, China",291.0,2026-03-05,2026-03-12,1 Week,March,Spring,0,2026-02-03T15:14:42.693747
+"Hội An, Vietnam",233.0,2026-03-30,2026-04-08,1 Week,March,Batik Air and Vietjet,1,2026-02-03T15:14:42.693751
+"Bengaluru, India",248.0,2026-03-12,2026-03-21,1 Week,March,IndiGo,0,2026-02-03T15:14:42.693760
+"Abu Dhabi, United Arab Emirates",525.0,2026-03-19,2026-03-26,1 Week,March,IndiGo and Air India,1,2026-02-03T15:14:42.693767
+"Chennai, India",182.0,2026-03-02,2026-03-09,1 Week,March,Scoot,0,2026-02-03T15:14:42.693775
+"Varanasi, India",324.0,2026-03-16,2026-03-25,1 Week,March,Air India and Air India Express,1,2026-02-03T15:14:42.693780
+"Agra, India",338.0,2026-03-16,2026-03-23,1 Week,March,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:42.693785
+"Udaipur, India",307.0,2026-03-23,2026-03-31,1 Week,March,Air India,1,2026-02-03T15:14:42.693790
+"Ko Samui, Thailand",331.0,2026-03-22,2026-03-31,1 Week,March,Scoot,0,2026-02-03T15:14:42.693794
+"Kolkata, India",244.0,2026-03-12,2026-03-19,1 Week,March,IndiGo,0,2026-02-03T15:14:42.693798
+"Kochi, India",267.0,2026-03-30,2026-04-07,1 Week,March,Air India,1,2026-02-03T15:14:42.693801
+"Kathmandu, Nepal",500.0,2026-03-05,2026-03-11,1 Week,March,Air India and Thai Lion Air,1,2026-02-03T15:14:42.693805
+"Manila, Philippines",212.0,2026-03-05,2026-03-11,1 Week,March,Cebu Pacific and Scoot,1,2026-02-03T15:14:42.693809
+"Bahrain, Bahrain",852.0,2026-03-13,2026-03-19,1 Week,March,"Gulf Air, Malaysia Airlines, and Oman Air",2,2026-02-03T15:14:42.693813
+"Macao, Macao",288.0,2026-03-06,2026-03-14,1 Week,March,Hainan,1,2026-02-03T15:14:42.693817
+"Hyderabad, India",245.0,2026-03-19,2026-03-26,1 Week,March,IndiGo,0,2026-02-03T15:14:42.693821
+"Shimla, India",338.0,2026-03-16,2026-03-25,1 Week,March,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:42.693825
+"Da Nang, Vietnam",233.0,2026-03-30,2026-04-08,1 Week,March,Batik Air and Vietjet,1,2026-02-03T15:14:42.693829
+"Phi Phi Islands, Thailand",143.0,2026-03-07,2026-03-14,1 Week,March,Thai Lion Air,0,2026-02-03T15:14:42.693833
+"Rishikesh, India",338.0,2026-03-16,2026-03-23,1 Week,March,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:42.693837
+"Manali, India",338.0,2026-03-16,2026-03-25,1 Week,March,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:42.693841
+"Jodhpur, India",309.0,2026-03-05,2026-03-11,1 Week,March,Air India,1,2026-02-03T15:14:42.693844
+"Munnar, India",267.0,2026-03-30,2026-04-07,1 Week,March,Air India,1,2026-02-03T15:14:42.693848
+"Phú Quốc, Vietnam",219.0,2026-03-02,2026-03-11,1 Week,March,Vietjet,0,2026-02-03T15:14:42.693852
+"Ranthambore National Park, India",291.0,2026-03-02,2026-03-08,1 Week,March,Air India and Air India Express,1,2026-02-03T15:14:42.693856
+"Colombo, Sri Lanka",308.0,2026-03-23,2026-03-30,1 Week,March,AirAsia,1,2026-02-03T15:14:42.693860
+"Puducherry, India",182.0,2026-03-01,2026-03-09,1 Week,March,Scoot,0,2026-02-03T15:14:42.693873
+"Sapporo, Japan",579.0,2026-03-26,2026-04-01,1 Week,March,"AirAsia, AirAsia X, and T'Way Air",1,2026-02-03T15:14:42.693878
+"Chengdu, China",327.0,2026-03-16,2026-03-22,1 Week,March,AirAsia and AirAsia X,1,2026-02-03T15:14:42.693883
+"Xi'An, China",368.0,2026-03-06,2026-03-14,1 Week,March,China Southern,1,2026-02-03T15:14:42.693887
+"Boracay, Philippines",274.0,2026-03-08,2026-03-15,1 Week,March,Cebu Pacific,1,2026-02-03T15:14:42.693891
+"Cebu City, Philippines",208.0,2026-03-05,2026-03-11,1 Week,March,Scoot,0,2026-02-03T15:14:42.693895
+"Kaziranga National Park, India",338.0,2026-03-30,2026-04-05,1 Week,March,Air India and Air India Express,1,2026-02-03T15:14:42.693899
+"Guwahati, India",338.0,2026-03-30,2026-04-05,1 Week,March,Air India and Air India Express,1,2026-02-03T15:14:42.693903
+"Tashkent, Uzbekistan",640.0,2026-03-02,2026-03-09,1 Week,March,AirAsia and AirAsia X,1,2026-02-03T15:14:42.693908
+"Niseko, Japan",579.0,2026-03-26,2026-04-01,1 Week,March,"AirAsia, AirAsia X, and T'Way Air",1,2026-02-03T15:14:42.693912
+"Almaty, Kazakhstan",771.0,2026-03-23,2026-04-01,1 Week,March,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:14:42.693916
+"Guam, Guam",686.0,2026-03-05,2026-03-11,1 Week,March,Philippine Airlines,1,2026-02-03T15:14:42.693919
+"Tehran, Iran",1357.0,2026-03-08,2026-03-17,1 Week,March,"Emirates, flydubai, and Batik Air",2,2026-02-03T15:14:42.693924
+"Ras Al-Khaimah, United Arab Emirates",525.0,2026-03-19,2026-03-26,1 Week,March,IndiGo and Air India,1,2026-02-03T15:14:42.693927
+"Yangmingshan National Park, Taiwan",192.0,2026-03-30,2026-04-08,1 Week,March,Scoot,0,2026-02-03T15:14:42.693932
+"Harbin, China",383.0,2026-03-02,2026-03-08,1 Week,March,China Southern and Chongqing Airlines,1,2026-02-03T15:14:42.693935
+"Ulaanbaatar, Mongolia",584.0,2026-03-08,2026-03-15,1 Week,March,Jeju Air,1,2026-02-03T15:14:42.693940
+"Furano, Japan",579.0,2026-03-26,2026-04-01,1 Week,March,"AirAsia, AirAsia X, and T'Way Air",1,2026-02-03T15:14:42.693946
+"Issyk Kul, Kyrgyzstan",771.0,2026-03-23,2026-04-01,1 Week,March,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:14:42.693951
+"Asahikawa, Japan",579.0,2026-03-26,2026-04-01,1 Week,March,"AirAsia, AirAsia X, and T'Way Air",1,2026-02-03T15:14:42.693956
+"Ürümqi, China",533.0,2026-03-06,2026-03-12,1 Week,March,Shandong,1,2026-02-03T15:14:42.693960
+"Padang, Indonesia",159.0,2026-03-02,2026-03-10,1 Week,March,Scoot,0,2026-02-03T15:14:42.693966
+"Gorkhi Terelj National Park, Mongolia",584.0,2026-03-08,2026-03-15,1 Week,March,Jeju Air,1,2026-02-03T15:14:42.693970
+"Hong Kong, Hong Kong",313.0,2026-03-27,2026-04-09,2 Weeks,March,Scoot,0,2026-02-03T15:14:52.075207
+"Hanoi, Vietnam",205.0,2026-03-26,2026-04-09,2 Weeks,March,Scoot and Vietjet,0,2026-02-03T15:14:52.075233
+"Bangkok, Thailand",170.0,2026-03-09,2026-03-25,2 Weeks,March,Scoot,0,2026-02-03T15:14:52.075239
+"Tokyo, Japan",395.0,2026-03-09,2026-03-23,2 Weeks,March,Hainan and ZIPAIR Tokyo,1,2026-02-03T15:14:52.075244
+"Ho Chi Minh City, Vietnam",152.0,2026-03-01,2026-03-17,2 Weeks,March,Vietjet,0,2026-02-03T15:14:52.075249
+"Mumbai, India",285.0,2026-03-09,2026-03-22,2 Weeks,March,IndiGo,0,2026-02-03T15:14:52.075253
+"New Delhi, India",322.0,2026-03-12,2026-03-25,2 Weeks,March,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:52.075257
+"Federal Territory of Kuala Lumpur, Malaysia",98.0,2026-03-23,2026-04-08,2 Weeks,March,Scoot,0,2026-02-03T15:14:52.075262
+"Dubai, United Arab Emirates",480.0,2026-03-13,2026-03-26,2 Weeks,March,IndiGo and Air India,1,2026-02-03T15:14:52.075268
+"Kyoto, Japan",408.0,2026-03-15,2026-03-31,2 Weeks,March,Vietjet and Shenzhen,1,2026-02-03T15:14:52.075273
+"Chiang Mai, Thailand",265.0,2026-03-01,2026-03-14,2 Weeks,March,Scoot,0,2026-02-03T15:14:52.075278
+"Jaipur, India",291.0,2026-03-05,2026-03-18,2 Weeks,March,Air India and Air India Express,1,2026-02-03T15:14:52.075283
+"Phuket, Thailand",143.0,2026-03-01,2026-03-14,2 Weeks,March,Thai Lion Air,0,2026-02-03T15:14:52.075287
+"Seoul, South Korea",298.0,2026-03-05,2026-03-18,2 Weeks,March,"Jeju Air, AirAsia, and AirAsia X",1,2026-02-03T15:14:52.075291
+"Goa, India",261.0,2026-03-26,2026-04-09,2 Weeks,March,Air India and Air India Express,1,2026-02-03T15:14:52.075296
+"Beijing, China",358.0,2026-03-26,2026-04-10,2 Weeks,March,China Southern and Malaysia Airlines,1,2026-02-03T15:14:52.075300
+"Osaka, Japan",408.0,2026-03-15,2026-03-31,2 Weeks,March,Vietjet and Shenzhen,1,2026-02-03T15:14:52.075304
+"Shanghai, China",291.0,2026-03-26,2026-04-09,2 Weeks,March,Spring,0,2026-02-03T15:14:52.075309
+"Hội An, Vietnam",230.0,2026-03-29,2026-04-14,2 Weeks,March,Batik Air and Vietjet,1,2026-02-03T15:14:52.075315
+"Bengaluru, India",248.0,2026-03-05,2026-03-21,2 Weeks,March,IndiGo,0,2026-02-03T15:14:52.075319
+"Hạ Long Bay, Vietnam",215.0,2026-03-02,2026-03-16,2 Weeks,March,Vietjet,0,2026-02-03T15:14:52.075323
+"Abu Dhabi, United Arab Emirates",480.0,2026-03-13,2026-03-26,2 Weeks,March,IndiGo and Air India,1,2026-02-03T15:14:52.075328
+"Chennai, India",182.0,2026-03-01,2026-03-16,2 Weeks,March,Scoot,0,2026-02-03T15:14:52.075332
+"Varanasi, India",324.0,2026-03-16,2026-03-30,2 Weeks,March,Air India and Air India Express,1,2026-02-03T15:14:52.075337
+"Agra, India",322.0,2026-03-12,2026-03-25,2 Weeks,March,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:14:52.075341
+"Udaipur, India",383.0,2026-03-01,2026-03-14,2 Weeks,March,Air India,1,2026-02-03T15:14:52.075345
+"Ko Samui, Thailand",330.0,2026-03-12,2026-03-26,2 Weeks,March,Scoot,0,2026-02-03T15:14:52.075349
+"Kolkata, India",244.0,2026-03-06,2026-03-19,2 Weeks,March,IndiGo,0,2026-02-03T15:14:52.075353
+"Taipei City, Taiwan",192.0,2026-03-26,2026-04-08,2 Weeks,March,Scoot,0,2026-02-03T15:14:52.075357
+"Kochi, India",269.0,2026-03-30,2026-04-13,2 Weeks,March,IndiGo,1,2026-02-03T15:14:52.075361
+"Kathmandu, Nepal",499.0,2026-03-16,2026-03-30,2 Weeks,March,Air India and Thai Lion Air,1,2026-02-03T15:14:52.075366
+"Manila, Philippines",208.0,2026-03-05,2026-03-18,2 Weeks,March,Scoot,0,2026-02-03T15:14:52.075370
+"Bahrain, Bahrain",782.0,2026-03-06,2026-03-22,2 Weeks,March,"Gulf Air, Malaysia Airlines, and Oman Air",2,2026-02-03T15:14:52.075374
+"Macao, Macao",321.0,2026-03-30,2026-04-15,2 Weeks,March,AirAsia and Scoot,1,2026-02-03T15:14:52.075378
+"Hyderabad, India",245.0,2026-03-12,2026-03-26,2 Weeks,March,IndiGo,0,2026-02-03T15:14:52.075383
+"Da Nang, Vietnam",230.0,2026-03-29,2026-04-14,2 Weeks,March,Batik Air and Vietjet,1,2026-02-03T15:14:52.075388
+"Phi Phi Islands, Thailand",143.0,2026-03-01,2026-03-14,2 Weeks,March,Thai Lion Air,0,2026-02-03T15:14:52.075393
+"Rishikesh, India",278.0,2026-03-27,2026-04-09,2 Weeks,March,Air India,2,2026-02-03T15:14:52.075398
+"Jodhpur, India",461.0,2026-03-01,2026-03-14,2 Weeks,March,Air India,1,2026-02-03T15:14:52.075403
+"Munnar, India",269.0,2026-03-30,2026-04-13,2 Weeks,March,IndiGo,1,2026-02-03T15:14:52.075407
+"Phú Quốc, Vietnam",219.0,2026-03-01,2026-03-14,2 Weeks,March,Vietjet,0,2026-02-03T15:14:52.075411
+"Ranthambore National Park, India",291.0,2026-03-05,2026-03-18,2 Weeks,March,Air India and Air India Express,1,2026-02-03T15:14:52.075415
+"Colombo, Sri Lanka",308.0,2026-03-16,2026-03-30,2 Weeks,March,AirAsia,1,2026-02-03T15:14:52.075419
+"Puducherry, India",192.0,2026-03-15,2026-03-29,2 Weeks,March,Scoot,0,2026-02-03T15:14:52.075425
+"Sapporo, Japan",555.0,2026-03-26,2026-04-09,2 Weeks,March,"AirAsia, AirAsia X, and Scoot",1,2026-02-03T15:14:52.075431
+"Chengdu, China",332.0,2026-03-06,2026-03-19,2 Weeks,March,Hainan,1,2026-02-03T15:14:52.075435
+"Xi'An, China",465.0,2026-03-01,2026-03-14,2 Weeks,March,XiamenAir,1,2026-02-03T15:14:52.075440
+"Boracay, Philippines",286.0,2026-03-02,2026-03-15,2 Weeks,March,Cebu Pacific,1,2026-02-03T15:14:52.075444
+"Cebu City, Philippines",206.0,2026-03-05,2026-03-18,2 Weeks,March,Scoot,0,2026-02-03T15:14:52.075448
+"Kaziranga National Park, India",338.0,2026-03-02,2026-03-15,2 Weeks,March,Air India and Air India Express,1,2026-02-03T15:14:52.075452
+"Guwahati, India",338.0,2026-03-02,2026-03-15,2 Weeks,March,Air India and Air India Express,1,2026-02-03T15:14:52.075456
+"Niseko, Japan",555.0,2026-03-26,2026-04-09,2 Weeks,March,"AirAsia, AirAsia X, and Scoot",1,2026-02-03T15:14:52.075462
+"Almaty, Kazakhstan",771.0,2026-03-16,2026-03-29,2 Weeks,March,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:14:52.075466
+"Guam, Guam",719.0,2026-03-05,2026-03-18,2 Weeks,March,Philippine Airlines,1,2026-02-03T15:14:52.075470
+"Tehran, Iran",1357.0,2026-03-02,2026-03-17,2 Weeks,March,"Emirates, flydubai, and Batik Air",2,2026-02-03T15:14:52.075475
+"Ras Al-Khaimah, United Arab Emirates",422.0,2026-03-12,2026-03-26,2 Weeks,March,IndiGo,1,2026-02-03T15:14:52.075479
+"Harbin, China",368.0,2026-03-26,2026-04-08,2 Weeks,March,China Southern,1,2026-02-03T15:14:52.075483
+"Ulaanbaatar, Mongolia",651.0,2026-03-08,2026-03-24,2 Weeks,March,Jeju Air,1,2026-02-03T15:14:52.075487
+"Furano, Japan",553.0,2026-03-29,2026-04-14,2 Weeks,March,Scoot and T'Way Air,1,2026-02-03T15:14:52.075494
+"Isfahan, Iran",1247.0,2026-03-07,2026-03-23,2 Weeks,March,XiamenAir and Qatar Airways,2,2026-02-03T15:14:52.075498
+"Issyk Kul, Kyrgyzstan",771.0,2026-03-16,2026-03-29,2 Weeks,March,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:14:52.075503
+"Asahikawa, Japan",553.0,2026-03-29,2026-04-14,2 Weeks,March,Scoot and T'Way Air,1,2026-02-03T15:14:52.075508
+"Ürümqi, China",666.0,2026-03-01,2026-03-14,2 Weeks,March,Cathay Pacific,1,2026-02-03T15:14:52.075512
+"Gorkhi Terelj National Park, Mongolia",651.0,2026-03-08,2026-03-24,2 Weeks,March,Jeju Air,1,2026-02-03T15:14:52.075519
+"Bangkok, Thailand",169.0,2026-04-24,2026-04-27,Weekend,April,Thai Lion Air,0,2026-02-03T15:14:54.173371
+"Federal Territory of Kuala Lumpur, Malaysia",111.0,2026-04-18,2026-04-20,Weekend,April,Scoot,0,2026-02-03T15:14:54.173405
+"Hanoi, Vietnam",208.0,2026-04-16,2026-04-19,Weekend,April,Scoot and Vietjet,0,2026-02-03T15:14:54.173412
+"Hong Kong, Hong Kong",299.0,2026-04-16,2026-04-19,Weekend,April,Scoot,0,2026-02-03T15:14:54.173418
+"Hội An, Vietnam",186.0,2026-04-16,2026-04-20,Weekend,April,Vietjet,0,2026-02-03T15:14:54.173423
+"Phuket, Thailand",166.0,2026-04-24,2026-04-27,Weekend,April,Scoot,0,2026-02-03T15:14:54.173428
+"Ho Chi Minh City, Vietnam",152.0,2026-04-09,2026-04-12,Weekend,April,Vietjet,0,2026-02-03T15:14:54.173433
+"Hạ Long Bay, Vietnam",208.0,2026-04-16,2026-04-19,Weekend,April,Scoot and Vietjet,0,2026-02-03T15:14:54.173438
+"Tokyo, Japan",415.0,2026-04-30,2026-05-04,Weekend,April,Scoot and ZIPAIR Tokyo,1,2026-02-03T15:14:54.173443
+"Mumbai, India",199.0,2026-04-09,2026-04-12,Weekend,April,Air India and Air India Express,2,2026-02-03T15:14:54.173449
+"New Delhi, India",348.0,2026-04-02,2026-04-06,Weekend,April,IndiGo and Batik Air,1,2026-02-03T15:14:54.173454
+"Dubai, United Arab Emirates",520.0,2026-04-17,2026-04-19,Weekend,April,IndiGo,1,2026-02-03T15:14:54.173459
+"Kyoto, Japan",411.0,2026-04-24,2026-04-27,Weekend,April,Peach Aviation and Scoot,0,2026-02-03T15:14:54.173466
+"Chiang Mai, Thailand",333.0,2026-04-18,2026-04-20,Weekend,April,Thai Lion Air and Scoot,1,2026-02-03T15:14:54.173477
+"Jaipur, India",281.0,2026-04-25,2026-04-27,Weekend,April,Air India and Air India Express,1,2026-02-03T15:14:54.173492
+"Seoul, South Korea",355.0,2026-04-17,2026-04-20,Weekend,April,Scoot and Vietjet,1,2026-02-03T15:14:54.173505
+"Goa, India",257.0,2026-04-09,2026-04-13,Weekend,April,Air India and Air India Express,1,2026-02-03T15:14:54.173517
+"Beijing, China",361.0,2026-04-02,2026-04-06,Weekend,April,Malaysia Airlines and Vietjet,1,2026-02-03T15:14:54.173529
+"Osaka, Japan",411.0,2026-04-24,2026-04-27,Weekend,April,Peach Aviation and Scoot,0,2026-02-03T15:14:54.173538
+"Shanghai, China",309.0,2026-04-11,2026-04-13,Weekend,April,Spring,0,2026-02-03T15:14:54.173548
+"Bengaluru, India",201.0,2026-04-03,2026-04-05,Weekend,April,Air India and Air India Express,1,2026-02-03T15:14:54.173557
+"Abu Dhabi, United Arab Emirates",520.0,2026-04-17,2026-04-19,Weekend,April,IndiGo,1,2026-02-03T15:14:54.173567
+"Chennai, India",192.0,2026-04-10,2026-04-12,Weekend,April,Scoot,0,2026-02-03T15:14:54.173576
+"Varanasi, India",324.0,2026-04-09,2026-04-12,Weekend,April,Air India and Air India Express,1,2026-02-03T15:14:54.173585
+"Agra, India",348.0,2026-04-02,2026-04-06,Weekend,April,IndiGo and Batik Air,1,2026-02-03T15:14:54.173592
+"Udaipur, India",307.0,2026-04-02,2026-04-06,Weekend,April,Air India,1,2026-02-03T15:14:54.173645
+"Da Nang, Vietnam",186.0,2026-04-16,2026-04-20,Weekend,April,Vietjet,0,2026-02-03T15:14:54.173661
+"Ko Samui, Thailand",330.0,2026-04-23,2026-04-26,Weekend,April,Scoot,0,2026-02-03T15:14:54.173685
+"Kolkata, India",253.0,2026-04-11,2026-04-12,Weekend,April,Air India and Air India Express,1,2026-02-03T15:14:54.173694
+"Taipei City, Taiwan",192.0,2026-04-09,2026-04-13,Weekend,April,Scoot,0,2026-02-03T15:14:54.173700
+"Kochi, India",260.0,2026-04-02,2026-04-06,Weekend,April,Air India,1,2026-02-03T15:14:54.173706
+"Kathmandu, Nepal",611.0,2026-04-10,2026-04-12,Weekend,April,Air India,1,2026-02-03T15:14:54.173711
+"Manila, Philippines",233.0,2026-04-11,2026-04-13,Weekend,April,Scoot,0,2026-02-03T15:14:54.173716
+"Bahrain, Bahrain",841.0,2026-04-02,2026-04-05,Weekend,April,Etihad,1,2026-02-03T15:14:54.173721
+"Macao, Macao",323.0,2026-04-23,2026-04-27,Weekend,April,Thai Lion Air and Scoot,1,2026-02-03T15:14:54.173725
+"Hyderabad, India",251.0,2026-04-16,2026-04-20,Weekend,April,IndiGo and AirAsia,1,2026-02-03T15:14:54.173732
+"Pattaya City, Thailand",169.0,2026-04-24,2026-04-27,Weekend,April,Thai Lion Air,0,2026-02-03T15:14:54.173744
+"Shimla, India",323.0,2026-04-04,2026-04-06,Weekend,April,Air India,1,2026-02-03T15:14:54.173759
+"Phi Phi Islands, Thailand",166.0,2026-04-24,2026-04-27,Weekend,April,Scoot,0,2026-02-03T15:14:54.173771
+"Rishikesh, India",348.0,2026-04-04,2026-04-06,Weekend,April,IndiGo and Batik Air,1,2026-02-03T15:14:54.173783
+"Manali, India",323.0,2026-04-04,2026-04-06,Weekend,April,Air India,1,2026-02-03T15:14:54.173791
+"Jodhpur, India",331.0,2026-04-30,2026-05-04,Weekend,April,Air India,1,2026-02-03T15:14:54.173796
+"Munnar, India",260.0,2026-04-02,2026-04-06,Weekend,April,Air India,1,2026-02-03T15:14:54.173801
+"Phú Quốc, Vietnam",219.0,2026-04-23,2026-04-27,Weekend,April,Vietjet,0,2026-02-03T15:14:54.173807
+"Ranthambore National Park, India",281.0,2026-04-25,2026-04-27,Weekend,April,Air India and Air India Express,1,2026-02-03T15:14:54.173812
+"Colombo, Sri Lanka",352.0,2026-04-24,2026-04-27,Weekend,April,AirAsia and Batik Air,1,2026-02-03T15:14:54.173817
+"Puducherry, India",192.0,2026-04-10,2026-04-12,Weekend,April,Scoot,0,2026-02-03T15:14:54.173824
+"Sapporo, Japan",565.0,2026-04-23,2026-04-26,Weekend,April,Scoot and T'Way Air,1,2026-02-03T15:14:54.173833
+"Chengdu, China",405.0,2026-04-23,2026-04-27,Weekend,April,Cathay Pacific,1,2026-02-03T15:14:54.173838
+"Xi'An, China",421.0,2026-04-03,2026-04-05,Weekend,April,Shandong and Scoot,1,2026-02-03T15:14:54.173844
+"Boracay, Philippines",335.0,2026-04-23,2026-04-26,Weekend,April,Cebu Pacific,1,2026-02-03T15:14:54.173849
+"Cebu City, Philippines",238.0,2026-04-10,2026-04-12,Weekend,April,Cebu Pacific and Scoot,0,2026-02-03T15:14:54.173853
+"Kaziranga National Park, India",339.0,2026-04-23,2026-04-26,Weekend,April,Air India and Air India Express,1,2026-02-03T15:14:54.173859
+"Guwahati, India",339.0,2026-04-23,2026-04-26,Weekend,April,Air India and Air India Express,1,2026-02-03T15:14:54.173864
+"Tashkent, Uzbekistan",745.0,2026-04-24,2026-04-27,Weekend,April,AirAsia and AirAsia X,1,2026-02-03T15:14:54.173869
+"Niseko, Japan",565.0,2026-04-23,2026-04-26,Weekend,April,Scoot and T'Way Air,1,2026-02-03T15:14:54.173874
+"Almaty, Kazakhstan",806.0,2026-04-24,2026-04-27,Weekend,April,Thai AirAsia and Thai AirAsia X,1,2026-02-03T15:14:54.173878
+"Guam, Guam",752.0,2026-04-23,2026-04-27,Weekend,April,Philippine Airlines,1,2026-02-03T15:14:54.173882
+"Tehran, Iran",1419.0,2026-04-16,2026-04-19,Weekend,April,"Emirates, flydubai, and Malaysia Airlines",2,2026-02-03T15:14:54.173894
+"Ras Al-Khaimah, United Arab Emirates",540.0,2026-04-04,2026-04-06,Weekend,April,IndiGo and Singapore Airlines,1,2026-02-03T15:14:54.173898
+"Harbin, China",374.0,2026-04-09,2026-04-13,Weekend,April,China Southern and Shandong,1,2026-02-03T15:14:54.173903
+"Ulaanbaatar, Mongolia",1336.0,2026-04-30,2026-05-04,Weekend,April,Cathay Pacific and MIAT,1,2026-02-03T15:14:54.173908
+"Furano, Japan",565.0,2026-04-23,2026-04-26,Weekend,April,Scoot and T'Way Air,1,2026-02-03T15:14:54.173916
+"Issyk Kul, Kyrgyzstan",806.0,2026-04-24,2026-04-27,Weekend,April,Thai AirAsia and Thai AirAsia X,1,2026-02-03T15:14:54.173922
+"Asahikawa, Japan",565.0,2026-04-23,2026-04-26,Weekend,April,Scoot and T'Way Air,1,2026-02-03T15:14:54.173928
+"Ürümqi, China",533.0,2026-04-09,2026-04-13,Weekend,April,Shandong,1,2026-02-03T15:14:54.173932
+"Padang, Indonesia",193.0,2026-04-11,2026-04-13,Weekend,April,Scoot,0,2026-02-03T15:14:54.173939
+"Gorkhi Terelj National Park, Mongolia",1336.0,2026-04-30,2026-05-04,Weekend,April,Cathay Pacific and MIAT,1,2026-02-03T15:14:54.173943
+"Tokyo, Japan",362.0,2026-04-30,2026-05-08,1 Week,April,Scoot and ZIPAIR Tokyo,0,2026-02-03T15:15:00.758927
+"Hanoi, Vietnam",200.0,2026-04-16,2026-04-22,1 Week,April,Scoot,0,2026-02-03T15:15:00.758946
+"Kyoto, Japan",355.0,2026-04-27,2026-05-06,1 Week,April,"AirAsia, AirAsia X, and Peach Aviation",1,2026-02-03T15:15:00.758952
+"Hong Kong, Hong Kong",290.0,2026-04-16,2026-04-23,1 Week,April,Scoot,0,2026-02-03T15:15:00.758957
+"Hạ Long Bay, Vietnam",200.0,2026-04-09,2026-04-16,1 Week,April,Scoot,0,2026-02-03T15:15:00.758962
+"Osaka, Japan",355.0,2026-04-27,2026-05-06,1 Week,April,"AirAsia, AirAsia X, and Peach Aviation",1,2026-02-03T15:15:00.758966
+"Phuket, Thailand",144.0,2026-04-27,2026-05-06,1 Week,April,Scoot,0,2026-02-03T15:15:00.758970
+"Bangkok, Thailand",170.0,2026-04-20,2026-04-28,1 Week,April,Scoot,0,2026-02-03T15:15:00.758974
+"Seoul, South Korea",330.0,2026-04-26,2026-05-04,1 Week,April,Shandong and Scoot,1,2026-02-03T15:15:00.758979
+"Ho Chi Minh City, Vietnam",152.0,2026-04-04,2026-04-11,1 Week,April,Vietjet,0,2026-02-03T15:15:00.758984
+"Mumbai, India",294.0,2026-04-06,2026-04-12,1 Week,April,IndiGo,0,2026-02-03T15:15:00.758988
+"New Delhi, India",342.0,2026-04-02,2026-04-08,1 Week,April,IndiGo and Batik Air,1,2026-02-03T15:15:00.758992
+"Federal Territory of Kuala Lumpur, Malaysia",98.0,2026-04-06,2026-04-15,1 Week,April,AirAsia,0,2026-02-03T15:15:00.758996
+"Dubai, United Arab Emirates",525.0,2026-04-04,2026-04-12,1 Week,April,IndiGo,1,2026-02-03T15:15:00.759000
+"Chiang Mai, Thailand",265.0,2026-04-23,2026-05-01,1 Week,April,Scoot,0,2026-02-03T15:15:00.759004
+"Jaipur, India",294.0,2026-04-02,2026-04-08,1 Week,April,Air India and Air India Express,1,2026-02-03T15:15:00.759008
+"Goa, India",261.0,2026-04-09,2026-04-16,1 Week,April,Air India and Air India Express,1,2026-02-03T15:15:00.759013
+"Beijing, China",318.0,2026-04-27,2026-05-03,1 Week,April,China Southern and Chongqing Airlines,1,2026-02-03T15:15:00.759017
+"Hội An, Vietnam",186.0,2026-04-11,2026-04-20,1 Week,April,Vietjet,0,2026-02-03T15:15:00.759021
+"Shanghai, China",273.0,2026-04-27,2026-05-05,1 Week,April,Spring,0,2026-02-03T15:15:00.759025
+"Bengaluru, India",206.0,2026-04-30,2026-05-06,1 Week,April,Air India and Air India Express,1,2026-02-03T15:15:00.759029
+"Abu Dhabi, United Arab Emirates",525.0,2026-04-04,2026-04-12,1 Week,April,IndiGo,1,2026-02-03T15:15:00.759033
+"Taipei City, Taiwan",192.0,2026-04-09,2026-04-15,1 Week,April,Scoot,0,2026-02-03T15:15:00.759037
+"Chennai, India",192.0,2026-04-30,2026-05-06,1 Week,April,Air India and Air India Express,2,2026-02-03T15:15:00.759041
+"Varanasi, India",324.0,2026-04-06,2026-04-13,1 Week,April,Air India and Air India Express,1,2026-02-03T15:15:00.759045
+"Agra, India",342.0,2026-04-02,2026-04-08,1 Week,April,IndiGo and Batik Air,1,2026-02-03T15:15:00.759049
+"Udaipur, India",307.0,2026-04-02,2026-04-08,1 Week,April,Air India,1,2026-02-03T15:15:00.759053
+"Ko Samui, Thailand",339.0,2026-04-18,2026-04-26,1 Week,April,Scoot,0,2026-02-03T15:15:00.759057
+"Kolkata, India",255.0,2026-04-30,2026-05-06,1 Week,April,Air India and Air India Express,1,2026-02-03T15:15:00.759061
+"Kochi, India",260.0,2026-04-09,2026-04-15,1 Week,April,Air India,1,2026-02-03T15:15:00.759065
+"Kathmandu, Nepal",610.0,2026-04-09,2026-04-16,1 Week,April,Air India,1,2026-02-03T15:15:00.759068
+"Manila, Philippines",230.0,2026-04-30,2026-05-07,1 Week,April,Scoot,0,2026-02-03T15:15:00.759072
+"Bahrain, Bahrain",841.0,2026-04-02,2026-04-08,1 Week,April,Etihad,1,2026-02-03T15:15:00.759076
+"Macao, Macao",309.0,2026-04-30,2026-05-06,1 Week,April,Thai Lion Air and Scoot,1,2026-02-03T15:15:00.759080
+"Hyderabad, India",264.0,2026-04-03,2026-04-10,1 Week,April,Air India,1,2026-02-03T15:15:00.759084
+"Da Nang, Vietnam",186.0,2026-04-11,2026-04-20,1 Week,April,Vietjet,0,2026-02-03T15:15:00.759088
+"Shimla, India",227.0,2026-04-04,2026-04-13,1 Week,April,Air India and Air India Express,2,2026-02-03T15:15:00.759093
+"Phi Phi Islands, Thailand",141.0,2026-04-19,2026-04-28,1 Week,April,Scoot,0,2026-02-03T15:15:00.759097
+"Rishikesh, India",227.0,2026-04-04,2026-04-13,1 Week,April,Air India and Air India Express,2,2026-02-03T15:15:00.759101
+"Manali, India",227.0,2026-04-04,2026-04-13,1 Week,April,Air India and Air India Express,2,2026-02-03T15:15:00.759104
+"Jodhpur, India",316.0,2026-04-30,2026-05-07,1 Week,April,Air India,1,2026-02-03T15:15:00.759108
+"Munnar, India",260.0,2026-04-09,2026-04-15,1 Week,April,Air India,1,2026-02-03T15:15:00.759113
+"Phú Quốc, Vietnam",219.0,2026-04-16,2026-04-23,1 Week,April,Vietjet,0,2026-02-03T15:15:00.759117
+"Ranthambore National Park, India",294.0,2026-04-02,2026-04-08,1 Week,April,Air India and Air India Express,1,2026-02-03T15:15:00.759121
+"Colombo, Sri Lanka",308.0,2026-04-27,2026-05-05,1 Week,April,AirAsia,1,2026-02-03T15:15:00.759125
+"Puducherry, India",192.0,2026-04-30,2026-05-06,1 Week,April,Air India and Air India Express,2,2026-02-03T15:15:00.759130
+"Sapporo, Japan",541.0,2026-04-09,2026-04-16,1 Week,April,Scoot,1,2026-02-03T15:15:00.759136
+"Chengdu, China",327.0,2026-04-27,2026-05-05,1 Week,April,AirAsia and AirAsia X,1,2026-02-03T15:15:00.759141
+"Xi'An, China",421.0,2026-04-03,2026-04-12,1 Week,April,Shandong and Scoot,1,2026-02-03T15:15:00.759144
+"Boracay, Philippines",297.0,2026-04-09,2026-04-16,1 Week,April,Cebu Pacific,1,2026-02-03T15:15:00.759148
+"Cebu City, Philippines",234.0,2026-04-10,2026-04-17,1 Week,April,Cebu Pacific,0,2026-02-03T15:15:00.759152
+"Kaziranga National Park, India",339.0,2026-04-02,2026-04-08,1 Week,April,Air India and Air India Express,1,2026-02-03T15:15:00.759157
+"Guwahati, India",339.0,2026-04-02,2026-04-08,1 Week,April,Air India and Air India Express,1,2026-02-03T15:15:00.759161
+"Tashkent, Uzbekistan",678.0,2026-04-20,2026-04-27,1 Week,April,"AirAsia, AirAsia X, and Batik Air",1,2026-02-03T15:15:00.759165
+"Niseko, Japan",541.0,2026-04-09,2026-04-16,1 Week,April,Scoot,1,2026-02-03T15:15:00.759169
+"Almaty, Kazakhstan",742.0,2026-04-20,2026-04-28,1 Week,April,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:00.759173
+"Guam, Guam",752.0,2026-04-23,2026-04-29,1 Week,April,Philippine Airlines,1,2026-02-03T15:15:00.759177
+"Tehran, Iran",1419.0,2026-04-06,2026-04-13,1 Week,April,"Emirates, flydubai, and Malaysia Airlines",2,2026-02-03T15:15:00.759181
+"Ras Al-Khaimah, United Arab Emirates",525.0,2026-04-04,2026-04-12,1 Week,April,IndiGo,1,2026-02-03T15:15:00.759185
+"Harbin, China",314.0,2026-04-25,2026-05-04,1 Week,April,China Southern,1,2026-02-03T15:15:00.759190
+"Ulaanbaatar, Mongolia",1336.0,2026-04-30,2026-05-09,1 Week,April,Cathay Pacific and MIAT,1,2026-02-03T15:15:00.759194
+"Khiva, Uzbekistan",1269.0,2026-04-02,2026-04-08,1 Week,April,Turkish Airlines,1,2026-02-03T15:15:00.759200
+"Furano, Japan",541.0,2026-04-09,2026-04-16,1 Week,April,Scoot,1,2026-02-03T15:15:00.759204
+"Issyk Kul, Kyrgyzstan",742.0,2026-04-20,2026-04-28,1 Week,April,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:00.759209
+"Asahikawa, Japan",541.0,2026-04-09,2026-04-16,1 Week,April,Scoot,1,2026-02-03T15:15:00.759214
+"Ürümqi, China",483.0,2026-04-12,2026-04-21,1 Week,April,Shandong,1,2026-02-03T15:15:00.759225
+"Padang, Indonesia",159.0,2026-04-20,2026-04-28,1 Week,April,Scoot,0,2026-02-03T15:15:00.759230
+"Gorkhi Terelj National Park, Mongolia",1336.0,2026-04-30,2026-05-09,1 Week,April,Cathay Pacific and MIAT,1,2026-02-03T15:15:00.759234
+"Hong Kong, Hong Kong",281.0,2026-04-23,2026-05-07,2 Weeks,April,Scoot,0,2026-02-03T15:15:04.013997
+"Hanoi, Vietnam",200.0,2026-04-09,2026-04-22,2 Weeks,April,Scoot,0,2026-02-03T15:15:04.014023
+"Bangkok, Thailand",162.0,2026-04-27,2026-05-13,2 Weeks,April,Scoot,0,2026-02-03T15:15:04.014032
+"Tokyo, Japan",362.0,2026-04-23,2026-05-08,2 Weeks,April,Scoot and ZIPAIR Tokyo,0,2026-02-03T15:15:04.014040
+"Ho Chi Minh City, Vietnam",152.0,2026-04-04,2026-04-18,2 Weeks,April,Vietjet,0,2026-02-03T15:15:04.014048
+"Mumbai, India",311.0,2026-04-18,2026-05-03,2 Weeks,April,IndiGo and SriLankan,1,2026-02-03T15:15:04.014056
+"New Delhi, India",321.0,2026-04-04,2026-04-20,2 Weeks,April,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:04.014064
+"Federal Territory of Kuala Lumpur, Malaysia",98.0,2026-04-06,2026-04-22,2 Weeks,April,AirAsia,0,2026-02-03T15:15:04.014072
+"Dubai, United Arab Emirates",509.0,2026-04-03,2026-04-16,2 Weeks,April,IndiGo,1,2026-02-03T15:15:04.014082
+"Kyoto, Japan",333.0,2026-04-23,2026-05-07,2 Weeks,April,Peach Aviation and Scoot,0,2026-02-03T15:15:04.014090
+"Chiang Mai, Thailand",265.0,2026-04-20,2026-05-06,2 Weeks,April,Scoot,0,2026-02-03T15:15:04.014097
+"Jaipur, India",294.0,2026-04-02,2026-04-16,2 Weeks,April,Air India and Air India Express,1,2026-02-03T15:15:04.014105
+"Phuket, Thailand",144.0,2026-04-27,2026-05-13,2 Weeks,April,Scoot,0,2026-02-03T15:15:04.014113
+"Seoul, South Korea",286.0,2026-04-26,2026-05-11,2 Weeks,April,Scoot,0,2026-02-03T15:15:04.014121
+"Goa, India",257.0,2026-04-13,2026-04-28,2 Weeks,April,Air India and Air India Express,1,2026-02-03T15:15:04.014129
+"Beijing, China",280.0,2026-04-27,2026-05-10,2 Weeks,April,China Southern,1,2026-02-03T15:15:04.014138
+"Osaka, Japan",333.0,2026-04-23,2026-05-07,2 Weeks,April,Peach Aviation and Scoot,0,2026-02-03T15:15:04.014146
+"Shanghai, China",290.0,2026-04-30,2026-05-16,2 Weeks,April,"Spring, AirAsia, and AirAsia X",1,2026-02-03T15:15:04.014154
+"Hội An, Vietnam",186.0,2026-04-11,2026-04-24,2 Weeks,April,Vietjet,0,2026-02-03T15:15:04.014163
+"Bengaluru, India",206.0,2026-04-30,2026-05-13,2 Weeks,April,Air India and Air India Express,1,2026-02-03T15:15:04.014172
+"Hạ Long Bay, Vietnam",200.0,2026-04-23,2026-05-06,2 Weeks,April,Scoot,0,2026-02-03T15:15:04.014180
+"Abu Dhabi, United Arab Emirates",509.0,2026-04-03,2026-04-16,2 Weeks,April,IndiGo,1,2026-02-03T15:15:04.014188
+"Chennai, India",182.0,2026-04-27,2026-05-13,2 Weeks,April,Scoot,0,2026-02-03T15:15:04.014197
+"Varanasi, India",324.0,2026-04-06,2026-04-19,2 Weeks,April,Air India and Air India Express,1,2026-02-03T15:15:04.014205
+"Agra, India",321.0,2026-04-04,2026-04-20,2 Weeks,April,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:04.014215
+"Ko Samui, Thailand",330.0,2026-04-23,2026-05-06,2 Weeks,April,Scoot,0,2026-02-03T15:15:04.014226
+"Kolkata, India",255.0,2026-04-30,2026-05-13,2 Weeks,April,Air India and Air India Express,1,2026-02-03T15:15:04.014235
+"Taipei City, Taiwan",192.0,2026-04-09,2026-04-22,2 Weeks,April,Scoot,0,2026-02-03T15:15:04.014244
+"Kochi, India",260.0,2026-04-30,2026-05-13,2 Weeks,April,Air India,1,2026-02-03T15:15:04.014252
+"Kathmandu, Nepal",611.0,2026-04-04,2026-04-18,2 Weeks,April,Air India,1,2026-02-03T15:15:04.014259
+"Manila, Philippines",187.0,2026-04-27,2026-05-10,2 Weeks,April,Cebu Pacific and Scoot,0,2026-02-03T15:15:04.014267
+"Bahrain, Bahrain",841.0,2026-04-02,2026-04-18,2 Weeks,April,Etihad,1,2026-02-03T15:15:04.014274
+"Macao, Macao",292.0,2026-04-26,2026-05-12,2 Weeks,April,Thai Lion Air and Scoot,1,2026-02-03T15:15:04.014281
+"Hyderabad, India",251.0,2026-04-04,2026-04-20,2 Weeks,April,IndiGo and AirAsia,1,2026-02-03T15:15:04.014289
+"Da Nang, Vietnam",186.0,2026-04-11,2026-04-24,2 Weeks,April,Vietjet,0,2026-02-03T15:15:04.014299
+"Munnar, India",260.0,2026-04-30,2026-05-13,2 Weeks,April,Air India,1,2026-02-03T15:15:04.014312
+"Phú Quốc, Vietnam",175.0,2026-04-23,2026-05-06,2 Weeks,April,Vietjet,0,2026-02-03T15:15:04.014321
+"Ranthambore National Park, India",294.0,2026-04-02,2026-04-16,2 Weeks,April,Air India and Air India Express,1,2026-02-03T15:15:04.014329
+"Colombo, Sri Lanka",308.0,2026-04-27,2026-05-12,2 Weeks,April,AirAsia,1,2026-02-03T15:15:04.014338
+"Puducherry, India",182.0,2026-04-27,2026-05-13,2 Weeks,April,Scoot,0,2026-02-03T15:15:04.014348
+"Sapporo, Japan",509.0,2026-04-26,2026-05-12,2 Weeks,April,Scoot,1,2026-02-03T15:15:04.014360
+"Xi'An, China",343.0,2026-04-24,2026-05-07,2 Weeks,April,China Southern,1,2026-02-03T15:15:04.014369
+"Boracay, Philippines",307.0,2026-04-23,2026-05-07,2 Weeks,April,Cebu Pacific,1,2026-02-03T15:15:04.014379
+"Cebu City, Philippines",220.0,2026-04-27,2026-05-13,2 Weeks,April,Cebu Pacific,1,2026-02-03T15:15:04.014389
+"Kaziranga National Park, India",339.0,2026-04-02,2026-04-15,2 Weeks,April,Air India and Air India Express,1,2026-02-03T15:15:04.014399
+"Guwahati, India",339.0,2026-04-02,2026-04-15,2 Weeks,April,Air India and Air India Express,1,2026-02-03T15:15:04.014407
+"Niseko, Japan",509.0,2026-04-26,2026-05-12,2 Weeks,April,Scoot,1,2026-02-03T15:15:04.014418
+"Almaty, Kazakhstan",771.0,2026-04-24,2026-05-07,2 Weeks,April,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:04.014427
+"Guam, Guam",752.0,2026-04-16,2026-04-29,2 Weeks,April,Philippine Airlines,1,2026-02-03T15:15:04.014435
+"Tehran, Iran",1419.0,2026-04-06,2026-04-22,2 Weeks,April,"Emirates, flydubai, and Malaysia Airlines",2,2026-02-03T15:15:04.014444
+"Harbin, China",314.0,2026-04-20,2026-05-04,2 Weeks,April,China Southern,1,2026-02-03T15:15:04.014453
+"Ulaanbaatar, Mongolia",1291.0,2026-04-26,2026-05-11,2 Weeks,April,Cathay Pacific and MIAT,1,2026-02-03T15:15:04.014462
+"Furano, Japan",509.0,2026-04-26,2026-05-12,2 Weeks,April,Scoot,1,2026-02-03T15:15:04.014476
+"Issyk Kul, Kyrgyzstan",771.0,2026-04-24,2026-05-07,2 Weeks,April,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:04.014485
+"Asahikawa, Japan",509.0,2026-04-26,2026-05-12,2 Weeks,April,Scoot,1,2026-02-03T15:15:04.014495
+"Gorkhi Terelj National Park, Mongolia",1291.0,2026-04-26,2026-05-11,2 Weeks,April,Cathay Pacific and MIAT,1,2026-02-03T15:15:04.014509
+"Bangkok, Thailand",159.0,2026-05-07,2026-05-11,Weekend,May,Thai Lion Air,0,2026-02-03T15:15:06.627552
+"Federal Territory of Kuala Lumpur, Malaysia",119.0,2026-05-08,2026-05-11,Weekend,May,Scoot,0,2026-02-03T15:15:06.627583
+"Hong Kong, Hong Kong",302.0,2026-05-14,2026-05-17,Weekend,May,Singapore Airlines,0,2026-02-03T15:15:06.627590
+"Hội An, Vietnam",186.0,2026-05-07,2026-05-10,Weekend,May,Vietjet,0,2026-02-03T15:15:06.627595
+"Ho Chi Minh City, Vietnam",152.0,2026-05-07,2026-05-10,Weekend,May,Vietjet,0,2026-02-03T15:15:06.627599
+"Hanoi, Vietnam",208.0,2026-05-07,2026-05-10,Weekend,May,Scoot and Vietjet,0,2026-02-03T15:15:06.627604
+"Tokyo, Japan",370.0,2026-05-16,2026-05-18,Weekend,May,"AirAsia, AirAsia X, and Scoot",1,2026-02-03T15:15:06.627608
+"Mumbai, India",206.0,2026-05-07,2026-05-10,Weekend,May,Air India and Air India Express,2,2026-02-03T15:15:06.627612
+"New Delhi, India",360.0,2026-05-21,2026-05-24,Weekend,May,IndiGo and SriLankan,1,2026-02-03T15:15:06.627617
+"Dubai, United Arab Emirates",560.0,2026-05-22,2026-05-25,Weekend,May,Gulf Air,1,2026-02-03T15:15:06.627622
+"Kyoto, Japan",467.0,2026-05-08,2026-05-10,Weekend,May,Peach Aviation and Scoot,0,2026-02-03T15:15:06.627627
+"Chiang Mai, Thailand",282.0,2026-05-23,2026-05-25,Weekend,May,Thai Lion Air and Scoot,1,2026-02-03T15:15:06.627631
+"Jaipur, India",291.0,2026-05-09,2026-05-11,Weekend,May,Air India,1,2026-02-03T15:15:06.627635
+"Phuket, Thailand",159.0,2026-05-14,2026-05-18,Weekend,May,Scoot,0,2026-02-03T15:15:06.627639
+"Seoul, South Korea",323.0,2026-05-07,2026-05-11,Weekend,May,Scoot and Vietjet,1,2026-02-03T15:15:06.627643
+"Goa, India",261.0,2026-05-07,2026-05-11,Weekend,May,Air India and Air India Express,1,2026-02-03T15:15:06.627647
+"Beijing, China",405.0,2026-05-22,2026-05-24,Weekend,May,Cathay Pacific,1,2026-02-03T15:15:06.627651
+"Osaka, Japan",467.0,2026-05-08,2026-05-10,Weekend,May,Peach Aviation and Scoot,0,2026-02-03T15:15:06.627655
+"Shanghai, China",291.0,2026-05-01,2026-05-04,Weekend,May,Spring,0,2026-02-03T15:15:06.627659
+"Bengaluru, India",201.0,2026-05-01,2026-05-03,Weekend,May,Air India and Air India Express,1,2026-02-03T15:15:06.627664
+"Hạ Long Bay, Vietnam",208.0,2026-05-07,2026-05-10,Weekend,May,Scoot and Vietjet,0,2026-02-03T15:15:06.627668
+"Abu Dhabi, United Arab Emirates",560.0,2026-05-22,2026-05-25,Weekend,May,Gulf Air,1,2026-02-03T15:15:06.627672
+"Chennai, India",192.0,2026-05-07,2026-05-11,Weekend,May,Air India and Air India Express,2,2026-02-03T15:15:06.627676
+"Varanasi, India",324.0,2026-05-07,2026-05-10,Weekend,May,Air India and Air India Express,1,2026-02-03T15:15:06.627680
+"Agra, India",360.0,2026-05-21,2026-05-24,Weekend,May,IndiGo and SriLankan,1,2026-02-03T15:15:06.627684
+"Udaipur, India",307.0,2026-05-07,2026-05-11,Weekend,May,Air India,1,2026-02-03T15:15:06.627688
+"Ko Samui, Thailand",330.0,2026-05-14,2026-05-18,Weekend,May,Scoot,0,2026-02-03T15:15:06.627692
+"Da Nang, Vietnam",186.0,2026-05-07,2026-05-10,Weekend,May,Vietjet,0,2026-02-03T15:15:06.627696
+"Kolkata, India",253.0,2026-05-08,2026-05-10,Weekend,May,Air India and Air India Express,1,2026-02-03T15:15:06.627700
+"Taipei City, Taiwan",192.0,2026-05-07,2026-05-10,Weekend,May,Scoot,0,2026-02-03T15:15:06.627704
+"Kochi, India",267.0,2026-05-14,2026-05-18,Weekend,May,Air India,1,2026-02-03T15:15:06.627708
+"Kathmandu, Nepal",571.0,2026-05-21,2026-05-24,Weekend,May,Air India and Thai Lion Air,1,2026-02-03T15:15:06.627712
+"Manila, Philippines",187.0,2026-05-07,2026-05-10,Weekend,May,Cebu Pacific and Scoot,0,2026-02-03T15:15:06.627716
+"Bahrain, Bahrain",669.0,2026-05-28,2026-05-31,Weekend,May,Malaysia Airlines and Oman Air,2,2026-02-03T15:15:06.627720
+"Macao, Macao",304.0,2026-05-14,2026-05-17,Weekend,May,Thai Lion Air,1,2026-02-03T15:15:06.627724
+"Hyderabad, India",258.0,2026-05-07,2026-05-10,Weekend,May,Air India,1,2026-02-03T15:15:06.627728
+"Shimla, India",300.0,2026-05-21,2026-05-24,Weekend,May,Air India,1,2026-02-03T15:15:06.627732
+"Pattaya City, Thailand",159.0,2026-05-07,2026-05-11,Weekend,May,Thai Lion Air,0,2026-02-03T15:15:06.627736
+"Rishikesh, India",329.0,2026-05-21,2026-05-24,Weekend,May,Air India,1,2026-02-03T15:15:06.627741
+"Manali, India",300.0,2026-05-21,2026-05-24,Weekend,May,Air India,1,2026-02-03T15:15:06.627746
+"Jodhpur, India",310.0,2026-05-14,2026-05-18,Weekend,May,Air India,1,2026-02-03T15:15:06.627750
+"Munnar, India",267.0,2026-05-14,2026-05-18,Weekend,May,Air India,1,2026-02-03T15:15:06.627754
+"Phú Quốc, Vietnam",185.0,2026-05-09,2026-05-11,Weekend,May,Vietjet,0,2026-02-03T15:15:06.627758
+"Ranthambore National Park, India",291.0,2026-05-09,2026-05-11,Weekend,May,Air India,1,2026-02-03T15:15:06.627762
+"Colombo, Sri Lanka",440.0,2026-05-22,2026-05-25,Weekend,May,Batik Air,1,2026-02-03T15:15:06.627766
+"Puducherry, India",192.0,2026-05-07,2026-05-11,Weekend,May,Air India and Air India Express,2,2026-02-03T15:15:06.627771
+"Sapporo, Japan",565.0,2026-05-21,2026-05-24,Weekend,May,Scoot and T'Way Air,1,2026-02-03T15:15:06.627777
+"Chengdu, China",327.0,2026-05-07,2026-05-11,Weekend,May,AirAsia and AirAsia X,1,2026-02-03T15:15:06.627781
+"Xi'An, China",356.0,2026-05-02,2026-05-04,Weekend,May,Scoot,0,2026-02-03T15:15:06.627785
+"Boracay, Philippines",275.0,2026-05-28,2026-06-01,Weekend,May,Cebu Pacific,1,2026-02-03T15:15:06.627789
+"Cebu City, Philippines",244.0,2026-05-16,2026-05-18,Weekend,May,Cebu Pacific,0,2026-02-03T15:15:06.627793
+"Kaziranga National Park, India",339.0,2026-05-01,2026-05-03,Weekend,May,Air India and Air India Express,1,2026-02-03T15:15:06.627798
+"Guwahati, India",339.0,2026-05-01,2026-05-03,Weekend,May,Air India and Air India Express,1,2026-02-03T15:15:06.627801
+"Tashkent, Uzbekistan",628.0,2026-05-15,2026-05-18,Weekend,May,AirAsia and AirAsia X,1,2026-02-03T15:15:06.627806
+"Niseko, Japan",565.0,2026-05-21,2026-05-24,Weekend,May,Scoot and T'Way Air,1,2026-02-03T15:15:06.627810
+"Almaty, Kazakhstan",820.0,2026-05-21,2026-05-25,Weekend,May,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:06.627814
+"Guam, Guam",752.0,2026-05-07,2026-05-11,Weekend,May,Philippine Airlines,1,2026-02-03T15:15:06.627818
+"Tehran, Iran",1419.0,2026-05-01,2026-05-04,Weekend,May,"Emirates, flydubai, and Malaysia Airlines",2,2026-02-03T15:15:06.627822
+"Ras Al-Khaimah, United Arab Emirates",503.0,2026-05-02,2026-05-03,Weekend,May,IndiGo,1,2026-02-03T15:15:06.627826
+"Harbin, China",314.0,2026-05-01,2026-05-04,Weekend,May,China Southern,1,2026-02-03T15:15:06.627830
+"Ulaanbaatar, Mongolia",781.0,2026-05-16,2026-05-18,Weekend,May,Jeju Air,1,2026-02-03T15:15:06.627835
+"Furano, Japan",565.0,2026-05-21,2026-05-24,Weekend,May,Scoot and T'Way Air,1,2026-02-03T15:15:06.627849
+"Isfahan, Iran",1419.0,2026-05-01,2026-05-04,Weekend,May,"Emirates, flydubai, and Malaysia Airlines",2,2026-02-03T15:15:06.627853
+"Issyk Kul, Kyrgyzstan",820.0,2026-05-21,2026-05-25,Weekend,May,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:06.627858
+"Asahikawa, Japan",565.0,2026-05-21,2026-05-24,Weekend,May,Scoot and T'Way Air,1,2026-02-03T15:15:06.627863
+"Ürümqi, China",603.0,2026-05-01,2026-05-04,Weekend,May,China Southern and Chongqing Airlines,2,2026-02-03T15:15:06.627867
+"Padang, Indonesia",193.0,2026-05-16,2026-05-18,Weekend,May,Scoot,0,2026-02-03T15:15:06.627873
+"Gorkhi Terelj National Park, Mongolia",781.0,2026-05-16,2026-05-18,Weekend,May,Jeju Air,1,2026-02-03T15:15:06.627877
+"Tokyo, Japan",370.0,2026-05-02,2026-05-11,1 Week,May,"AirAsia, AirAsia X, and Scoot",1,2026-02-03T15:15:10.936718
+"Hanoi, Vietnam",200.0,2026-05-07,2026-05-13,1 Week,May,Scoot,0,2026-02-03T15:15:10.936737
+"Hong Kong, Hong Kong",281.0,2026-05-14,2026-05-21,1 Week,May,Scoot,0,2026-02-03T15:15:10.936743
+"Hạ Long Bay, Vietnam",200.0,2026-05-07,2026-05-14,1 Week,May,Scoot,0,2026-02-03T15:15:10.936748
+"Bangkok, Thailand",149.0,2026-05-11,2026-05-20,1 Week,May,Thai Lion Air,0,2026-02-03T15:15:10.936752
+"Seoul, South Korea",336.0,2026-05-11,2026-05-20,1 Week,May,"AirAsia, AirAsia X, and Scoot",1,2026-02-03T15:15:10.936757
+"Ho Chi Minh City, Vietnam",152.0,2026-05-07,2026-05-13,1 Week,May,Vietjet,0,2026-02-03T15:15:10.936761
+"Mumbai, India",360.0,2026-05-30,2026-06-08,1 Week,May,SriLankan,1,2026-02-03T15:15:10.936767
+"New Delhi, India",359.0,2026-05-21,2026-05-27,1 Week,May,IndiGo,1,2026-02-03T15:15:10.936781
+"Federal Territory of Kuala Lumpur, Malaysia",98.0,2026-05-10,2026-05-16,1 Week,May,AirAsia,0,2026-02-03T15:15:10.936790
+"Dubai, United Arab Emirates",560.0,2026-05-01,2026-05-10,1 Week,May,Gulf Air,1,2026-02-03T15:15:10.936798
+"Kyoto, Japan",414.0,2026-05-02,2026-05-08,1 Week,May,Peach Aviation and Scoot,0,2026-02-03T15:15:10.936805
+"Chiang Mai, Thailand",265.0,2026-05-03,2026-05-09,1 Week,May,Scoot,0,2026-02-03T15:15:10.936811
+"Jaipur, India",294.0,2026-05-04,2026-05-11,1 Week,May,Air India and Air India Express,1,2026-02-03T15:15:10.936817
+"Phuket, Thailand",143.0,2026-05-14,2026-05-20,1 Week,May,Scoot,0,2026-02-03T15:15:10.936823
+"Chennai, India",182.0,2026-05-04,2026-05-13,1 Week,May,Scoot,0,2026-02-03T15:15:10.936829
+"Goa, India",261.0,2026-05-04,2026-05-12,1 Week,May,Air India and Air India Express,1,2026-02-03T15:15:10.936833
+"Beijing, China",395.0,2026-05-03,2026-05-10,1 Week,May,Singapore Airlines,0,2026-02-03T15:15:10.936838
+"Osaka, Japan",414.0,2026-05-02,2026-05-08,1 Week,May,Peach Aviation and Scoot,0,2026-02-03T15:15:10.936842
+"Shanghai, China",273.0,2026-05-01,2026-05-07,1 Week,May,Spring,0,2026-02-03T15:15:10.936846
+"Hội An, Vietnam",186.0,2026-05-07,2026-05-13,1 Week,May,Vietjet,0,2026-02-03T15:15:10.936851
+"Bengaluru, India",206.0,2026-05-07,2026-05-13,1 Week,May,Air India and Air India Express,1,2026-02-03T15:15:10.936855
+"Abu Dhabi, United Arab Emirates",560.0,2026-05-01,2026-05-09,1 Week,May,Gulf Air,1,2026-02-03T15:15:10.936859
+"Taipei City, Taiwan",192.0,2026-05-02,2026-05-08,1 Week,May,Scoot,0,2026-02-03T15:15:10.936862
+"Varanasi, India",324.0,2026-05-04,2026-05-11,1 Week,May,Air India and Air India Express,1,2026-02-03T15:15:10.936866
+"Agra, India",359.0,2026-05-21,2026-05-27,1 Week,May,IndiGo,1,2026-02-03T15:15:10.936870
+"Udaipur, India",307.0,2026-05-11,2026-05-20,1 Week,May,Air India,1,2026-02-03T15:15:10.936874
+"Ko Samui, Thailand",330.0,2026-05-03,2026-05-10,1 Week,May,Scoot,0,2026-02-03T15:15:10.936878
+"Kolkata, India",255.0,2026-05-07,2026-05-13,1 Week,May,Air India and Air India Express,1,2026-02-03T15:15:10.936882
+"Kochi, India",260.0,2026-05-28,2026-06-03,1 Week,May,Air India,1,2026-02-03T15:15:10.936886
+"Kathmandu, Nepal",571.0,2026-05-15,2026-05-24,1 Week,May,Air India and Thai Lion Air,1,2026-02-03T15:15:10.936890
+"Manila, Philippines",216.0,2026-05-11,2026-05-19,1 Week,May,Cebu Pacific,0,2026-02-03T15:15:10.936894
+"Bahrain, Bahrain",669.0,2026-05-08,2026-05-17,1 Week,May,Malaysia Airlines and Oman Air,2,2026-02-03T15:15:10.936898
+"Macao, Macao",286.0,2026-05-11,2026-05-19,1 Week,May,Thai Lion Air,1,2026-02-03T15:15:10.936901
+"Hyderabad, India",255.0,2026-05-21,2026-05-28,1 Week,May,Air India,1,2026-02-03T15:15:10.936905
+"Shimla, India",300.0,2026-05-21,2026-05-27,1 Week,May,Air India,1,2026-02-03T15:15:10.936909
+"Da Nang, Vietnam",186.0,2026-05-07,2026-05-13,1 Week,May,Vietjet,0,2026-02-03T15:15:10.936913
+"Phi Phi Islands, Thailand",143.0,2026-05-14,2026-05-20,1 Week,May,Scoot,0,2026-02-03T15:15:10.936917
+"Rishikesh, India",329.0,2026-05-21,2026-05-27,1 Week,May,Air India,1,2026-02-03T15:15:10.936921
+"Manali, India",300.0,2026-05-21,2026-05-27,1 Week,May,Air India,1,2026-02-03T15:15:10.936925
+"Jodhpur, India",333.0,2026-05-07,2026-05-14,1 Week,May,Air India,1,2026-02-03T15:15:10.936929
+"Munnar, India",260.0,2026-05-28,2026-06-03,1 Week,May,Air India,1,2026-02-03T15:15:10.936933
+"Phú Quốc, Vietnam",175.0,2026-05-10,2026-05-16,1 Week,May,Vietjet,0,2026-02-03T15:15:10.936937
+"Ranthambore National Park, India",294.0,2026-05-04,2026-05-11,1 Week,May,Air India and Air India Express,1,2026-02-03T15:15:10.936941
+"Colombo, Sri Lanka",308.0,2026-05-11,2026-05-18,1 Week,May,AirAsia,1,2026-02-03T15:15:10.936945
+"Puducherry, India",182.0,2026-05-04,2026-05-13,1 Week,May,Scoot,0,2026-02-03T15:15:10.936954
+"Sapporo, Japan",537.0,2026-05-10,2026-05-19,1 Week,May,Scoot and T'Way Air,1,2026-02-03T15:15:10.936964
+"Chengdu, China",289.0,2026-05-07,2026-05-13,1 Week,May,AirAsia and AirAsia X,1,2026-02-03T15:15:10.936972
+"Xi'An, China",351.0,2026-05-02,2026-05-11,1 Week,May,Thai Lion Air and Scoot,1,2026-02-03T15:15:10.936977
+"Boracay, Philippines",271.0,2026-05-28,2026-06-04,1 Week,May,Cebu Pacific,1,2026-02-03T15:15:10.936981
+"Cebu City, Philippines",220.0,2026-05-07,2026-05-13,1 Week,May,Cebu Pacific,1,2026-02-03T15:15:10.936985
+"Kaziranga National Park, India",339.0,2026-05-18,2026-05-24,1 Week,May,Air India and Air India Express,1,2026-02-03T15:15:10.936989
+"Guwahati, India",339.0,2026-05-18,2026-05-24,1 Week,May,Air India and Air India Express,1,2026-02-03T15:15:10.936993
+"Tashkent, Uzbekistan",610.0,2026-05-04,2026-05-11,1 Week,May,AirAsia and AirAsia X,1,2026-02-03T15:15:10.936998
+"Niseko, Japan",537.0,2026-05-10,2026-05-19,1 Week,May,Scoot and T'Way Air,1,2026-02-03T15:15:10.937002
+"Almaty, Kazakhstan",771.0,2026-05-11,2026-05-20,1 Week,May,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:10.937005
+"Guam, Guam",752.0,2026-05-07,2026-05-13,1 Week,May,Philippine Airlines,1,2026-02-03T15:15:10.937009
+"Tehran, Iran",1419.0,2026-05-01,2026-05-07,1 Week,May,"Emirates, flydubai, and Malaysia Airlines",2,2026-02-03T15:15:10.937014
+"Harbin, China",314.0,2026-05-01,2026-05-07,1 Week,May,China Southern,1,2026-02-03T15:15:10.937019
+"Ulaanbaatar, Mongolia",1170.0,2026-05-23,2026-05-31,1 Week,May,MIAT and Singapore Airlines,1,2026-02-03T15:15:10.937023
+"Furano, Japan",537.0,2026-05-10,2026-05-19,1 Week,May,Scoot and T'Way Air,1,2026-02-03T15:15:10.937030
+"Issyk Kul, Kyrgyzstan",771.0,2026-05-11,2026-05-20,1 Week,May,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:10.937035
+"Asahikawa, Japan",537.0,2026-05-10,2026-05-19,1 Week,May,Scoot and T'Way Air,1,2026-02-03T15:15:10.937040
+"Ürümqi, China",583.0,2026-05-02,2026-05-08,1 Week,May,Shandong,1,2026-02-03T15:15:10.937045
+"Padang, Indonesia",193.0,2026-05-16,2026-05-23,1 Week,May,Scoot,0,2026-02-03T15:15:10.937050
+"Gorkhi Terelj National Park, Mongolia",1170.0,2026-05-23,2026-05-31,1 Week,May,MIAT and Singapore Airlines,1,2026-02-03T15:15:10.937054
+"Hong Kong, Hong Kong",290.0,2026-05-11,2026-05-25,2 Weeks,May,Scoot,0,2026-02-03T15:15:20.300387
+"Hanoi, Vietnam",200.0,2026-05-07,2026-05-20,2 Weeks,May,Scoot,0,2026-02-03T15:15:20.300407
+"Bangkok, Thailand",149.0,2026-05-07,2026-05-21,2 Weeks,May,Thai Lion Air,0,2026-02-03T15:15:20.300413
+"Tokyo, Japan",370.0,2026-05-03,2026-05-19,2 Weeks,May,"AirAsia, AirAsia X, and Scoot",1,2026-02-03T15:15:20.300417
+"Ho Chi Minh City, Vietnam",152.0,2026-05-07,2026-05-20,2 Weeks,May,Vietjet,0,2026-02-03T15:15:20.300422
+"Mumbai, India",360.0,2026-05-30,2026-06-12,2 Weeks,May,SriLankan,1,2026-02-03T15:15:20.300426
+"New Delhi, India",362.0,2026-05-21,2026-06-03,2 Weeks,May,IndiGo,1,2026-02-03T15:15:20.300430
+"Federal Territory of Kuala Lumpur, Malaysia",100.0,2026-05-07,2026-05-20,2 Weeks,May,AirAsia,0,2026-02-03T15:15:20.300434
+"Dubai, United Arab Emirates",560.0,2026-05-01,2026-05-14,2 Weeks,May,Gulf Air,1,2026-02-03T15:15:20.300439
+"Kyoto, Japan",414.0,2026-05-03,2026-05-19,2 Weeks,May,Peach Aviation and Scoot,0,2026-02-03T15:15:20.300443
+"Chiang Mai, Thailand",263.0,2026-05-04,2026-05-19,2 Weeks,May,Thai Lion Air and Scoot,1,2026-02-03T15:15:20.300448
+"Jaipur, India",294.0,2026-05-04,2026-05-17,2 Weeks,May,Air India and Air India Express,1,2026-02-03T15:15:20.300452
+"Phuket, Thailand",143.0,2026-05-14,2026-05-28,2 Weeks,May,Scoot,0,2026-02-03T15:15:20.300457
+"Seoul, South Korea",323.0,2026-05-28,2026-06-10,2 Weeks,May,Scoot and Vietjet,1,2026-02-03T15:15:20.300461
+"Goa, India",261.0,2026-05-11,2026-05-26,2 Weeks,May,Air India and Air India Express,1,2026-02-03T15:15:20.300465
+"Beijing, China",380.0,2026-05-18,2026-05-31,2 Weeks,May,"AirAsia, Air China, Cathay Pacific, and AirAsia X",1,2026-02-03T15:15:20.300469
+"Osaka, Japan",414.0,2026-05-03,2026-05-19,2 Weeks,May,Peach Aviation and Scoot,0,2026-02-03T15:15:20.300472
+"Shanghai, China",290.0,2026-05-01,2026-05-16,2 Weeks,May,"Spring, AirAsia, and AirAsia X",1,2026-02-03T15:15:20.300477
+"Hội An, Vietnam",186.0,2026-05-07,2026-05-20,2 Weeks,May,Vietjet,0,2026-02-03T15:15:20.300481
+"Bengaluru, India",206.0,2026-05-07,2026-05-20,2 Weeks,May,Air India and Air India Express,1,2026-02-03T15:15:20.300485
+"Hạ Long Bay, Vietnam",200.0,2026-05-07,2026-05-20,2 Weeks,May,Scoot,0,2026-02-03T15:15:20.300489
+"Abu Dhabi, United Arab Emirates",560.0,2026-05-01,2026-05-14,2 Weeks,May,Gulf Air,1,2026-02-03T15:15:20.300493
+"Chennai, India",192.0,2026-05-07,2026-05-20,2 Weeks,May,Air India and Air India Express,2,2026-02-03T15:15:20.300504
+"Varanasi, India",324.0,2026-05-07,2026-05-20,2 Weeks,May,Air India and Air India Express,1,2026-02-03T15:15:20.300508
+"Agra, India",362.0,2026-05-21,2026-06-03,2 Weeks,May,IndiGo,1,2026-02-03T15:15:20.300512
+"Ko Samui, Thailand",339.0,2026-05-08,2026-05-21,2 Weeks,May,Scoot,0,2026-02-03T15:15:20.300517
+"Kolkata, India",255.0,2026-05-07,2026-05-20,2 Weeks,May,Air India and Air India Express,1,2026-02-03T15:15:20.300521
+"Taipei City, Taiwan",211.0,2026-05-07,2026-05-20,2 Weeks,May,Scoot,0,2026-02-03T15:15:20.300525
+"Kochi, India",260.0,2026-05-11,2026-05-25,2 Weeks,May,Air India,1,2026-02-03T15:15:20.300529
+"Kathmandu, Nepal",562.0,2026-05-07,2026-05-20,2 Weeks,May,Air India and Thai Lion Air,1,2026-02-03T15:15:20.300533
+"Manila, Philippines",198.0,2026-05-24,2026-06-08,2 Weeks,May,Cebu Pacific,0,2026-02-03T15:15:20.300537
+"Bahrain, Bahrain",815.0,2026-05-28,2026-06-13,2 Weeks,May,"Gulf Air, Malaysia Airlines, and Oman Air",2,2026-02-03T15:15:20.300541
+"Macao, Macao",285.0,2026-05-07,2026-05-20,2 Weeks,May,Thai Lion Air,1,2026-02-03T15:15:20.300545
+"Hyderabad, India",261.0,2026-05-07,2026-05-20,2 Weeks,May,Air India,1,2026-02-03T15:15:20.300549
+"Da Nang, Vietnam",186.0,2026-05-07,2026-05-20,2 Weeks,May,Vietjet,0,2026-02-03T15:15:20.300553
+"Munnar, India",260.0,2026-05-11,2026-05-25,2 Weeks,May,Air India,1,2026-02-03T15:15:20.300560
+"Phú Quốc, Vietnam",175.0,2026-05-10,2026-05-23,2 Weeks,May,Vietjet,0,2026-02-03T15:15:20.300564
+"Ranthambore National Park, India",294.0,2026-05-04,2026-05-17,2 Weeks,May,Air India and Air India Express,1,2026-02-03T15:15:20.300568
+"Colombo, Sri Lanka",376.0,2026-05-11,2026-05-25,2 Weeks,May,AirAsia and Batik Air,1,2026-02-03T15:15:20.300572
+"Puducherry, India",192.0,2026-05-07,2026-05-20,2 Weeks,May,Air India and Air India Express,2,2026-02-03T15:15:20.300577
+"Sapporo, Japan",555.0,2026-05-03,2026-05-19,2 Weeks,May,Scoot,1,2026-02-03T15:15:20.300583
+"Boracay, Philippines",261.0,2026-05-21,2026-06-04,2 Weeks,May,Cebu Pacific,1,2026-02-03T15:15:20.300588
+"Cebu City, Philippines",214.0,2026-05-21,2026-06-05,2 Weeks,May,Cebu Pacific,0,2026-02-03T15:15:20.300592
+"Kaziranga National Park, India",339.0,2026-05-18,2026-05-31,2 Weeks,May,Air India and Air India Express,1,2026-02-03T15:15:20.300596
+"Guwahati, India",339.0,2026-05-18,2026-05-31,2 Weeks,May,Air India and Air India Express,1,2026-02-03T15:15:20.300600
+"Niseko, Japan",555.0,2026-05-03,2026-05-19,2 Weeks,May,Scoot,1,2026-02-03T15:15:20.300605
+"Almaty, Kazakhstan",812.0,2026-05-10,2026-05-23,2 Weeks,May,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:20.300609
+"Guam, Guam",752.0,2026-05-07,2026-05-20,2 Weeks,May,Philippine Airlines,1,2026-02-03T15:15:20.300613
+"Tehran, Iran",1419.0,2026-05-01,2026-05-14,2 Weeks,May,"Emirates, flydubai, and Malaysia Airlines",2,2026-02-03T15:15:20.300618
+"Harbin, China",329.0,2026-05-14,2026-05-27,2 Weeks,May,China Southern,1,2026-02-03T15:15:20.300622
+"Issyk Kul, Kyrgyzstan",812.0,2026-05-10,2026-05-23,2 Weeks,May,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:20.300634
+"Bangkok, Thailand",189.0,2026-06-27,2026-06-29,Weekend,June,Thai Lion Air,0,2026-02-03T15:15:23.078403
+"Federal Territory of Kuala Lumpur, Malaysia",128.0,2026-06-27,2026-06-29,Weekend,June,AirAsia and Scoot,0,2026-02-03T15:15:23.078423
+"Hong Kong, Hong Kong",290.0,2026-06-11,2026-06-15,Weekend,June,Scoot,0,2026-02-03T15:15:23.078429
+"Hanoi, Vietnam",211.0,2026-06-04,2026-06-08,Weekend,June,Scoot,0,2026-02-03T15:15:23.078433
+"Tokyo, Japan",395.0,2026-06-26,2026-06-29,Weekend,June,Scoot and ZIPAIR Tokyo,0,2026-02-03T15:15:23.078437
+"Ho Chi Minh City, Vietnam",159.0,2026-06-26,2026-06-29,Weekend,June,Scoot and Vietjet,0,2026-02-03T15:15:23.078442
+"Mumbai, India",209.0,2026-06-25,2026-06-29,Weekend,June,Air India,2,2026-02-03T15:15:23.078446
+"New Delhi, India",340.0,2026-06-25,2026-06-29,Weekend,June,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:23.078450
+"Dubai, United Arab Emirates",560.0,2026-06-05,2026-06-08,Weekend,June,Gulf Air,1,2026-02-03T15:15:23.078455
+"Kyoto, Japan",365.0,2026-06-25,2026-06-29,Weekend,June,Peach Aviation,0,2026-02-03T15:15:23.078459
+"Chiang Mai, Thailand",262.0,2026-06-27,2026-06-29,Weekend,June,Thai Lion Air,1,2026-02-03T15:15:23.078464
+"Jaipur, India",294.0,2026-06-18,2026-06-21,Weekend,June,Air India and Air India Express,1,2026-02-03T15:15:23.078469
+"Phuket, Thailand",176.0,2026-06-18,2026-06-22,Weekend,June,Scoot,0,2026-02-03T15:15:23.078473
+"Seoul, South Korea",346.0,2026-06-11,2026-06-15,Weekend,June,Scoot and Vietjet,1,2026-02-03T15:15:23.078477
+"Goa, India",470.0,2026-06-25,2026-06-28,Weekend,June,Air India and Air India Express,1,2026-02-03T15:15:23.078481
+"Beijing, China",294.0,2026-06-25,2026-06-29,Weekend,June,China Southern and Chongqing Airlines,1,2026-02-03T15:15:23.078485
+"Osaka, Japan",365.0,2026-06-25,2026-06-29,Weekend,June,Peach Aviation,0,2026-02-03T15:15:23.078489
+"Shanghai, China",328.0,2026-06-12,2026-06-14,Weekend,June,Spring and Vietjet,1,2026-02-03T15:15:23.078493
+"Hội An, Vietnam",248.0,2026-06-11,2026-06-15,Weekend,June,Malaysia Airlines and Vietjet,1,2026-02-03T15:15:23.078498
+"Bengaluru, India",201.0,2026-06-06,2026-06-07,Weekend,June,Air India and Air India Express,1,2026-02-03T15:15:23.078502
+"Hạ Long Bay, Vietnam",211.0,2026-06-04,2026-06-08,Weekend,June,Scoot,0,2026-02-03T15:15:23.078506
+"Abu Dhabi, United Arab Emirates",560.0,2026-06-04,2026-06-08,Weekend,June,Gulf Air,1,2026-02-03T15:15:23.078510
+"Chennai, India",192.0,2026-06-11,2026-06-15,Weekend,June,Air India and Air India Express,2,2026-02-03T15:15:23.078514
+"Varanasi, India",343.0,2026-06-04,2026-06-07,Weekend,June,Air India and Air India Express,1,2026-02-03T15:15:23.078518
+"Agra, India",340.0,2026-06-27,2026-06-29,Weekend,June,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:23.078522
+"Udaipur, India",500.0,2026-06-25,2026-06-28,Weekend,June,Air India,1,2026-02-03T15:15:23.078526
+"Ko Samui, Thailand",374.0,2026-06-04,2026-06-07,Weekend,June,Scoot,0,2026-02-03T15:15:23.078531
+"Kolkata, India",258.0,2026-06-06,2026-06-07,Weekend,June,Air India and Air India Express,1,2026-02-03T15:15:23.078535
+"George Town, Malaysia",126.0,2026-06-27,2026-06-29,Weekend,June,Scoot,0,2026-02-03T15:15:23.078539
+"Taipei City, Taiwan",238.0,2026-06-18,2026-06-21,Weekend,June,Scoot,0,2026-02-03T15:15:23.078543
+"Kochi, India",260.0,2026-06-11,2026-06-15,Weekend,June,Air India,1,2026-02-03T15:15:23.078547
+"Kathmandu, Nepal",585.0,2026-06-25,2026-06-28,Weekend,June,Air India and Thai Lion Air,1,2026-02-03T15:15:23.078551
+"Manila, Philippines",178.0,2026-06-18,2026-06-22,Weekend,June,Cebu Pacific,0,2026-02-03T15:15:23.078554
+"Bahrain, Bahrain",895.0,2026-06-25,2026-06-28,Weekend,June,Etihad,1,2026-02-03T15:15:23.078558
+"Macao, Macao",290.0,2026-06-26,2026-06-29,Weekend,June,Thai Lion Air and Scoot,1,2026-02-03T15:15:23.078562
+"Hyderabad, India",271.0,2026-06-27,2026-06-29,Weekend,June,IndiGo and AirAsia,1,2026-02-03T15:15:23.078566
+"Shimla, India",340.0,2026-06-27,2026-06-29,Weekend,June,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:23.078570
+"Da Nang, Vietnam",248.0,2026-06-11,2026-06-15,Weekend,June,Malaysia Airlines and Vietjet,1,2026-02-03T15:15:23.078575
+"Phi Phi Islands, Thailand",176.0,2026-06-04,2026-06-08,Weekend,June,Scoot,0,2026-02-03T15:15:23.078579
+"Rishikesh, India",340.0,2026-06-25,2026-06-29,Weekend,June,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:23.078583
+"Manali, India",340.0,2026-06-25,2026-06-29,Weekend,June,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:23.078587
+"Jodhpur, India",310.0,2026-06-25,2026-06-28,Weekend,June,Air India,1,2026-02-03T15:15:23.078591
+"Munnar, India",260.0,2026-06-11,2026-06-15,Weekend,June,Air India,1,2026-02-03T15:15:23.078595
+"Phú Quốc, Vietnam",286.0,2026-06-25,2026-06-28,Weekend,June,Vietjet,0,2026-02-03T15:15:23.078600
+"Ranthambore National Park, India",294.0,2026-06-18,2026-06-21,Weekend,June,Air India and Air India Express,1,2026-02-03T15:15:23.078604
+"Colombo, Sri Lanka",440.0,2026-06-05,2026-06-08,Weekend,June,Batik Air,1,2026-02-03T15:15:23.078608
+"Puducherry, India",192.0,2026-06-11,2026-06-15,Weekend,June,Air India and Air India Express,2,2026-02-03T15:15:23.078612
+"Sapporo, Japan",577.0,2026-06-12,2026-06-15,Weekend,June,T'Way Air,1,2026-02-03T15:15:23.078618
+"Chengdu, China",405.0,2026-06-13,2026-06-15,Weekend,June,Cathay Pacific,1,2026-02-03T15:15:23.078622
+"Xi'An, China",448.0,2026-06-13,2026-06-15,Weekend,June,China Southern,1,2026-02-03T15:15:23.078626
+"Boracay, Philippines",282.0,2026-06-20,2026-06-22,Weekend,June,Cebu Pacific,1,2026-02-03T15:15:23.078630
+"Cebu City, Philippines",186.0,2026-06-25,2026-06-28,Weekend,June,Cebu Pacific,0,2026-02-03T15:15:23.078634
+"Kaziranga National Park, India",351.0,2026-06-18,2026-06-21,Weekend,June,Air India and Air India Express,1,2026-02-03T15:15:23.078639
+"Guwahati, India",351.0,2026-06-18,2026-06-21,Weekend,June,Air India and Air India Express,1,2026-02-03T15:15:23.078642
+"Tashkent, Uzbekistan",649.0,2026-06-26,2026-06-29,Weekend,June,AirAsia and AirAsia X,1,2026-02-03T15:15:23.078647
+"Niseko, Japan",577.0,2026-06-12,2026-06-15,Weekend,June,T'Way Air,1,2026-02-03T15:15:23.078651
+"Almaty, Kazakhstan",861.0,2026-06-25,2026-06-29,Weekend,June,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:23.078655
+"Guam, Guam",752.0,2026-06-11,2026-06-15,Weekend,June,Philippine Airlines,1,2026-02-03T15:15:23.078659
+"Harbin, China",343.0,2026-06-26,2026-06-28,Weekend,June,China Southern and Chongqing Airlines,2,2026-02-03T15:15:23.078665
+"Ulaanbaatar, Mongolia",733.0,2026-06-25,2026-06-28,Weekend,June,T'Way Air,1,2026-02-03T15:15:23.078669
+"Furano, Japan",577.0,2026-06-12,2026-06-14,Weekend,June,T'Way Air,1,2026-02-03T15:15:23.078676
+"Issyk Kul, Kyrgyzstan",861.0,2026-06-25,2026-06-29,Weekend,June,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:23.078681
+"Asahikawa, Japan",577.0,2026-06-12,2026-06-14,Weekend,June,T'Way Air,1,2026-02-03T15:15:23.078686
+"Ürümqi, China",483.0,2026-06-11,2026-06-14,Weekend,June,Shandong,1,2026-02-03T15:15:23.078690
+"Padang, Indonesia",193.0,2026-06-27,2026-06-29,Weekend,June,Scoot,0,2026-02-03T15:15:23.078696
+"Gorkhi Terelj National Park, Mongolia",733.0,2026-06-25,2026-06-28,Weekend,June,T'Way Air,1,2026-02-03T15:15:23.078700
+"Tokyo, Japan",370.0,2026-06-22,2026-07-01,1 Week,June,ZIPAIR Tokyo,0,2026-02-03T15:15:26.884146
+"Seoul, South Korea",297.0,2026-06-29,2026-07-05,1 Week,June,Scoot,0,2026-02-03T15:15:26.884165
+"Hong Kong, Hong Kong",290.0,2026-06-08,2026-06-15,1 Week,June,Scoot,0,2026-02-03T15:15:26.884172
+"Kyoto, Japan",355.0,2026-06-25,2026-07-02,1 Week,June,"AirAsia, AirAsia X, and Peach Aviation",1,2026-02-03T15:15:26.884176
+"Bangkok, Thailand",162.0,2026-06-28,2026-07-04,1 Week,June,Scoot,0,2026-02-03T15:15:26.884180
+"Hanoi, Vietnam",200.0,2026-06-04,2026-06-11,1 Week,June,Scoot,0,2026-02-03T15:15:26.884185
+"Osaka, Japan",355.0,2026-06-25,2026-07-02,1 Week,June,"AirAsia, AirAsia X, and Peach Aviation",1,2026-02-03T15:15:26.884189
+"Ho Chi Minh City, Vietnam",159.0,2026-06-01,2026-06-08,1 Week,June,Vietjet,0,2026-02-03T15:15:26.884193
+"Mumbai, India",360.0,2026-06-06,2026-06-15,1 Week,June,SriLankan,1,2026-02-03T15:15:26.884198
+"New Delhi, India",340.0,2026-06-20,2026-06-29,1 Week,June,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:26.884202
+"Federal Territory of Kuala Lumpur, Malaysia",98.0,2026-06-28,2026-07-04,1 Week,June,AirAsia,0,2026-02-03T15:15:26.884207
+"Dubai, United Arab Emirates",560.0,2026-06-01,2026-06-07,1 Week,June,Gulf Air,1,2026-02-03T15:15:26.884211
+"Chiang Mai, Thailand",242.0,2026-06-29,2026-07-06,1 Week,June,Thai Lion Air,1,2026-02-03T15:15:26.884216
+"Jaipur, India",313.0,2026-06-01,2026-06-07,1 Week,June,Air India and Air India Express,1,2026-02-03T15:15:26.884221
+"Phuket, Thailand",166.0,2026-06-22,2026-07-01,1 Week,June,Scoot,0,2026-02-03T15:15:26.884225
+"Goa, India",473.0,2026-06-01,2026-06-08,1 Week,June,Air India and Air India Express,1,2026-02-03T15:15:26.884229
+"Beijing, China",294.0,2026-06-22,2026-06-29,1 Week,June,China Southern and Chongqing Airlines,1,2026-02-03T15:15:26.884233
+"Shanghai, China",290.0,2026-06-25,2026-07-01,1 Week,June,"Spring, AirAsia, and AirAsia X",1,2026-02-03T15:15:26.884237
+"Hội An, Vietnam",236.0,2026-06-05,2026-06-12,1 Week,June,Batik Air and Vietjet,1,2026-02-03T15:15:26.884242
+"Bengaluru, India",206.0,2026-06-01,2026-06-07,1 Week,June,Air India and Air India Express,1,2026-02-03T15:15:26.884246
+"Hạ Long Bay, Vietnam",200.0,2026-06-18,2026-06-25,1 Week,June,Scoot,0,2026-02-03T15:15:26.884250
+"Abu Dhabi, United Arab Emirates",560.0,2026-06-01,2026-06-07,1 Week,June,Gulf Air,1,2026-02-03T15:15:26.884255
+"Chennai, India",203.0,2026-06-26,2026-07-03,1 Week,June,Scoot,0,2026-02-03T15:15:26.884259
+"Varanasi, India",343.0,2026-06-01,2026-06-07,1 Week,June,Air India and Air India Express,1,2026-02-03T15:15:26.884263
+"Agra, India",340.0,2026-06-20,2026-06-29,1 Week,June,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:26.884267
+"Udaipur, India",503.0,2026-06-01,2026-06-07,1 Week,June,Air India,1,2026-02-03T15:15:26.884271
+"Taipei City, Taiwan",238.0,2026-06-15,2026-06-21,1 Week,June,Scoot,0,2026-02-03T15:15:26.884276
+"Ko Samui, Thailand",359.0,2026-06-21,2026-06-30,1 Week,June,Scoot,0,2026-02-03T15:15:26.884280
+"Kolkata, India",255.0,2026-06-01,2026-06-07,1 Week,June,Air India and Air India Express,1,2026-02-03T15:15:26.884283
+"Kochi, India",260.0,2026-06-01,2026-06-08,1 Week,June,Air India,1,2026-02-03T15:15:26.884288
+"Kathmandu, Nepal",585.0,2026-06-19,2026-06-28,1 Week,June,Air India and Thai Lion Air,1,2026-02-03T15:15:26.884292
+"Manila, Philippines",192.0,2026-06-18,2026-06-26,1 Week,June,Cebu Pacific,0,2026-02-03T15:15:26.884296
+"Bahrain, Bahrain",669.0,2026-06-01,2026-06-08,1 Week,June,Malaysia Airlines and Oman Air,2,2026-02-03T15:15:26.884300
+"Macao, Macao",285.0,2026-06-29,2026-07-06,1 Week,June,Thai Lion Air,1,2026-02-03T15:15:26.884303
+"Hyderabad, India",271.0,2026-06-25,2026-07-01,1 Week,June,IndiGo and AirAsia,1,2026-02-03T15:15:26.884307
+"Shimla, India",340.0,2026-06-20,2026-06-29,1 Week,June,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:26.884311
+"Da Nang, Vietnam",236.0,2026-06-05,2026-06-12,1 Week,June,Batik Air and Vietjet,1,2026-02-03T15:15:26.884316
+"Rishikesh, India",340.0,2026-06-20,2026-06-29,1 Week,June,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:26.884321
+"Manali, India",340.0,2026-06-20,2026-06-29,1 Week,June,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:26.884326
+"Jodhpur, India",310.0,2026-06-25,2026-07-01,1 Week,June,Air India,1,2026-02-03T15:15:26.884330
+"Munnar, India",260.0,2026-06-01,2026-06-08,1 Week,June,Air India,1,2026-02-03T15:15:26.884334
+"Phú Quốc, Vietnam",232.0,2026-06-25,2026-07-01,1 Week,June,Scoot and Vietjet,0,2026-02-03T15:15:26.884338
+"Ranthambore National Park, India",313.0,2026-06-01,2026-06-07,1 Week,June,Air India and Air India Express,1,2026-02-03T15:15:26.884342
+"Colombo, Sri Lanka",308.0,2026-06-28,2026-07-06,1 Week,June,AirAsia,1,2026-02-03T15:15:26.884345
+"Puducherry, India",203.0,2026-06-26,2026-07-03,1 Week,June,Scoot,0,2026-02-03T15:15:26.884351
+"Sapporo, Japan",577.0,2026-06-12,2026-06-21,1 Week,June,T'Way Air,1,2026-02-03T15:15:26.884357
+"Chengdu, China",311.0,2026-06-29,2026-07-06,1 Week,June,"AirAsia, AirAsia X, and Thai Lion Air",1,2026-02-03T15:15:26.884361
+"Xi'An, China",428.0,2026-06-25,2026-07-01,1 Week,June,China Southern,1,2026-02-03T15:15:26.884365
+"Boracay, Philippines",231.0,2026-06-28,2026-07-07,1 Week,June,Cebu Pacific,1,2026-02-03T15:15:26.884369
+"Cebu City, Philippines",186.0,2026-06-19,2026-06-28,1 Week,June,Cebu Pacific,0,2026-02-03T15:15:26.884373
+"Kaziranga National Park, India",351.0,2026-06-18,2026-06-24,1 Week,June,Air India and Air India Express,1,2026-02-03T15:15:26.884378
+"Guwahati, India",351.0,2026-06-18,2026-06-24,1 Week,June,Air India and Air India Express,1,2026-02-03T15:15:26.884382
+"Tashkent, Uzbekistan",642.0,2026-06-29,2026-07-06,1 Week,June,AirAsia and AirAsia X,1,2026-02-03T15:15:26.884386
+"Niseko, Japan",577.0,2026-06-12,2026-06-21,1 Week,June,T'Way Air,1,2026-02-03T15:15:26.884390
+"Almaty, Kazakhstan",732.0,2026-06-15,2026-06-23,1 Week,June,Thai AirAsia and Thai AirAsia X,1,2026-02-03T15:15:26.884401
+"Guam, Guam",719.0,2026-06-25,2026-07-01,1 Week,June,Philippine Airlines,1,2026-02-03T15:15:26.884405
+"Harbin, China",363.0,2026-06-04,2026-06-12,1 Week,June,Shandong,1,2026-02-03T15:15:26.884410
+"Ulaanbaatar, Mongolia",733.0,2026-06-14,2026-06-22,1 Week,June,T'Way Air,1,2026-02-03T15:15:26.884415
+"Furano, Japan",577.0,2026-06-12,2026-06-21,1 Week,June,T'Way Air,1,2026-02-03T15:15:26.884422
+"Issyk Kul, Kyrgyzstan",732.0,2026-06-15,2026-06-23,1 Week,June,Thai AirAsia and Thai AirAsia X,1,2026-02-03T15:15:26.884428
+"Asahikawa, Japan",577.0,2026-06-12,2026-06-21,1 Week,June,T'Way Air,1,2026-02-03T15:15:26.884433
+"Ürümqi, China",483.0,2026-06-11,2026-06-17,1 Week,June,Shandong,1,2026-02-03T15:15:26.884437
+"Padang, Indonesia",231.0,2026-06-01,2026-06-08,1 Week,June,Scoot,0,2026-02-03T15:15:26.884443
+"Gorkhi Terelj National Park, Mongolia",733.0,2026-06-14,2026-06-22,1 Week,June,T'Way Air,1,2026-02-03T15:15:26.884447
+"Hong Kong, Hong Kong",290.0,2026-06-18,2026-07-02,2 Weeks,June,Scoot,0,2026-02-03T15:15:31.585826
+"Hanoi, Vietnam",200.0,2026-06-04,2026-06-18,2 Weeks,June,Scoot,0,2026-02-03T15:15:31.585853
+"Bangkok, Thailand",149.0,2026-06-29,2026-07-15,2 Weeks,June,Thai Lion Air,0,2026-02-03T15:15:31.585860
+"Tokyo, Japan",378.0,2026-06-22,2026-07-08,2 Weeks,June,Scoot and ZIPAIR Tokyo,0,2026-02-03T15:15:31.585864
+"Ho Chi Minh City, Vietnam",159.0,2026-06-01,2026-06-14,2 Weeks,June,Vietjet,0,2026-02-03T15:15:31.585868
+"Mumbai, India",209.0,2026-06-22,2026-07-06,2 Weeks,June,Air India,2,2026-02-03T15:15:31.585873
+"New Delhi, India",340.0,2026-06-25,2026-07-10,2 Weeks,June,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.585877
+"Federal Territory of Kuala Lumpur, Malaysia",98.0,2026-06-29,2026-07-15,2 Weeks,June,AirAsia,0,2026-02-03T15:15:31.585881
+"Dubai, United Arab Emirates",560.0,2026-06-01,2026-06-14,2 Weeks,June,Gulf Air,1,2026-02-03T15:15:31.585887
+"Kyoto, Japan",355.0,2026-06-25,2026-07-09,2 Weeks,June,"AirAsia, AirAsia X, and Peach Aviation",1,2026-02-03T15:15:31.585892
+"Chiang Mai, Thailand",242.0,2026-06-29,2026-07-14,2 Weeks,June,Thai Lion Air,1,2026-02-03T15:15:31.585897
+"Jaipur, India",313.0,2026-06-01,2026-06-14,2 Weeks,June,Air India and Air India Express,1,2026-02-03T15:15:31.585902
+"Phuket, Thailand",150.0,2026-06-29,2026-07-15,2 Weeks,June,Scoot,0,2026-02-03T15:15:31.585906
+"Seoul, South Korea",309.0,2026-06-22,2026-07-05,2 Weeks,June,Scoot,0,2026-02-03T15:15:31.585911
+"Goa, India",470.0,2026-06-18,2026-07-01,2 Weeks,June,Air India and Air India Express,1,2026-02-03T15:15:31.585916
+"Beijing, China",347.0,2026-06-20,2026-07-03,2 Weeks,June,"AirAsia, AirAsia X, and Vietjet",1,2026-02-03T15:15:31.585920
+"Osaka, Japan",355.0,2026-06-25,2026-07-09,2 Weeks,June,"AirAsia, AirAsia X, and Peach Aviation",1,2026-02-03T15:15:31.585925
+"Shanghai, China",290.0,2026-06-25,2026-07-08,2 Weeks,June,"Spring, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.585929
+"Hội An, Vietnam",228.0,2026-06-15,2026-07-01,2 Weeks,June,Batik Air and Vietjet,1,2026-02-03T15:15:31.585934
+"Bengaluru, India",206.0,2026-06-01,2026-06-14,2 Weeks,June,Air India and Air India Express,1,2026-02-03T15:15:31.585938
+"Hạ Long Bay, Vietnam",200.0,2026-06-18,2026-07-02,2 Weeks,June,Scoot,0,2026-02-03T15:15:31.585943
+"Abu Dhabi, United Arab Emirates",560.0,2026-06-01,2026-06-15,2 Weeks,June,Gulf Air,1,2026-02-03T15:15:31.585947
+"Chennai, India",204.0,2026-06-26,2026-07-10,2 Weeks,June,Scoot,0,2026-02-03T15:15:31.585952
+"Varanasi, India",343.0,2026-06-01,2026-06-14,2 Weeks,June,Air India and Air India Express,1,2026-02-03T15:15:31.585956
+"Agra, India",340.0,2026-06-25,2026-07-10,2 Weeks,June,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.585960
+"Ko Samui, Thailand",374.0,2026-06-15,2026-06-30,2 Weeks,June,Scoot,0,2026-02-03T15:15:31.585966
+"Kolkata, India",255.0,2026-06-15,2026-06-28,2 Weeks,June,Air India and Air India Express,1,2026-02-03T15:15:31.585972
+"Taipei City, Taiwan",218.0,2026-06-29,2026-07-12,2 Weeks,June,Scoot,0,2026-02-03T15:15:31.585976
+"Kochi, India",261.0,2026-06-04,2026-06-18,2 Weeks,June,Air India,1,2026-02-03T15:15:31.585980
+"Kathmandu, Nepal",585.0,2026-06-12,2026-06-28,2 Weeks,June,Air India and Thai Lion Air,1,2026-02-03T15:15:31.585985
+"Manila, Philippines",192.0,2026-06-11,2026-06-26,2 Weeks,June,Cebu Pacific,0,2026-02-03T15:15:31.585990
+"Bahrain, Bahrain",887.0,2026-06-14,2026-06-28,2 Weeks,June,THAI and Oman Air,2,2026-02-03T15:15:31.585995
+"Macao, Macao",285.0,2026-06-29,2026-07-14,2 Weeks,June,Thai Lion Air,1,2026-02-03T15:15:31.585999
+"Hyderabad, India",271.0,2026-06-20,2026-07-03,2 Weeks,June,IndiGo and AirAsia,1,2026-02-03T15:15:31.586004
+"Da Nang, Vietnam",228.0,2026-06-15,2026-07-01,2 Weeks,June,Batik Air and Vietjet,1,2026-02-03T15:15:31.586010
+"Phi Phi Islands, Thailand",150.0,2026-06-29,2026-07-15,2 Weeks,June,Scoot,0,2026-02-03T15:15:31.586014
+"Munnar, India",261.0,2026-06-04,2026-06-18,2 Weeks,June,Air India,1,2026-02-03T15:15:31.586027
+"Phú Quốc, Vietnam",232.0,2026-06-25,2026-07-08,2 Weeks,June,Scoot and Vietjet,0,2026-02-03T15:15:31.586031
+"Ranthambore National Park, India",313.0,2026-06-01,2026-06-14,2 Weeks,June,Air India and Air India Express,1,2026-02-03T15:15:31.586035
+"Colombo, Sri Lanka",308.0,2026-06-28,2026-07-11,2 Weeks,June,AirAsia,1,2026-02-03T15:15:31.586040
+"Puducherry, India",204.0,2026-06-26,2026-07-10,2 Weeks,June,Scoot,0,2026-02-03T15:15:31.586046
+"Sapporo, Japan",577.0,2026-06-12,2026-06-25,2 Weeks,June,T'Way Air,1,2026-02-03T15:15:31.586052
+"Boracay, Philippines",236.0,2026-06-28,2026-07-13,2 Weeks,June,Cebu Pacific,1,2026-02-03T15:15:31.586058
+"Cebu City, Philippines",201.0,2026-06-18,2026-07-01,2 Weeks,June,Cebu Pacific,0,2026-02-03T15:15:31.586062
+"Kaziranga National Park, India",351.0,2026-06-18,2026-07-01,2 Weeks,June,Air India and Air India Express,1,2026-02-03T15:15:31.586067
+"Guwahati, India",351.0,2026-06-18,2026-07-01,2 Weeks,June,Air India and Air India Express,1,2026-02-03T15:15:31.586071
+"Niseko, Japan",577.0,2026-06-12,2026-06-25,2 Weeks,June,T'Way Air,1,2026-02-03T15:15:31.586076
+"Almaty, Kazakhstan",747.0,2026-06-15,2026-06-29,2 Weeks,June,Thai AirAsia and Thai AirAsia X,1,2026-02-03T15:15:31.586081
+"Guam, Guam",752.0,2026-06-01,2026-06-15,2 Weeks,June,Philippine Airlines,1,2026-02-03T15:15:31.586085
+"Harbin, China",405.0,2026-06-01,2026-06-14,2 Weeks,June,China Southern and Chongqing Airlines,1,2026-02-03T15:15:31.586091
+"Issyk Kul, Kyrgyzstan",747.0,2026-06-15,2026-06-29,2 Weeks,June,Thai AirAsia and Thai AirAsia X,1,2026-02-03T15:15:31.586100
+"Bangkok, Thailand",159.0,2026-07-11,2026-07-13,Weekend,July,Thai Lion Air,0,2026-02-03T15:15:31.653756
+"Federal Territory of Kuala Lumpur, Malaysia",106.0,2026-07-23,2026-07-27,Weekend,July,Scoot,0,2026-02-03T15:15:31.653786
+"Hong Kong, Hong Kong",299.0,2026-07-02,2026-07-05,Weekend,July,Scoot,0,2026-02-03T15:15:31.653792
+"Hanoi, Vietnam",211.0,2026-07-02,2026-07-06,Weekend,July,Scoot,0,2026-02-03T15:15:31.653797
+"Tokyo, Japan",399.0,2026-07-03,2026-07-05,Weekend,July,Scoot and Vietjet,1,2026-02-03T15:15:31.653802
+"Ho Chi Minh City, Vietnam",159.0,2026-07-02,2026-07-05,Weekend,July,Scoot and Vietjet,0,2026-02-03T15:15:31.653807
+"Mumbai, India",209.0,2026-07-02,2026-07-06,Weekend,July,Air India,2,2026-02-03T15:15:31.653811
+"New Delhi, India",306.0,2026-07-16,2026-07-20,Weekend,July,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.653816
+"Dubai, United Arab Emirates",562.0,2026-07-23,2026-07-27,Weekend,July,IndiGo,1,2026-02-03T15:15:31.653821
+"Kyoto, Japan",359.0,2026-07-23,2026-07-27,Weekend,July,Cebu Pacific and Peach Aviation,1,2026-02-03T15:15:31.653826
+"Chiang Mai, Thailand",300.0,2026-07-25,2026-07-27,Weekend,July,Scoot,0,2026-02-03T15:15:31.653830
+"Jaipur, India",338.0,2026-07-09,2026-07-13,Weekend,July,IndiGo and Air India,1,2026-02-03T15:15:31.653835
+"Phuket, Thailand",166.0,2026-07-03,2026-07-06,Weekend,July,Scoot,0,2026-02-03T15:15:31.653840
+"Seoul, South Korea",312.0,2026-07-04,2026-07-06,Weekend,July,Cebu Pacific and Scoot,1,2026-02-03T15:15:31.653845
+"Goa, India",462.0,2026-07-09,2026-07-12,Weekend,July,Air India and Air India Express,1,2026-02-03T15:15:31.653850
+"Beijing, China",375.0,2026-07-02,2026-07-05,Weekend,July,China Southern and Chongqing Airlines,1,2026-02-03T15:15:31.653854
+"Osaka, Japan",359.0,2026-07-23,2026-07-27,Weekend,July,Cebu Pacific and Peach Aviation,1,2026-02-03T15:15:31.653858
+"Shanghai, China",363.0,2026-07-02,2026-07-06,Weekend,July,China Southern,1,2026-02-03T15:15:31.653863
+"Hội An, Vietnam",292.0,2026-07-09,2026-07-13,Weekend,July,Malaysia Airlines and Vietjet,1,2026-02-03T15:15:31.653867
+"Bengaluru, India",201.0,2026-07-04,2026-07-05,Weekend,July,Air India and Air India Express,1,2026-02-03T15:15:31.653871
+"Hạ Long Bay, Vietnam",211.0,2026-07-30,2026-08-03,Weekend,July,Scoot,0,2026-02-03T15:15:31.653876
+"Abu Dhabi, United Arab Emirates",562.0,2026-07-23,2026-07-27,Weekend,July,IndiGo,1,2026-02-03T15:15:31.653881
+"Chennai, India",204.0,2026-07-17,2026-07-19,Weekend,July,Scoot,0,2026-02-03T15:15:31.653885
+"Varanasi, India",501.0,2026-07-09,2026-07-12,Weekend,July,Air India and Air India Express,1,2026-02-03T15:15:31.653890
+"Agra, India",306.0,2026-07-16,2026-07-20,Weekend,July,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.653895
+"Udaipur, India",500.0,2026-07-30,2026-08-02,Weekend,July,Air India,1,2026-02-03T15:15:31.653900
+"Ko Samui, Thailand",371.0,2026-07-02,2026-07-05,Weekend,July,Scoot,0,2026-02-03T15:15:31.653905
+"Kolkata, India",261.0,2026-07-04,2026-07-06,Weekend,July,IndiGo and AirAsia,1,2026-02-03T15:15:31.653909
+"Taipei City, Taiwan",218.0,2026-07-09,2026-07-12,Weekend,July,Scoot,0,2026-02-03T15:15:31.653914
+"Kochi, India",270.0,2026-07-09,2026-07-12,Weekend,July,Air India,1,2026-02-03T15:15:31.653918
+"George Town, Malaysia",109.0,2026-07-25,2026-07-27,Weekend,July,Scoot,0,2026-02-03T15:15:31.653922
+"Kathmandu, Nepal",547.0,2026-07-02,2026-07-05,Weekend,July,Air India,1,2026-02-03T15:15:31.653927
+"Manila, Philippines",192.0,2026-07-02,2026-07-05,Weekend,July,Cebu Pacific,0,2026-02-03T15:15:31.653931
+"Bahrain, Bahrain",840.0,2026-07-02,2026-07-05,Weekend,July,THAI and Oman Air,2,2026-02-03T15:15:31.653935
+"Macao, Macao",292.0,2026-07-11,2026-07-12,Weekend,July,Thai Lion Air,1,2026-02-03T15:15:31.653940
+"Hyderabad, India",259.0,2026-07-02,2026-07-06,Weekend,July,IndiGo and AirAsia,1,2026-02-03T15:15:31.653945
+"Shimla, India",306.0,2026-07-16,2026-07-20,Weekend,July,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.653949
+"Da Nang, Vietnam",292.0,2026-07-09,2026-07-13,Weekend,July,Malaysia Airlines and Vietjet,1,2026-02-03T15:15:31.653953
+"Phi Phi Islands, Thailand",166.0,2026-07-16,2026-07-20,Weekend,July,Scoot,0,2026-02-03T15:15:31.653958
+"Rishikesh, India",306.0,2026-07-16,2026-07-20,Weekend,July,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.653963
+"Manali, India",306.0,2026-07-16,2026-07-20,Weekend,July,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.653967
+"Jodhpur, India",310.0,2026-07-02,2026-07-05,Weekend,July,Air India,1,2026-02-03T15:15:31.653971
+"Munnar, India",270.0,2026-07-09,2026-07-12,Weekend,July,Air India,1,2026-02-03T15:15:31.653975
+"Phú Quốc, Vietnam",215.0,2026-07-30,2026-08-02,Weekend,July,Scoot,0,2026-02-03T15:15:31.653980
+"Ranthambore National Park, India",338.0,2026-07-09,2026-07-13,Weekend,July,IndiGo and Air India,1,2026-02-03T15:15:31.653986
+"Colombo, Sri Lanka",308.0,2026-07-09,2026-07-13,Weekend,July,AirAsia,1,2026-02-03T15:15:31.653991
+"Puducherry, India",204.0,2026-07-17,2026-07-19,Weekend,July,Scoot,0,2026-02-03T15:15:31.653996
+"Sapporo, Japan",583.0,2026-07-02,2026-07-06,Weekend,July,Air Do and ANA,1,2026-02-03T15:15:31.654003
+"Chengdu, China",311.0,2026-07-02,2026-07-06,Weekend,July,"AirAsia, AirAsia X, and Thai Lion Air",1,2026-02-03T15:15:31.654008
+"Xi'An, China",361.0,2026-07-04,2026-07-06,Weekend,July,Thai Lion Air and Scoot,1,2026-02-03T15:15:31.654012
+"Boracay, Philippines",244.0,2026-07-10,2026-07-13,Weekend,July,Cebu Pacific,1,2026-02-03T15:15:31.654016
+"Cebu City, Philippines",214.0,2026-07-02,2026-07-05,Weekend,July,Cebu Pacific,0,2026-02-03T15:15:31.654020
+"Kaziranga National Park, India",351.0,2026-07-02,2026-07-05,Weekend,July,Air India and Air India Express,1,2026-02-03T15:15:31.654025
+"Guwahati, India",351.0,2026-07-02,2026-07-05,Weekend,July,Air India and Air India Express,1,2026-02-03T15:15:31.654029
+"Tashkent, Uzbekistan",665.0,2026-07-04,2026-07-06,Weekend,July,AirAsia and AirAsia X,1,2026-02-03T15:15:31.654034
+"Niseko, Japan",583.0,2026-07-02,2026-07-06,Weekend,July,Air Do and ANA,1,2026-02-03T15:15:31.654038
+"Almaty, Kazakhstan",742.0,2026-07-03,2026-07-06,Weekend,July,Thai AirAsia and Thai AirAsia X,1,2026-02-03T15:15:31.654043
+"Guam, Guam",774.0,2026-07-16,2026-07-19,Weekend,July,Philippine Airlines,1,2026-02-03T15:15:31.654047
+"Tehran, Iran",1753.0,2026-07-02,2026-07-05,Weekend,July,China Southern,2,2026-02-03T15:15:31.654052
+"Ras Al-Khaimah, United Arab Emirates",562.0,2026-07-23,2026-07-27,Weekend,July,IndiGo,1,2026-02-03T15:15:31.654056
+"Harbin, China",428.0,2026-07-03,2026-07-05,Weekend,July,China Southern and Chongqing Airlines,2,2026-02-03T15:15:31.654060
+"Ulaanbaatar, Mongolia",726.0,2026-07-25,2026-07-27,Weekend,July,T'Way Air,1,2026-02-03T15:15:31.654064
+"Furano, Japan",575.0,2026-07-04,2026-07-06,Weekend,July,"Thai AirAsia, T'Way Air, and Thai AirAsia X",1,2026-02-03T15:15:31.654071
+"Isfahan, Iran",1671.0,2026-07-02,2026-07-05,Weekend,July,Turkish Airlines,1,2026-02-03T15:15:31.654075
+"Issyk Kul, Kyrgyzstan",742.0,2026-07-03,2026-07-06,Weekend,July,Thai AirAsia and Thai AirAsia X,1,2026-02-03T15:15:31.654080
+"Asahikawa, Japan",575.0,2026-07-04,2026-07-06,Weekend,July,"Thai AirAsia, T'Way Air, and Thai AirAsia X",1,2026-02-03T15:15:31.654085
+"Ürümqi, China",1046.0,2026-07-02,2026-07-05,Weekend,July,China Southern,1,2026-02-03T15:15:31.654089
+"Padang, Indonesia",193.0,2026-07-04,2026-07-06,Weekend,July,Scoot,0,2026-02-03T15:15:31.654095
+"Gorkhi Terelj National Park, Mongolia",726.0,2026-07-25,2026-07-27,Weekend,July,T'Way Air,1,2026-02-03T15:15:31.654098
+"Seoul, South Korea",296.0,2026-07-27,2026-08-05,1 Week,July,Scoot,0,2026-02-03T15:15:31.717213
+"Tokyo, Japan",395.0,2026-07-13,2026-07-20,1 Week,July,Scoot and ZIPAIR Tokyo,0,2026-02-03T15:15:31.717232
+"Hong Kong, Hong Kong",290.0,2026-07-30,2026-08-06,1 Week,July,Scoot,0,2026-02-03T15:15:31.717238
+"Bangkok, Thailand",149.0,2026-07-06,2026-07-15,1 Week,July,Thai Lion Air,0,2026-02-03T15:15:31.717242
+"Hanoi, Vietnam",200.0,2026-07-02,2026-07-09,1 Week,July,Scoot,0,2026-02-03T15:15:31.717246
+"Ho Chi Minh City, Vietnam",159.0,2026-07-02,2026-07-08,1 Week,July,Scoot and Vietjet,0,2026-02-03T15:15:31.717251
+"Mumbai, India",209.0,2026-07-02,2026-07-08,1 Week,July,Air India,2,2026-02-03T15:15:31.717255
+"New Delhi, India",306.0,2026-07-13,2026-07-20,1 Week,July,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.717259
+"Federal Territory of Kuala Lumpur, Malaysia",98.0,2026-07-06,2026-07-15,1 Week,July,AirAsia,0,2026-02-03T15:15:31.717265
+"Dubai, United Arab Emirates",549.0,2026-07-26,2026-08-02,1 Week,July,IndiGo,1,2026-02-03T15:15:31.717270
+"Kyoto, Japan",355.0,2026-07-06,2026-07-14,1 Week,July,"AirAsia, AirAsia X, and Peach Aviation",1,2026-02-03T15:15:31.717274
+"Chiang Mai, Thailand",275.0,2026-07-27,2026-08-05,1 Week,July,Thai Lion Air and Scoot,1,2026-02-03T15:15:31.717278
+"Jaipur, India",366.0,2026-07-05,2026-07-13,1 Week,July,IndiGo and Air India,1,2026-02-03T15:15:31.717282
+"Phuket, Thailand",144.0,2026-07-20,2026-07-29,1 Week,July,Scoot,0,2026-02-03T15:15:31.717286
+"Goa, India",462.0,2026-07-09,2026-07-15,1 Week,July,Air India and Air India Express,1,2026-02-03T15:15:31.717290
+"Beijing, China",392.0,2026-07-05,2026-07-14,1 Week,July,Royal Brunei,1,2026-02-03T15:15:31.717294
+"Osaka, Japan",355.0,2026-07-06,2026-07-14,1 Week,July,"AirAsia, AirAsia X, and Peach Aviation",1,2026-02-03T15:15:31.717298
+"Shanghai, China",308.0,2026-07-02,2026-07-09,1 Week,July,"Spring, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.717303
+"Hội An, Vietnam",272.0,2026-07-02,2026-07-09,1 Week,July,Batik Air and Vietjet,1,2026-02-03T15:15:31.717307
+"Bengaluru, India",206.0,2026-07-02,2026-07-08,1 Week,July,Air India and Air India Express,1,2026-02-03T15:15:31.717311
+"Hạ Long Bay, Vietnam",200.0,2026-07-30,2026-08-06,1 Week,July,Scoot,0,2026-02-03T15:15:31.717316
+"Abu Dhabi, United Arab Emirates",549.0,2026-07-26,2026-08-02,1 Week,July,IndiGo,1,2026-02-03T15:15:31.717320
+"Chennai, India",204.0,2026-07-17,2026-07-24,1 Week,July,Scoot,0,2026-02-03T15:15:31.717324
+"Varanasi, India",509.0,2026-07-06,2026-07-13,1 Week,July,Air India and Air India Express,1,2026-02-03T15:15:31.717328
+"Agra, India",306.0,2026-07-13,2026-07-20,1 Week,July,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.717332
+"Udaipur, India",500.0,2026-07-02,2026-07-08,1 Week,July,Air India,1,2026-02-03T15:15:31.717336
+"Ko Samui, Thailand",341.0,2026-07-30,2026-08-06,1 Week,July,Scoot,0,2026-02-03T15:15:31.717340
+"Kolkata, India",261.0,2026-07-04,2026-07-10,1 Week,July,IndiGo and AirAsia,1,2026-02-03T15:15:31.717344
+"Taipei City, Taiwan",218.0,2026-07-06,2026-07-12,1 Week,July,Scoot,0,2026-02-03T15:15:31.717348
+"Kochi, India",270.0,2026-07-02,2026-07-08,1 Week,July,Air India,1,2026-02-03T15:15:31.717351
+"Kathmandu, Nepal",562.0,2026-07-02,2026-07-08,1 Week,July,Air India and Thai Lion Air,1,2026-02-03T15:15:31.717355
+"Manila, Philippines",192.0,2026-07-02,2026-07-08,1 Week,July,Cebu Pacific,0,2026-02-03T15:15:31.717359
+"Bahrain, Bahrain",1082.0,2026-07-27,2026-08-02,1 Week,July,Emirates and flydubai,1,2026-02-03T15:15:31.717363
+"Macao, Macao",285.0,2026-07-05,2026-07-14,1 Week,July,Thai Lion Air,1,2026-02-03T15:15:31.717367
+"Hyderabad, India",259.0,2026-07-02,2026-07-08,1 Week,July,IndiGo and AirAsia,1,2026-02-03T15:15:31.717371
+"Shimla, India",306.0,2026-07-13,2026-07-20,1 Week,July,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.717381
+"Da Nang, Vietnam",272.0,2026-07-02,2026-07-09,1 Week,July,Batik Air and Vietjet,1,2026-02-03T15:15:31.717386
+"Phi Phi Islands, Thailand",143.0,2026-07-05,2026-07-11,1 Week,July,Scoot,0,2026-02-03T15:15:31.717390
+"Rishikesh, India",306.0,2026-07-13,2026-07-22,1 Week,July,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.717394
+"Manali, India",306.0,2026-07-13,2026-07-20,1 Week,July,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.717397
+"Jodhpur, India",310.0,2026-07-02,2026-07-08,1 Week,July,Air India,1,2026-02-03T15:15:31.717401
+"Munnar, India",270.0,2026-07-02,2026-07-08,1 Week,July,Air India,1,2026-02-03T15:15:31.717405
+"Phú Quốc, Vietnam",201.0,2026-07-23,2026-07-29,1 Week,July,Scoot,0,2026-02-03T15:15:31.717409
+"Ranthambore National Park, India",366.0,2026-07-05,2026-07-13,1 Week,July,IndiGo and Air India,1,2026-02-03T15:15:31.717413
+"Colombo, Sri Lanka",308.0,2026-07-05,2026-07-11,1 Week,July,AirAsia,1,2026-02-03T15:15:31.717417
+"Puducherry, India",204.0,2026-07-17,2026-07-24,1 Week,July,Scoot,0,2026-02-03T15:15:31.717423
+"Sapporo, Japan",565.0,2026-07-09,2026-07-16,1 Week,July,Cathay Pacific,1,2026-02-03T15:15:31.717429
+"Chengdu, China",311.0,2026-07-02,2026-07-08,1 Week,July,"AirAsia, AirAsia X, and Thai Lion Air",1,2026-02-03T15:15:31.717434
+"Xi'An, China",369.0,2026-07-17,2026-07-23,1 Week,July,Thai Lion Air and Scoot,1,2026-02-03T15:15:31.717438
+"Boracay, Philippines",240.0,2026-07-06,2026-07-13,1 Week,July,Cebu Pacific,1,2026-02-03T15:15:31.717442
+"Cebu City, Philippines",214.0,2026-07-02,2026-07-08,1 Week,July,Cebu Pacific,0,2026-02-03T15:15:31.717446
+"Kaziranga National Park, India",351.0,2026-07-02,2026-07-08,1 Week,July,Air India and Air India Express,1,2026-02-03T15:15:31.717451
+"Guwahati, India",351.0,2026-07-02,2026-07-08,1 Week,July,Air India and Air India Express,1,2026-02-03T15:15:31.717454
+"Tashkent, Uzbekistan",590.0,2026-07-20,2026-07-27,1 Week,July,AirAsia and AirAsia X,1,2026-02-03T15:15:31.717459
+"Niseko, Japan",565.0,2026-07-09,2026-07-16,1 Week,July,Cathay Pacific,1,2026-02-03T15:15:31.717463
+"Almaty, Kazakhstan",737.0,2026-07-03,2026-07-09,1 Week,July,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:31.717466
+"Guam, Guam",747.0,2026-07-02,2026-07-08,1 Week,July,Philippine Airlines,1,2026-02-03T15:15:31.717470
+"Harbin, China",428.0,2026-07-03,2026-07-09,1 Week,July,China Southern and Chongqing Airlines,2,2026-02-03T15:15:31.717476
+"Issyk Kul, Kyrgyzstan",737.0,2026-07-03,2026-07-09,1 Week,July,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:31.717485
+"Hong Kong, Hong Kong",290.0,2026-07-23,2026-08-06,2 Weeks,July,Scoot,0,2026-02-03T15:15:31.774450
+"Hanoi, Vietnam",200.0,2026-07-02,2026-07-16,2 Weeks,July,Scoot,0,2026-02-03T15:15:31.774470
+"Bangkok, Thailand",149.0,2026-07-06,2026-07-22,2 Weeks,July,Thai Lion Air,0,2026-02-03T15:15:31.774476
+"Tokyo, Japan",395.0,2026-07-13,2026-07-29,2 Weeks,July,Scoot and ZIPAIR Tokyo,0,2026-02-03T15:15:31.774480
+"Ho Chi Minh City, Vietnam",159.0,2026-07-02,2026-07-15,2 Weeks,July,Scoot and Vietjet,0,2026-02-03T15:15:31.774484
+"Mumbai, India",209.0,2026-07-09,2026-07-22,2 Weeks,July,Air India,2,2026-02-03T15:15:31.774489
+"New Delhi, India",306.0,2026-07-13,2026-07-29,2 Weeks,July,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.774493
+"Federal Territory of Kuala Lumpur, Malaysia",98.0,2026-07-05,2026-07-18,2 Weeks,July,AirAsia,0,2026-02-03T15:15:31.774497
+"Dubai, United Arab Emirates",472.0,2026-07-09,2026-07-23,2 Weeks,July,IndiGo,1,2026-02-03T15:15:31.774502
+"Kyoto, Japan",355.0,2026-07-06,2026-07-21,2 Weeks,July,"AirAsia, AirAsia X, and Peach Aviation",1,2026-02-03T15:15:31.774506
+"Chiang Mai, Thailand",283.0,2026-07-27,2026-08-12,2 Weeks,July,Scoot,0,2026-02-03T15:15:31.774511
+"Jaipur, India",366.0,2026-07-05,2026-07-20,2 Weeks,July,IndiGo and Air India,1,2026-02-03T15:15:31.774515
+"Phuket, Thailand",144.0,2026-07-13,2026-07-29,2 Weeks,July,Scoot,0,2026-02-03T15:15:31.774519
+"Seoul, South Korea",296.0,2026-07-20,2026-08-05,2 Weeks,July,Scoot,0,2026-02-03T15:15:31.774523
+"Goa, India",462.0,2026-07-13,2026-07-29,2 Weeks,July,Air India and Air India Express,1,2026-02-03T15:15:31.774527
+"Beijing, China",392.0,2026-07-05,2026-07-21,2 Weeks,July,Royal Brunei,1,2026-02-03T15:15:31.774531
+"Osaka, Japan",355.0,2026-07-06,2026-07-21,2 Weeks,July,"AirAsia, AirAsia X, and Peach Aviation",1,2026-02-03T15:15:31.774535
+"Shanghai, China",308.0,2026-07-02,2026-07-15,2 Weeks,July,"Spring, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.774539
+"Hội An, Vietnam",272.0,2026-07-02,2026-07-15,2 Weeks,July,Batik Air and Vietjet,1,2026-02-03T15:15:31.774544
+"Bengaluru, India",206.0,2026-07-02,2026-07-15,2 Weeks,July,Air India and Air India Express,1,2026-02-03T15:15:31.774548
+"Hạ Long Bay, Vietnam",200.0,2026-07-30,2026-08-13,2 Weeks,July,Scoot,0,2026-02-03T15:15:31.774552
+"Abu Dhabi, United Arab Emirates",472.0,2026-07-09,2026-07-23,2 Weeks,July,IndiGo,1,2026-02-03T15:15:31.774556
+"Chennai, India",204.0,2026-07-24,2026-08-07,2 Weeks,July,Scoot,0,2026-02-03T15:15:31.774560
+"Varanasi, India",501.0,2026-07-09,2026-07-22,2 Weeks,July,Air India and Air India Express,1,2026-02-03T15:15:31.774564
+"Agra, India",306.0,2026-07-13,2026-07-29,2 Weeks,July,"IndiGo, AirAsia, and AirAsia X",1,2026-02-03T15:15:31.774568
+"Ko Samui, Thailand",349.0,2026-07-23,2026-08-06,2 Weeks,July,Scoot,0,2026-02-03T15:15:31.774574
+"Kolkata, India",261.0,2026-07-04,2026-07-17,2 Weeks,July,IndiGo and AirAsia,1,2026-02-03T15:15:31.774578
+"Taipei City, Taiwan",218.0,2026-07-02,2026-07-16,2 Weeks,July,Scoot,0,2026-02-03T15:15:31.774583
+"Kochi, India",270.0,2026-07-02,2026-07-15,2 Weeks,July,Air India,1,2026-02-03T15:15:31.774587
+"Kathmandu, Nepal",558.0,2026-07-02,2026-07-15,2 Weeks,July,Air India and Thai Lion Air,1,2026-02-03T15:15:31.774591
+"Manila, Philippines",192.0,2026-07-13,2026-07-29,2 Weeks,July,Cebu Pacific,0,2026-02-03T15:15:31.774595
+"Bahrain, Bahrain",1082.0,2026-07-27,2026-08-09,2 Weeks,July,Emirates and flydubai,1,2026-02-03T15:15:31.774599
+"Macao, Macao",285.0,2026-07-05,2026-07-21,2 Weeks,July,Thai Lion Air,1,2026-02-03T15:15:31.774603
+"Hyderabad, India",259.0,2026-07-09,2026-07-22,2 Weeks,July,IndiGo and AirAsia,1,2026-02-03T15:15:31.774607
+"Da Nang, Vietnam",272.0,2026-07-02,2026-07-15,2 Weeks,July,Batik Air and Vietjet,1,2026-02-03T15:15:31.774612
+"Munnar, India",270.0,2026-07-02,2026-07-15,2 Weeks,July,Air India,1,2026-02-03T15:15:31.774618
+"Phú Quốc, Vietnam",201.0,2026-07-09,2026-07-22,2 Weeks,July,Scoot,0,2026-02-03T15:15:31.774623
+"Ranthambore National Park, India",366.0,2026-07-05,2026-07-20,2 Weeks,July,IndiGo and Air India,1,2026-02-03T15:15:31.774627
+"Colombo, Sri Lanka",308.0,2026-07-05,2026-07-18,2 Weeks,July,AirAsia,1,2026-02-03T15:15:31.774631
+"Puducherry, India",204.0,2026-07-24,2026-08-07,2 Weeks,July,Scoot,0,2026-02-03T15:15:31.774636
+"Sapporo, Japan",565.0,2026-07-02,2026-07-16,2 Weeks,July,Cathay Pacific,1,2026-02-03T15:15:31.774644
+"Boracay, Philippines",256.0,2026-07-06,2026-07-19,2 Weeks,July,Cebu Pacific,1,2026-02-03T15:15:31.774657
+"Cebu City, Philippines",214.0,2026-07-02,2026-07-16,2 Weeks,July,Cebu Pacific,0,2026-02-03T15:15:31.774665
+"Kaziranga National Park, India",351.0,2026-07-02,2026-07-15,2 Weeks,July,Air India and Air India Express,1,2026-02-03T15:15:31.774681
+"Guwahati, India",351.0,2026-07-02,2026-07-15,2 Weeks,July,Air India and Air India Express,1,2026-02-03T15:15:31.774692
+"Niseko, Japan",565.0,2026-07-02,2026-07-16,2 Weeks,July,Cathay Pacific,1,2026-02-03T15:15:31.774702
+"Almaty, Kazakhstan",733.0,2026-07-03,2026-07-16,2 Weeks,July,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:31.774711
+"Guam, Guam",747.0,2026-07-02,2026-07-15,2 Weeks,July,Philippine Airlines,1,2026-02-03T15:15:31.774722
+"Harbin, China",441.0,2026-07-03,2026-07-16,2 Weeks,July,China Southern and Chongqing Airlines,2,2026-02-03T15:15:31.774734
+"Issyk Kul, Kyrgyzstan",733.0,2026-07-03,2026-07-16,2 Weeks,July,"AirAsia, AirAsia X, Thai AirAsia, and Thai AirAsia X",1,2026-02-03T15:15:31.774757
