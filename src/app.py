@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import json
 import hashlib
+import os
 import pandas as pd
 import streamlit as st
 from pathlib import Path
@@ -30,6 +31,33 @@ st.set_page_config(
 PROJECT_ROOT = Path(__file__).parent.parent
 FLIGHTS_CSV = PROJECT_ROOT / "data" / "flights.csv"
 WISHLIST_JSON = PROJECT_ROOT / "data" / "wishlist.json"
+
+
+def require_password() -> None:
+    """
+    Gate the app behind a simple password.
+
+    Uses Streamlit secrets (APP_PASSWORD) or falls back to env var.
+    If no password is configured, the gate is skipped.
+    """
+    configured_password = st.secrets.get(
+        "APP_PASSWORD") or os.getenv("APP_PASSWORD")
+    if not configured_password:
+        return
+
+    if "authed" not in st.session_state:
+        st.session_state.authed = False
+
+    if not st.session_state.authed:
+        st.subheader("🔒 Protected")
+        password = st.text_input("Password", type="password")
+        if st.button("Login"):
+            if password == configured_password:
+                st.session_state.authed = True
+                st.rerun()
+            else:
+                st.error("Incorrect password")
+        st.stop()
 
 
 @st.cache_data(ttl=300)  # Cache for 5 minutes
@@ -162,7 +190,7 @@ def render_sidebar(df: pd.DataFrame, wishlist: list[str]) -> tuple[float, bool, 
     # Wishlist section
     st.sidebar.markdown("---")
     st.sidebar.markdown(f"### ❤️ Wishlist ({len(wishlist)} items)")
-    
+
     if wishlist:
         with st.sidebar.expander("View saved flights", expanded=False):
             for i, destination in enumerate(wishlist):
@@ -175,7 +203,8 @@ def render_sidebar(df: pd.DataFrame, wishlist: list[str]) -> tuple[float, bool, 
                         save_wishlist(wishlist)
                         st.rerun()
     else:
-        st.sidebar.info("No flights saved yet. Click on any flight to view details and save!")
+        st.sidebar.info(
+            "No flights saved yet. Click on any flight to view details and save!")
 
     # Info section
     st.sidebar.markdown("---")
@@ -322,7 +351,8 @@ def show_flight_modal(flight: pd.Series) -> None:
     last_updated = "Unknown"
     if fetched_at and not pd.isna(fetched_at):
         try:
-            fetch_time = datetime.fromisoformat(str(fetched_at).replace('Z', '+00:00'))
+            fetch_time = datetime.fromisoformat(
+                str(fetched_at).replace('Z', '+00:00'))
             now = datetime.utcnow()
             delta = (now - fetch_time.replace(tzinfo=None)).total_seconds()
             if delta < 3600:
@@ -351,7 +381,8 @@ def show_flight_modal(flight: pd.Series) -> None:
         price_badge_text = "No change"
 
     # Google Flights URL (use airport code if available, otherwise destination name)
-    search_param = airport_code if airport_code else destination.split(",")[0].strip()
+    search_param = airport_code if airport_code else destination.split(",")[
+        0].strip()
     google_flights_url = f"https://www.google.com/travel/explore?q={quote(search_param)}"
 
     # Flight details text for copying
@@ -363,51 +394,59 @@ def show_flight_modal(flight: pd.Series) -> None:
 
     # Flight image
     st.image(thumbnail, use_container_width=True)
-    
+
     # Flight title and price
     st.markdown(f"## {destination}")
     col_price, col_badge = st.columns([1, 1])
     with col_price:
-        st.markdown(f"<h1 style='color: #1a1a2e; margin: 0;'>${float(price):,.0f}</h1>", unsafe_allow_html=True)
+        st.markdown(
+            f"<h1 style='color: #1a1a2e; margin: 0;'>${float(price):,.0f}</h1>", unsafe_allow_html=True)
     with col_badge:
-        st.markdown(f'<div style="padding-top: 20px;"><span style="background-color: {price_badge_color}; color: white; padding: 8px 16px; border-radius: 20px; font-size: 1rem; font-weight: 600;">{price_badge_text}</span></div>', unsafe_allow_html=True)
-    
+        st.markdown(
+            f'<div style="padding-top: 20px;"><span style="background-color: {price_badge_color}; color: white; padding: 8px 16px; border-radius: 20px; font-size: 1rem; font-weight: 600;">{price_badge_text}</span></div>', unsafe_allow_html=True)
+
     st.markdown("---")
-    
+
     # Details section
     st.markdown("### 📋 Flight Details")
     col1, col2 = st.columns(2)
     with col1:
-        st.markdown(f"**Airport Code:** {airport_code if airport_code else 'N/A'}")
+        st.markdown(
+            f"**Airport Code:** {airport_code if airport_code else 'N/A'}")
         st.markdown(f"**Airline:** {airline if airline else 'N/A'}")
-        st.markdown(f"**Stops:** {'Direct' if stops == 0 else f'{int(stops)} stop(s)'}")
+        st.markdown(
+            f"**Stops:** {'Direct' if stops == 0 else f'{int(stops)} stop(s)'}")
     with col2:
         st.markdown(f"**Duration:** {duration_str}")
-        st.markdown(f"**Trip Length:** {travel_duration if travel_duration else 'N/A'}")
-    
+        st.markdown(
+            f"**Trip Length:** {travel_duration if travel_duration else 'N/A'}")
+
     st.markdown("---")
-    
+
     # Pricing section
     st.markdown("### 💰 Pricing")
     col1, col2 = st.columns(2)
     with col1:
         st.metric("Current Price", f"${float(price):,.0f}")
     with col2:
-        st.metric("Previous Price", f"${float(previous_price):,.0f}", delta=f"${float(price_diff):,.0f}" if price_diff != 0 else None)
-    
+        st.metric("Previous Price", f"${float(previous_price):,.0f}",
+                  delta=f"${float(price_diff):,.0f}" if price_diff != 0 else None)
+
     st.markdown("---")
-    
+
     # Timing section
     st.markdown("### 📅 Travel Dates")
     col1, col2 = st.columns(2)
     with col1:
-        st.markdown(f"**Departure:** {start_date if start_date and not pd.isna(start_date) else 'N/A'}")
+        st.markdown(
+            f"**Departure:** {start_date if start_date and not pd.isna(start_date) else 'N/A'}")
     with col2:
-        st.markdown(f"**Return:** {end_date if end_date and not pd.isna(end_date) else 'N/A'}")
+        st.markdown(
+            f"**Return:** {end_date if end_date and not pd.isna(end_date) else 'N/A'}")
     st.markdown(f"**Last Updated:** {last_updated}")
-    
+
     st.markdown("---")
-    
+
     # Action buttons
     col1, col2 = st.columns(2)
     with col1:
@@ -418,11 +457,11 @@ def show_flight_modal(flight: pd.Series) -> None:
                 st.session_state.wishlist.append(destination)
             save_wishlist(st.session_state.wishlist)
             st.rerun()
-    
+
     with col2:
         if st.button("📋 Copy Details", key="modal_copy_btn", use_container_width=True):
             st.code(copy_text, language=None)
-    
+
     # Google Flights button
     st.markdown(f'<a href="{google_flights_url}" target="_blank" style="display: block; text-align: center; background-color: #007bff; color: white; padding: 12px 16px; border-radius: 8px; text-decoration: none; font-weight: 600; margin-top: 12px;">🌐 View on Google Flights</a>', unsafe_allow_html=True)
 
@@ -488,7 +527,7 @@ def render_flight_card(flight: pd.Series, flight_unique_id: str) -> None:
 </div>'''
 
     st.markdown(card_html, unsafe_allow_html=True)
-    
+
     # Use button below card to make it clickable with unique key
     if st.button("View Details →", key=f"btn_{flight_unique_id}", use_container_width=True, type="secondary"):
         show_flight_modal(flight)
@@ -525,7 +564,7 @@ def render_flight_grid(df: pd.DataFrame) -> None:
                 start_date = flight.get("start_date", "")
                 unique_string = f"{destination}_{travel_duration}_{month}_{start_date}_{flight_idx}"
                 unique_id = hashlib.md5(unique_string.encode()).hexdigest()[:8]
-                
+
                 render_flight_card(flight, unique_id)
         st.markdown("<div style='height: 20px;'></div>",
                     unsafe_allow_html=True)
@@ -533,6 +572,8 @@ def render_flight_grid(df: pd.DataFrame) -> None:
 
 def main() -> None:
     """Main entry point for the Streamlit dashboard."""
+    require_password()
+
     # Initialize session state
     if "wishlist" not in st.session_state:
         st.session_state.wishlist = load_wishlist()
@@ -551,7 +592,8 @@ def main() -> None:
         return
 
     # Render sidebar and get filter values
-    max_budget, show_drops_only, selected_month = render_sidebar(df, st.session_state.wishlist)
+    max_budget, show_drops_only, selected_month = render_sidebar(
+        df, st.session_state.wishlist)
 
     # Apply filters
     filtered_df = df.copy()
