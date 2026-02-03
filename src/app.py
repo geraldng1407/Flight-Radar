@@ -450,11 +450,13 @@ def show_flight_modal(flight: pd.Series) -> None:
 
             if not flight_history.empty and len(flight_history) > 0:
                 # Sort by fetched_at timestamp
-                flight_history["fetched_at"] = pd.to_datetime(flight_history["fetched_at"])
+                flight_history["fetched_at"] = pd.to_datetime(
+                    flight_history["fetched_at"])
                 flight_history = flight_history.sort_values("fetched_at")
 
                 # Calculate price changes for coloring markers
-                flight_history["price_change"] = flight_history["price"].diff().fillna(0)
+                flight_history["price_change"] = flight_history["price"].diff().fillna(
+                    0)
 
                 # Create color list: green for drops, red for increases, blue for no change/first
                 colors = []
@@ -475,7 +477,8 @@ def show_flight_modal(flight: pd.Series) -> None:
                     y=flight_history["price"],
                     mode="lines+markers",
                     line=dict(color="#1a1a2e", width=2),
-                    marker=dict(size=10, color=colors, line=dict(width=2, color="white")),
+                    marker=dict(size=10, color=colors,
+                                line=dict(width=2, color="white")),
                     hovertemplate="<b>%{x|%b %d, %Y %H:%M}</b><br>Price: $%{y:,.0f}<extra></extra>",
                     name="Price"
                 ))
@@ -484,8 +487,10 @@ def show_flight_modal(flight: pd.Series) -> None:
                 if len(flight_history) > 1:
                     min_price = flight_history["price"].min()
                     max_price = flight_history["price"].max()
-                    min_row = flight_history[flight_history["price"] == min_price].iloc[0]
-                    max_row = flight_history[flight_history["price"] == max_price].iloc[0]
+                    min_row = flight_history[flight_history["price"]
+                                             == min_price].iloc[0]
+                    max_row = flight_history[flight_history["price"]
+                                             == max_price].iloc[0]
 
                     fig.add_annotation(
                         x=min_row["fetched_at"], y=min_price,
@@ -511,7 +516,8 @@ def show_flight_modal(flight: pd.Series) -> None:
                     hovermode="x unified",
                     showlegend=False,
                     xaxis=dict(showgrid=True, gridcolor="#f0f0f0"),
-                    yaxis=dict(showgrid=True, gridcolor="#f0f0f0", tickprefix="$")
+                    yaxis=dict(showgrid=True, gridcolor="#f0f0f0",
+                               tickprefix="$")
                 )
 
                 st.plotly_chart(fig, use_container_width=True)
@@ -526,9 +532,11 @@ def show_flight_modal(flight: pd.Series) -> None:
                     with col3:
                         st.caption(f"📊 Data points: {len(flight_history)}")
             else:
-                st.info("📭 No price history available yet. Check back after the next data refresh!")
+                st.info(
+                    "📭 No price history available yet. Check back after the next data refresh!")
         else:
-            st.info("📭 No price history available yet. Check back after the next data refresh!")
+            st.info(
+                "📭 No price history available yet. Check back after the next data refresh!")
     except Exception as e:
         st.warning(f"Could not load price history: {e}")
 

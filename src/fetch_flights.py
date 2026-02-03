@@ -304,7 +304,8 @@ def calculate_price_diff(new_data: pd.DataFrame, previous_data: pd.DataFrame) ->
 
     # Also preserve historical previous_price if it exists
     if "previous_price" in previous_data.columns:
-        hist_prev_prices = previous_data.set_index("_composite_key")["previous_price"].to_dict()
+        hist_prev_prices = previous_data.set_index(
+            "_composite_key")["previous_price"].to_dict()
     else:
         hist_prev_prices = prev_prices.copy()
 
@@ -411,7 +412,8 @@ def append_to_price_history(df: pd.DataFrame) -> None:
                 last_timestamp = pd.to_datetime(existing["fetched_at"]).max()
                 now = datetime.utcnow()
                 if (now - last_timestamp).total_seconds() < 3600:
-                    logger.info("Price history already updated in last hour. Skipping append.")
+                    logger.info(
+                        "Price history already updated in last hour. Skipping append.")
                     return
         except Exception as e:
             logger.warning(f"Could not check duplicate prevention: {e}")
@@ -426,7 +428,8 @@ def append_to_price_history(df: pd.DataFrame) -> None:
 
     # Append to existing history or create new file
     if PRICE_HISTORY_CSV.exists():
-        history_snapshot.to_csv(PRICE_HISTORY_CSV, mode='a', header=False, index=False)
+        history_snapshot.to_csv(
+            PRICE_HISTORY_CSV, mode='a', header=False, index=False)
     else:
         history_snapshot.to_csv(PRICE_HISTORY_CSV, index=False)
 
@@ -449,7 +452,8 @@ def cleanup_old_flights(flights_df: pd.DataFrame, history_df: pd.DataFrame) -> t
     # Filter flights.csv
     if not flights_df.empty and 'end_date' in flights_df.columns:
         flights_df = flights_df.copy()
-        flights_df['_end_date_parsed'] = pd.to_datetime(flights_df['end_date'], errors='coerce').dt.date
+        flights_df['_end_date_parsed'] = pd.to_datetime(
+            flights_df['end_date'], errors='coerce').dt.date
         before_count = len(flights_df)
         flights_df = flights_df[flights_df['_end_date_parsed'] >= today]
         flights_df = flights_df.drop(columns=['_end_date_parsed'])
@@ -460,13 +464,15 @@ def cleanup_old_flights(flights_df: pd.DataFrame, history_df: pd.DataFrame) -> t
     # Filter price_history.csv similarly
     if not history_df.empty and 'end_date' in history_df.columns:
         history_df = history_df.copy()
-        history_df['_end_date_parsed'] = pd.to_datetime(history_df['end_date'], errors='coerce').dt.date
+        history_df['_end_date_parsed'] = pd.to_datetime(
+            history_df['end_date'], errors='coerce').dt.date
         before_count = len(history_df)
         history_df = history_df[history_df['_end_date_parsed'] >= today]
         history_df = history_df.drop(columns=['_end_date_parsed'])
         removed = before_count - len(history_df)
         if removed > 0:
-            logger.info(f"Cleaned {removed} expired entries from price_history.csv")
+            logger.info(
+                f"Cleaned {removed} expired entries from price_history.csv")
 
     return flights_df, history_df
 
@@ -500,7 +506,8 @@ def main() -> None:
 
     # Load and clean price history (remove expired flights)
     price_history = load_price_history()
-    previous_data, price_history = cleanup_old_flights(previous_data, price_history)
+    previous_data, price_history = cleanup_old_flights(
+        previous_data, price_history)
 
     # Save cleaned price history if cleanup removed any entries
     if not price_history.empty:
