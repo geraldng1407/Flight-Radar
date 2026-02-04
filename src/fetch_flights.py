@@ -153,8 +153,8 @@ def fetch_flights_from_api(api_key: str, travel_duration: str, month: str) -> li
         results = search.get_dict()
 
         if "error" in results:
-            logger.error(f"API Error: {results['error']}")
-            sys.exit(1)
+            logger.warning(f"API Error: {results['error']}. Skipping this request.")
+            return []
 
         # The API returns data under different keys depending on the response
         # Try multiple possible keys: flights, destinations, results
@@ -175,8 +175,8 @@ def fetch_flights_from_api(api_key: str, travel_duration: str, month: str) -> li
         return flights
 
     except Exception as e:
-        logger.error(f"Failed to fetch flights from API: {e}")
-        sys.exit(1)
+        logger.warning(f"Failed to fetch flights from API: {e}. Skipping this request.")
+        return []
 
 
 def parse_flight_data(flights: list[dict], travel_duration: str, month: str) -> pd.DataFrame:
