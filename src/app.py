@@ -19,6 +19,14 @@ import plotly.graph_objects as go
 from pathlib import Path
 from datetime import datetime
 from urllib.parse import quote
+from streamlit_autorefresh import st_autorefresh
+
+# Auto-refresh every 10 minutes (600000 ms) with debounce enabled
+# This ensures the dashboard displays updated flight data without tying up server resources
+st_autorefresh(interval=600000, limit=None, key="flight_radar_refresh")
+
+# Clear cache on refresh to ensure latest data is loaded from CSV
+st.cache_data.clear()
 
 # Page configuration
 st.set_page_config(
